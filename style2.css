@@ -852,7 +852,7 @@ input {
 .body-div-header,
 .body-footer {
   display: flex;
-  background-color: sandybrown;
+  background-color: rgb(242, 155, 60);
 }
 
 .common-15,
@@ -1055,7 +1055,7 @@ input {
 
 .body-t-div-col-sm-8button-btn {
   row-gap: 18px;
-  column-gap: 208px;
+  column-gap: 0px;
   flex-grow: 1;
 }
 
@@ -1083,7 +1083,7 @@ input {
 }
 
 .body-entrar-ou-criar-conta {
-  width: 131px;
+  width: none;
   line-height: 21px;
   font-weight: 700;
   flex-shrink: 0;
@@ -1101,12 +1101,16 @@ input {
   padding-left: 128px;
   padding-right: 128px;
   z-index: 2;
+  margin: 0;
+  width: 100vw;
+  box-sizing: border-box;
+  position: relative;
 }
 
 .body-div-loja-container {
   mix-blend-mode: normal;
   row-gap: 20px;
-  column-gap: 338px;
+  column-gap: 280px;
   flex-grow: 1;
   padding-top: 0.5px;
   font-size: 14px;
@@ -1156,7 +1160,8 @@ input {
   flex-grow: 1;
   max-width: 262px;
   padding-bottom: 6px;
-  padding-left: 12px;
+  padding-left: 94px;
+  padding-right: 105px;
   padding-top: 7px;
   border-top-left-radius: 4px;
   border-top-right-radius: 4px;
@@ -1531,8 +1536,8 @@ input {
 }
 
 .body-t-div-slide-div-slide-div-slide-div-slide-div-slide {
-  row-gap: 40px;
-  column-gap: 40px;
+  row-gap: 100px;
+  column-gap: 39.4px;
 }
 
 .body-div-slide {
