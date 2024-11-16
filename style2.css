@@ -3989,7 +3989,7 @@ input {
 
 /* Estilo do campo de busca */
 .search-input {
-  width: 100%; /* ocupar o espaço do container */
+  width: 100%; /* Ocupar o espaço do container */
   max-width: 250px;
   height: 40px;
   padding: 0 15px 2 35px; 
