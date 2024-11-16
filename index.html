@@ -35,7 +35,7 @@
                 </div>
               </div>
             </div>
-            <div class="body-t-div-header-tnav-barra-navi</section>gation">
+            <div class="body-t-div-header-tnav-barra-navigation">
               <div class="body-div-header">
                 <div class="body-div-loja-container">
                   <div class="body-tt-div-col-sm-7logo-da-loja">
@@ -43,15 +43,34 @@
                       <div class="body-div-col-sm-1">
                         <div class="body-t-div-col-sm-1">
                           <div class="body-div-col-sm-2">
-                            <div class="body-input-form-control">
-                              <div class="body-procurar-na-loja">
-                                Procurar ...
-                              </div>
+                            <!-- Campo de busca -->
+                            <div class="body-input-form-control" style="position: relative;">
+                              <input
+                                id="search-input"
+                                class="search-input"
+                                placeholder="Procurar"
+                                type="search"
+                                name="q"
+                                aria-label="Procurar"
+                                required
+                                oninvalid="this.setCustomValidity('Por favor, insira um termo de busca.')"
+                                oninput="this.setCustomValidity('')"
+                              />
+                              <!-- Ícone de busca -->
+                              <img
+                                src="assets/path-to-search-icon.png"
+                                alt="Buscar"
+                                style="position: absolute; top: 50%; left: 20px; transform: translateY(-50%); width: 15px; height: 15px;"
+                              />
                             </div>
                           </div>
                         </div>
                       </div>
                     </div>
+                  </div>
+                </div>
+              </div>
+            </div>            
                     <img
                       src="assets/logo.jpg"
                       loading="lazy"
