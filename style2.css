@@ -1067,7 +1067,7 @@ input {
 .body-button-btn {
   mix-blend-mode: normal;
   padding-bottom: 7px;
-  padding-left: 15px;
+  padding-left: 120px;
   padding-top: 7px;
 }
 
@@ -1109,8 +1109,7 @@ input {
 
 .body-div-loja-container {
   mix-blend-mode: normal;
-  row-gap: 20px;
-  column-gap: 280px;
+  column-gap: 100px;
   flex-grow: 1;
   padding-top: 0.5px;
   font-size: 14px;
@@ -1149,6 +1148,8 @@ input {
   mix-blend-mode: normal;
   padding-left: 15px;
   padding-right: 15px;
+  position: relative;
+  bottom: 18px;
 }
 
 .body-input-form-control {
@@ -1165,6 +1166,7 @@ input {
   padding-top: 7px;
   border-top-left-radius: 30px;
   border-top-right-radius: 30px;
+  margin-right: 60px;
 }
 
 .body-procurar-na-loja {
@@ -1186,6 +1188,7 @@ input {
   width: 260px;
   height: 115px;
   flex-shrink: 0;
+  margin-right: 440px;
 }
 
 .body-t-link-dropdown-toggle {
@@ -1202,11 +1205,14 @@ input {
   border-bottom-right-radius: 4px;
   padding-bottom: 6.5px;
   padding-left: 11px;
-  padding-right: 12px;
+  padding-right: 13px;
   padding-top: 5.5px;
   border-top-left-radius: 4px;
   border-top-right-radius: 4px;
   z-index: 0;
+  position: relative;
+  left: 950px;
+  top: 51px;
 }
 
 .body-t-svg-1 {
@@ -3500,8 +3506,6 @@ input {
 
 .body-t-footer {
   align-self: stretch;
-  padding-left: 17px;
-  padding-right: 1px;
 }
 
 .body-footer {
@@ -3988,19 +3992,20 @@ input {
 
 /* Estilo do campo de busca */
 .search-input {
-  width: 100%; /* Ajusta para ocupar o espaço do container */
-  max-width: 250px; /* Tamanho máximo */
+  width: 100%; /* ocupar o espaço do container */
+  max-width: 250px;
   height: 40px;
-  padding: 0 15px 0 35px; /* Espaço para o ícone à esquerda */
+  padding: 0 15px 2 35px; 
   font-size: 16px;
-  border: 2px solid #ccc;
+  border: 2.5px solid #ccc;
   border-radius: 20px;
   outline: none;
+  color: #fff; 
   transition: all 0.3s ease-in-out;
 }
 
 .search-input:focus {
-  border-color: #007bff; /* Cor ao focar */
+  border-color: #007bff; /* Cor ao escrever */
   box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
 }
 
