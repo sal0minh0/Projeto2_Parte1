@@ -1240,7 +1240,7 @@ input {
   mix-blend-mode: normal;
   align-items: flex-start;
   margin-bottom: -1.5px;
-  background-image: url(/assets/nav-barra-navigation.png);
+  background-image: url(assets/nav-barra-navigation.png);
   background-size: 104% 100%;
   background-position: -53.9px 0px;
   background-repeat: no-repeat;
@@ -1460,7 +1460,7 @@ input {
 
 .body-image {
   mix-blend-mode: normal;
-  background-image: url(/assets/image.jpeg);
+  background-image: url(assets/image.jpg);
   background-size: 100% 111%;
   background-position: 0px 0px;
   background-repeat: no-repeat;
@@ -1549,7 +1549,7 @@ input {
 
 .body-image-1 {
   mix-blend-mode: normal;
-  background-image: url(/assets/image-1.jpeg);
+  background-image: url(assets/image-1.jpg);
   flex-shrink: 0;
 }
 
@@ -1586,7 +1586,7 @@ input {
 
 .body-image-3 {
   mix-blend-mode: normal;
-  background-image: url(/assets/image-3.jpeg);
+  background-image: url(assets/image-3.jpg);
   background-position: 2px -106.84px;
   max-width: 100%;
   max-height: 100%;
@@ -1607,7 +1607,7 @@ input {
 
 .body-image-4 {
   mix-blend-mode: normal;
-  background-image: url(/assets/image-4.jpeg);
+  background-image: url(assets/image-4.jpg);
   background-position: 3px -106.84px;
   max-width: 100%;
   max-height: 100%;
@@ -1628,7 +1628,7 @@ input {
 
 .body-image-5 {
   mix-blend-mode: normal;
-  background-image: url(/assets/image-5.jpeg);
+  background-image: url(assets/image-5.jpg);
   background-size: 100% 406%;
   background-position: -1px -168.15px;
   background-repeat: no-repeat;
@@ -1646,7 +1646,7 @@ input {
   border-top-width: 5px;
   mix-blend-mode: normal;
   overflow: clip;
-  background-image: url(/assets/div-product-carousel-wrapper.jpeg);
+  background-image: url(assets/div-product-carousel-wrapper.jpg);
   padding-left: 128px;
   padding-right: 128px;
   box-shadow: inset 0px -31px 35px 0px rgba(0, 0, 0, 0.25);
@@ -1800,7 +1800,7 @@ input {
 
 .body-image-image-thumb-1 {
   mix-blend-mode: normal;
-  background-image: url(/assets/image-image-thumb-1.png);
+  background-image: url(assets/image-image-thumb-1.png);
   flex-shrink: 0;
 }
 
@@ -1892,7 +1892,7 @@ input {
 
 .body-image-image-thumb-2 {
   mix-blend-mode: normal;
-  background-image: url(/assets/image-image-thumb-2.png);
+  background-image: url(assets/image-image-thumb-2.png);
   flex-shrink: 0;
 }
 
@@ -1979,7 +1979,7 @@ input {
 
 .body-image-image-thumb-3 {
   mix-blend-mode: normal;
-  background-image: url(/assets/image-image-thumb-3.png);
+  background-image: url(assets/image-image-thumb-3.png);
   flex-shrink: 0;
 }
 
@@ -2064,7 +2064,7 @@ input {
 
 .body-image-image-thumb-4 {
   mix-blend-mode: normal;
-  background-image: url(/assets/image-image-thumb-4.png);
+  background-image: url(assets/image-image-thumb-4.png);
   width: 118px;
   height: 160px;
   flex-shrink: 0;
@@ -2342,7 +2342,7 @@ input {
 
 .body-image-image-thumb-5 {
   mix-blend-mode: normal;
-  background-image: url(/assets/image-image-thumb-5.png);
+  background-image: url(assets/image-image-thumb-5.png);
   flex-shrink: 0;
 }
 
@@ -2422,7 +2422,7 @@ input {
 
 .body-image-image-thumb-6 {
   mix-blend-mode: normal;
-  background-image: url(/assets/image-image-thumb-6.png);
+  background-image: url(assets/image-image-thumb-6.png);
   flex-shrink: 0;
 }
 
@@ -2709,7 +2709,7 @@ input {
 
 .body-image-image-thumb-9 {
   mix-blend-mode: normal;
-  background-image: url(/assets/image-image-thumb-9.png);
+  background-image: url(assets/image-image-thumb-9.png);
   flex-shrink: 0;
 }
 
@@ -3707,7 +3707,7 @@ input {
 }
 
 .body-tik-tok {
-  background-image: url(/assets/tik-tok.png);
+  background-image: url(assets/tik-tok.png);
   padding-left: 8.5px;
   padding-right: 8.5px;
   flex-shrink: 0;
@@ -3780,7 +3780,7 @@ input {
 }
 
 .body-boleto {
-  background-image: url(/assets/boleto.png);
+  background-image: url(assets/boleto.png);
   max-width: 100%;
   max-height: 100%;
   width: 40px;
@@ -3809,7 +3809,7 @@ input {
 }
 
 .body-pix {
-  background-image: url(/assets/pix.png);
+  background-image: url(assets/pix.png);
   max-width: 100%;
   max-height: 100%;
   flex-shrink: 0;
@@ -3831,7 +3831,7 @@ input {
 }
 
 .body-elo {
-  background-image: url(/assets/elo.png);
+  background-image: url(assets/elo.png);
   max-width: 100%;
   max-height: 100%;
   flex-shrink: 0;
@@ -3851,7 +3851,7 @@ input {
 }
 
 .body-master-card {
-  background-image: url(/assets/master-card.png);
+  background-image: url(assets/master-card.png);
   max-width: 100%;
   max-height: 100%;
   flex-shrink: 0;
@@ -3871,7 +3871,7 @@ input {
 
 .body-visa {
   margin-right: 0.1px;
-  background-image: url(/assets/visa.png);
+  background-image: url(assets/visa.png);
   max-width: 100%;
   max-height: 100%;
   width: 43px;
@@ -3932,7 +3932,7 @@ input {
   right: 0px;
   bottom: 0px;
   opacity: 0.92;
-  background-image: url(/assets/40846b1165396d4f7d3c3639e60d33d4dd1b3b2b.jpeg);
+  background-image: url(assets/40846b1165396d4f7d3c3639e60d33d4dd1b3b2b.jpg);
   z-index: -1;
 }
 
