@@ -922,7 +922,7 @@ input {
 .body-est-ochegando,
 .body-div-container-fluid {
   display: flex;
-  color: white;
+  color: black;
 }
 
 .common-20,
@@ -3628,6 +3628,7 @@ input {
   z-index: 1;
   line-height: 20px;
   flex-shrink: 0;
+  padding-left: 10px;
 }
 
 .body-t-div-col-sm-2 {
