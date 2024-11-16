@@ -1,120 +1,928 @@
-<!doctype html>
 <html lang="en">
   <head>
-    <meta charset="utf-8" />
-    <title>Comic Store</title>
+    <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#000000" />
-    <meta
-      name="description"
-      content="Loja de Quadrinhos"
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@500"
     />
-    
-    <link rel="stylesheet" type="text/css" href="./css/index.css" />
-    <link rel="stylesheet" type="text/css" href="./css/font.css" />
-    <link rel="stylesheet" type="text/css" href="./css/styles.css" />
-    <link rel="stylesheet" type="text/css" href="./css/components.css" />
-    <link rel="stylesheet" type="text/css" href="./css/Screen.css" />
+    <title>ComicBook Store</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" type="text/css" href="style2.css" />
   </head>
-  <body>
-    <div class="screen">
-        <div class="screen-1">
-          <header>
-            <div class="header__top-bar">
-              <div class="header__lock-group container-xs">
-                <img src="public/images/img_lock.svg" alt="Lockicon" class="header__icon--unlock" />
-                <p class="header__login-text ui text size-texts">
-                  <span>  &nbsp;</span>
-                  <span class="header__login-text-span"> Entrar</span>
-                  <span> &nbsp;ou&nbsp;</span>
-                  <span class="header__login-text-span"> Criar Conta</span>
-                </p>
-              </div>
-            </div>
-            <div>
-              <div class="header__column">
-                <div class="header__search-column">
-                  <div class="header__search-group">
-                    <img src="public/images/img_rewind.svg" alt="Searchicon" class="header__icon--rewind" />
-                    <div class="header__input-group">
-                      <img src="public/images/img_input_form_control.png" alt="Inputicon" class="header__icon--input" />
-                      <p class="header__search-placeholder ui text size-texts">Procurar na loja</p>
+  <!-- remove margem -->
+  <body style="margin: 0px">
+
+    <div id="app">
+      <div class="body-wrapper">
+        <div class="body-body">
+          <div class="body-div-wholepage">
+            <div class="body-div-topbar">
+              <div class="body-div-container">
+                <div class="body-t-div-col-sm-8button-btn">
+                  <div class="body-div-col-sm"></div>
+                  <div class="body-button-btn">
+                    <div class="body-t-svg">
+                      <object
+                        data="assets/Svg.svg"
+                        class="body-svg"
+                      ></object>
                     </div>
+                    <div class="body-entrar-ou-criar-conta">
+                      <span
+                        ><span>&nbsp;&nbsp;</span>Entrar <span>ou </span>Criar
+                        Conta</span
+                      >
+                    </div>
+                  </div>
                 </div>
               </div>
-              <div class="header__logo-cart-group">
-                <img src="public/images/img_logo_da_loja.png" alt="Storelogo" class="header__logo" />
-                <button class="header__button--cart ui button yellow_a400 size-xs fill round">
-                  <img src="public/images/img_cart.svg" alt="Cart" class="cart" />
-                  <span> Carrinho</span>
-                </button>
+            </div>
+            <div class="body-t-div-header-tnav-barra-navi</section>gation">
+              <div class="body-div-header">
+                <div class="body-div-loja-container">
+                  <div class="body-tt-div-col-sm-7logo-da-loja">
+                    <div class="body-t-div-col-sm">
+                      <div class="body-div-col-sm-1">
+                        <div class="body-t-div-col-sm-1">
+                          <div class="body-div-col-sm-2">
+                            <div class="body-input-form-control">
+                              <div class="body-procurar-na-loja">
+                                Procurar na loja
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <img
+                      src="assets/logo.jpg"
+                      loading="lazy"
+                      class="body-logo-da-loja"
+                    />
+                  </div>
+                  <div class="body-t-link-dropdown-toggle">
+                    <div class="body-link-dropdown-toggle">
+                      <div class="body-t-svg-1">
+                        <object
+                          data="assets/Svg1.svg"
+                          class="body-svg-1"
+                        ></object>
+                      </div>
+                      <div class="body-t-carrinho">
+                        <div class="body-carrinho">&nbsp;&nbsp;Carrinho</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="body-t-nav-barra-navigation">
+                <div class="body-nav-barra-navigation">
+                  <div class="body-link">
+                    <div class="body-todos">Todos</div>
+                  </div>
+                  <div class="body-t-list-loja-navigation">
+                    <div class="body-list-loja-navigation"></div>
+                  </div>
+                  <div class="body-t-link-link-link">
+                    <div class="body-link-1">
+                      <div class="body-lan-amentos">Lançamentos</div>
+                    </div>
+                    <div class="body-link-2">
+                      <div class="body-pr-vendas">Pré-Vendas</div>
+                    </div>
+                    <div class="body-link-3">
+                      <div class="body-mang-s">Mangás</div>
+                    </div>
+                  </div>
+                  <div class="body-t-link-tlink-link-tlink-tlink-tlink-link">
+                    <div class="body-link-4">
+                      <div class="body-quadrinhos">Quadrinhos</div>
+                    </div>
+                    <div class="body-t-link">
+                      <div class="body-link-5">
+                        <div class="body-marvel">MARVEL</div>
+                      </div>
+                    </div>
+                    <div class="body-link-6"><div class="body-dc">DC</div></div>
+                    <div class="body-t-link-1">
+                      <div class="body-link-7">
+                        <div class="body-colecion-veis">Colecionáveis</div>
+                      </div>
+                    </div>
+                    <div class="body-t-link-2">
+                      <div class="body-link-8"><div>Livros</div></div>
+                    </div>
+                    <div class="body-t-link-3">
+                      <div class="body-link-9"><div>Revistas</div></div>
+                    </div>
+                    <div class="body-link-10">
+                      <div class="body-filmes-sries">Filmes/Séries</div>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
-            <div class="header__navigation-bar">
-              <div class="header__menu-group container-xs">
-                <ul class="header__menu">
-                  <li>
-                    <a href="#">
-                      <h6 class="header__menu-item--all ui heading size-headingmd">Todos</h6>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <h6 class="header__menu-item--all ui heading size-headingmd">Lançamentos</h6>
-                    </a>
-                    </li>
-                    <li>
-                    <a href="#">
-                        <h6 class="header__menu-item--all ui heading size-headingmd">Pré-Vendas</h6>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <h6 class="header__menu-item--all ui heading size-headingmd">Mangás</h6>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <h6 class="header__menu-item--all ui heading size-headingmd">Quadrinhos</h6>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <h6 class="header__menu-item--all ui heading size-headingmd">MARVEL</h6>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <h6 class="header__menu-item--all ui heading size-headingmd">DC</h6>
-                        </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <h6 class="header__menu-item--all ui heading size-headingmd">Colecionáveis</h6>
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <h6 class="header__menu-item--all ui heading size-headingmd">Livros</h6>
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <h6 class="header__menu-item--all ui heading size-headingmd">Revistas</h6>
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <h6 class="header__menu-item--all ui heading size-headingmd">Filmes/Séries</h6>
-                  </a>
-                </li>
-              </ul>
+            <div class="body-wrapper-1">
+              <div class="body-div-carousel-slideshow">
+                <div class="body-wrapper-2">
+                  <div class="body-div-owl-wrapper-outer">
+                    <div class="body-image"></div>
+                  </div>
+                </div>
+              </div>
             </div>
+            <div class="body-tt-div-pagebody-wrapper-tdiv-newsletter-wrapper-tfooter-div-topbar" >
+              <div class="body-t-div-pagebody-wrapper-tdiv-newsletter-wrapper-tfooter-div-topbar" >
+                <div class="body-div-pagebody-wrapper">
+                  <div class="body-div-container-1">
+                    <div class="body-wrapper-3">
+                      <div class="body-div-carousel-slideshow-1">
+                        <div class="body-div-product-carousel-brandslider">
+                          <div class="body-wrapper-4">
+                            <div class="body-div-owl-wrapper-outer-1">
+                              <div class="body-div-owl-wrapper">
+                                <div class="body-t-div-slide-div-slide-div-slide-div-slide-div-slide" >
+                                  <div class="body-div-slide">
+                                    <div class="body-image-1"></div>
+                                  </div>
+                                  <div class="body-div-slide-1">
+                                    <img
+                                      src="assets/image-2.png"
+                                      loading="lazy"
+                                      class="body-image-2"
+                                    />
+                                  </div>
+                                  <div class="body-div-slide-2">
+                                    <div class="body-image-3"></div>
+                                  </div>
+                                  <div class="body-div-slide-3">
+                                    <div class="body-image-4"></div>
+                                  </div>
+                                  <div class="body-div-slide-4">
+                                    <div class="body-image-5"></div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="body-t-div-product-carousel-wrapper-tdiv-product-carousel-wrapper-div-product-carousel-wrapper" >
+                      <div class="body-wrapper-5">
+                        <div class="body-div-product-carousel-wrapper">
+                          <div class="body-div-container-2">
+                            <div class="body-h">
+                              <div class="body-div">
+                                <div class="body-mais">MAIS</div>
+                              </div>
+                            </div>
+                            <div class="body-div-product-carousel-newproduct">
+                              <div class="body-wrapper-6">
+                                <div class="body-div-owl-wrapper-outer-2">
+                                  <div class="body-div-owl-wrapper-1">
+                                    <div class="body-t-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item" >
+                                      <div class="body-div-product-carousel-item" >
+                                        <div class="body-t-image-image-thumb">
+                                          <img
+                                            src="assets/image-image-thumb.png"
+                                            loading="lazy"
+                                            class="body-image-image-thumb"
+                                          />
+                                        </div>
+                                        <div class="body-div-caption">
+                                          <div class="body-r">R$297,50</div>
+                                          <div class="body-link-add-to-basket-button-listing" >
+                                            <div class="body-t-svg-2">
+                                              <object
+                                                data="assets/Svg2.svg"
+                                                class="body-svg-2"
+                                              ></object>
+                                            </div>
+                                            <div class="body-adicionar">
+                                              &nbsp;Adicionar
+                                            </div>
+                                          </div>
+                                          <div class="body-jerusal-malan-moore">
+                                            Jerusalém - Alan Moore
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div class="body-div-product-carousel-item-1" >
+                                        <div class="body-image-image-thumb-1" ></div>
+                                        <div class="body-t-div-caption">
+                                          <div class="body-div-caption-1">
+                                            <div class="body-link-11">
+                                              <div class="body-t-nebula-funko-pop-marvel" >
+                                                <div class="body-nebula">
+                                                  Nebula
+                                                </div>
+                                                <div>Funko Pop - Marvel:</div>
+                                              </div>
+                                            </div>
+                                            <div class="body-r-1">R$189,90</div>
+                                            <div class="body-t-link-add-to-basket-button-listing" >
+                                              <div class="body-link-add-to-basket-button-listing-1" >
+                                                <div class="body-t-svg-3">
+                                                  <object
+                                                    data="assets/Svg2.svg"
+                                                    class="body-svg-3"
+                                                  ></object>
+                                                </div>
+                                                <div class="body-adicionar-1">
+                                                  &nbsp;Adicionar
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div class="body-div-product-carousel-item-2" >
+                                        <div class="body-image-image-thumb-2" ></div>
+                                        <div class="body-t-div-caption-1">
+                                          <div class="body-div-caption-2">
+                                            <div class="body-link-12">
+                                              <div class="body-caneca-senhor-destino" >
+                                                Caneca Senhor Destino
+                                              </div>
+                                            </div>
+                                            <div class="body-r-2">R$69,90</div>
+                                            <div class="body-t-link-add-to-basket-button-listing-1" >
+                                              <div class="body-link-add-to-basket-button-listing-2" >
+                                                <div class="body-t-svg-4">
+                                                  <object
+                                                    data="assets/Svg2.svg"
+                                                    class="body-svg-4"
+                                                  ></object>
+                                                </div>
+                                                <div class="body-adicionar-2">
+                                                  &nbsp;Adicionar
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div class="body-div-product-carousel-item-3" >
+                                        <div class="body-image-image-thumb-3" ></div>
+                                        <div class="body-t-div-caption-2">
+                                          <div class="body-div-caption-3">
+                                            <div class="body-t-link-4">
+                                              <div class="body-link-13">
+                                                <div>
+                                                  Funko Pop - Star Wars:
+                                                </div>
+                                                <div>Princesa Leia</div>
+                                              </div>
+                                            </div>
+                                            <div class="body-r-3">R$189,90</div>
+                                            <div class="body-t-link-add-to-basket-button-listing-2" >
+                                              <div class="body-link-add-to-basket-button-listing-3" >
+                                                <div class="body-t-svg-5">
+                                                  <object
+                                                    data="assets/Svg2.svg"
+                                                    class="body-svg-5"
+                                                  ></object>
+                                                </div>
+                                                <div class="body-adicionar-3">
+                                                  &nbsp;Adicionar
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div class="body-div-product-carousel-item-4" >
+                                        <div class="body-image-image-thumb-4" ></div>
+                                        <div class="body-div-caption-4">
+                                          <div class="body-r-4">R$188,91</div>
+                                          <div class="body-t-link-5">
+                                            <div class="body-link-14">
+                                              <div class="body-t-undertaker-edi-odefinitiva" >
+                                                <div class="body-undertaker-edi-odefinitiva" >
+                                                  Undertaker - Edição Definitiva
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                          <div class="body-link-add-to-basket-button-listing-4" >
+                                            <div class="body-t-svg-6">
+                                              <object
+                                                data="assets/Svg2.svg"
+                                                class="body-svg-6"
+                                              ></object>
+                                            </div>
+                                            <div class="body-adicionar-4">
+                                              &nbsp;Adicionar
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="body-div-owl-pagination">
+                                <div class="body-tt-span-span-span-span-span-span-span-span-span-span" >
+                                  <div class="body-t-span-span-span-span-span-span-span-span-span-span" >
+                                    <div class="body-span"></div>
+                                    <div class="body-span-1"></div>
+                                    <div class="body-span-2"></div>
+                                    <div class="body-span-3"></div>
+                                    <div class="body-span-4"></div>
+                                    <div class="body-span-5"></div>
+                                    <div class="body-span-6"></div>
+                                    <div class="body-span-7"></div>
+                                    <div class="body-span-8"></div>
+                                    <div class="body-span-9"></div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="body-t-div-product-carousel-wrapper">
+                        <div class="body-div-product-carousel-wrapper-1">
+                          <div class="body-div-container-3">
+                            <div class="body-th">
+                              <div class="body-h-1">
+                                <div class="body-promo-es">PROMOÇÕES</div>
+                                <div class="body-div-1">
+                                  <div class="body-mai-s1">MAIS</div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="body-wrapper-7">
+                              <div class="body-div-owl-wrapper-outer-3">
+                                <div class="body-div-owl-wrapper-2">
+                                  <div class="body-t-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-1" >
+                                    <div class="body-div-product-carousel-item-5" >
+                                      <div class="body-image-image-thumb-5" ></div>
+                                      <div class="body-div-caption-5">
+                                        <div class="body-new-teen-titans-omnibus-vol" >
+                                          New Teen Titans Omnibus - Vol 1
+                                        </div>
+                                        <div class="body-paragraph">
+                                          <div class="body-tt-r30000r">
+                                            <div class="body-t-r30000r">
+                                              <div class="body-r-5">
+                                                R$300,00
+                                              </div>
+                                              <div>R$180,00</div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div class="body-link-add-to-basket-button-listing-5" >
+                                          <div class="body-t-svg-adicionar">
+                                            <div class="body-adicionar-5">
+                                              Adicionar
+                                            </div>
+                                            <object
+                                              data="assets/Svg3.svg"
+                                              class="body-svg-7"
+                                            ></object>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div class="body-div-product-carousel-item-6" >
+                                      <div class="body-image-image-thumb-6" ></div>
+                                      <div class="body-div-caption-6">
+                                        <div class="body-t-link-6">
+                                          <div class="body-link-15">
+                                            <div>Ultimate Homem-Aranha</div>
+                                            <div>Poder e Responsabilidade</div>
+                                          </div>
+                                        </div>
+                                        <div class="body-paragraph-1">
+                                          <div class="body-t-r6390r">
+                                            <div class="body-r-7">R$63,90</div>
+                                            <div>R$51,12</div>
+                                          </div>
+                                        </div>
+                                        <div class="body-t-svg-link-add-to-basket-button-listing" >
+                                          <div class="body-link-add-to-basket-button-listing-6" >
+                                            <div class="body-adicionar-6">
+                                              Adicionar
+                                            </div>
+                                          </div>
+                                          <object
+                                            data="assets/Svg3.svg"
+                                            class="body-svg-8"
+                                          ></object>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div class="body-div-product-carousel-item-7" >
+                                      <img
+                                        src="assets/image-image-thumb-7.png"
+                                        loading="lazy"
+                                        class="body-image-image-thumb-7"
+                                      />
+                                      <div class="body-div-caption-7">
+                                        <div class="body-t-link-7">
+                                          <div class="body-link-16">
+                                            <div class="body-camiseta-ben-10quatro-bra-os" >
+                                              Camiseta  Ben 10 Quatro Braços
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div class="body-t-paragraph">
+                                          <div class="body-paragraph-2">
+                                            <div class="body-tt-r1999r">
+                                              <div class="body-t-r1999r">
+                                                <div class="body-r-9">
+                                                  R$19,99
+                                                </div>
+                                                <div>R$9,99</div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div class="body-t-svg-link-add-to-basket-button-listing-1" >
+                                          <div class="body-link-add-to-basket-button-listing-7" >
+                                            <div class="body-adicionar-7">
+                                              Adicionar
+                                            </div>
+                                          </div>
+                                          <object
+                                            data="assets/Svg3.svg"
+                                            class="body-svg-9"
+                                          ></object>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div class="body-div-product-carousel-item-8" >
+                                      <img
+                                        src="assets/image-image-thumb-8.png"
+                                        loading="lazy"
+                                        class="body-image-image-thumb-8"
+                                      />
+                                      <div class="body-div-caption-8">
+                                        <div class="body-fullmetal-alchemist">
+                                          Fullmetal Alchemist # 01
+                                        </div>
+                                        <div class="body-t-paragraph-1">
+                                          <div class="body-paragraph-3">
+                                            <div class="body-tt-r2140r">
+                                              <div class="body-t-r2140r">
+                                                <div class="body-r-11">
+                                                  R$21,40
+                                                </div>
+                                                <div>R$10,70</div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div class="body-t-link-add-to-basket-button-listing-3" >
+                                          <div class="body-link-add-to-basket-button-listing-8" >
+                                            <div class="body-t-svg-adicionar-1">
+                                              <div class="body-adicionar-8">
+                                                Adicionar
+                                              </div>
+                                              <object
+                                                data="assets/Svg3.svg"
+                                                class="body-svg-10"
+                                              ></object>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div class="body-wrapper-8">
+                                      <div class="body-div-product-carousel-item-9" >
+                                        <div class="body-image-image-thumb-9" ></div>
+                                        <div class="body-div-caption-9">
+                                          <div class="body-link-17">
+                                            <div class="body-t-charizard-amiibo-super-smash-bros" >
+                                              <div class="body-charizard">
+                                                Charizard
+                                              </div>
+                                              <div>Amiibo Super Smash Bros</div>
+                                            </div>
+                                          </div>
+                                          <div class="body-t-paragraph-2">
+                                            <div class="body-paragraph-4">
+                                              <div class="body-t-r54890r">
+                                                <div class="body-r-13">
+                                                  R$548,90
+                                                </div>
+                                                <div>R$320,50</div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                          <div class="body-t-link-add-to-basket-button-listing-4" >
+                                            <div class="body-link-add-to-basket-button-listing-9" >
+                                              <div class="body-t-svg-adicionar-2" >
+                                                <div class="body-adicionar-9">
+                                                  Adicionar
+                                                </div>
+                                                <object
+                                                  data="assets/Svg3.svg"
+                                                  class="body-svg-11"
+                                                ></object>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="body-div-product-carousel-wrapper-2">
+                        <div class="body-div-container-4">
+                          <div class="body-t-h1">
+                            <div class="body-h-2">
+                              <div class="body-div-2">
+                                <div class="body-mai-s2">MAIS</div>
+                              </div>
+                              <div class="body-est-ochegando">
+                                Estão chegando
+                              </div>
+                            </div>
+                          </div>
+                          <div class="body-div-product-carousel-preorder">
+                            <div class="body-wrapper-9">
+                              <div class="body-div-owl-wrapper-outer-4">
+                                <div class="body-div-owl-wrapper-3">
+                                  <div class="body-t-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-2" >
+                                    <div class="body-div-product-carousel-item-10" >
+                                      <img
+                                        src="assets/image-image-thumb-10.jpg"
+                                        loading="lazy"
+                                        class="body-image-image-thumb-10"
+                                      />
+                                      <div class="body-div-caption-10">
+                                        <div class="body-cavaleiros-do-zodiaco">
+                                          Cavaleiros do Zodiaco
+                                        </div>
+                                        <div class="body-final-edition-vol">
+                                          Final Edition - Vol. 01
+                                        </div>
+                                        <div class="body-tr">
+                                          <div class="body-r-15">R$43,92</div>
+                                        </div>
+                                        <div class="body-t-link-add-to-basket-button-listing-5" >
+                                          <div class="body-link-add-to-basket-button-listing-10" >
+                                            <div class="body-t-svg-7">
+                                              <object
+                                                data="assets/Svg4.svg"
+                                                class="body-svg-12"
+                                              ></object>
+                                            </div>
+                                            <div class="body-pr-venda">
+                                              &nbsp;PRÉ-VENDA
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div class="body-div-product-carousel-item-11" >
+                                      <img
+                                        src="assets/image-image-thumb-11.jpg"
+                                        loading="lazy"
+                                        class="body-image-image-thumb-11"
+                                      />
+                                      <div class="body-div-caption-11">
+                                        <div class="body-tt-link-tr">
+                                          <div class="body-t-link-tr">
+                                            <div class="body-link-18">
+                                              <div class="body-contagem-de-corpos" >
+                                                Contagem de Corpos
+                                              </div>
+                                            </div>
+                                            <div class="body-t-r1">
+                                              <div class="body-r-16">
+                                                R$89,90
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div class="body-link-add-to-basket-button-listing-11" >
+                                          <div class="body-t-svg-8">
+                                            <object
+                                              data="assets/Svg4.svg"
+                                              class="body-svg-13"
+                                            ></object>
+                                          </div>
+                                          <div class="body-pr-venda-1">
+                                            PRÉ-VENDA
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div class="body-div-product-carousel-item-12" >
+                                      <img
+                                        src="assets/image-image-thumb-12.jpg"
+                                        loading="lazy"
+                                        class="body-image-image-thumb-12"
+                                      />
+                                      <div class="body-div-caption-12">
+                                        <div class="body-link-19">
+                                          <div>
+                                            Collector&apos;s Edition Vol. 06
+                                          </div>
+                                          <div class="body-neon-genesis-evangelion" >
+                                            Neon Genesis Evangelion
+                                          </div>
+                                        </div>
+                                        <div class="body-r-17">R$63,92</div>
+                                        <div class="body-t-link-add-to-basket-button-listing-6" >
+                                          <div class="body-link-add-to-basket-button-listing-12" >
+                                            <div class="body-t-svg-9">
+                                              <object
+                                                data="assets/Svg4.svg"
+                                                class="body-svg-14"
+                                              ></object>
+                                            </div>
+                                            <div class="body-pr-venda-2">
+                                              PRÉ-VENDA
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div class="body-div-product-carousel-item-13" >
+                                      <img
+                                        src="assets/image-image-thumb-13.jpg"
+                                        loading="lazy"
+                                        class="body-image-image-thumb-13"
+                                      />
+                                      <div class="body-div-caption-13">
+                                        <div class="body-hellboy-noir">
+                                          Hellboy Noir
+                                        </div>
+                                        <div class="body-sementes-da-destrui-o">
+                                          Sementes da destruição
+                                        </div>
+                                        <div class="body-r-18">R$139,90</div>
+                                        <div class="body-t-link-add-to-basket-button-listing-7" >
+                                          <div class="body-link-add-to-basket-button-listing-13" >
+                                            <div class="body-t-svg-10">
+                                              <object
+                                                data="assets/Svg4.svg"
+                                                class="body-svg-15"
+                                              ></object>
+                                            </div>
+                                            <div class="body-pr-venda-3">
+                                              PRÉ-VENDA
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div class="body-div-product-carousel-item-14" >
+                                      <img
+                                        src="assets/image-image-thumb-14.jpg"
+                                        loading="lazy"
+                                        class="body-image-image-thumb-14"
+                                      />
+                                      <div class="body-div-caption-14">
+                                        <div class="body-joe-hill-dark-collection-v" >
+                                          Joe Hill Dark Collection v. 2
+                                        </div>
+                                        <div class="body-r-19">R$109,90</div>
+                                        <div class="body-t-link-add-to-basket-button-listing-8" >
+                                          <div class="body-link-add-to-basket-button-listing-14" >
+                                            <div class="body-t-svg-11">
+                                              <object
+                                                data="assets/Svg4.svg"
+                                                class="body-svg-16"
+                                              ></object>
+                                            </div>
+                                            <div class="body-pr-venda-4">
+                                              PRÉ-VENDA
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="body-t-hqs-ecolecion-veis-desde">
+                      <div class="body-h-qs-ecolecion-veis-desde">
+                        HQs e colecionáveis desde 2000.
+                      </div>
+                    </div>
+                    <div class="body-obrigado-pela-visita">
+                      Obrigado pela visita!
+                    </div>
+                    <div class="body-lan-amentos-1"><p>Lançamentos</p></div>
+                  </div>
+                </div>
+                <div class="body-t-div-newsletter-wrapper">
+                  <div class="body-div-newsletter-wrapper">
+                    <div class="body-t-div-row">
+                      <div class="body-div-row">
+                        <div class="body-div-col-xs">
+                          <div class="body-t-span-fa-stack">
+                            <div class="body-span-fa-stack">
+                              <div class="body-tt-bg-svg-svg">
+                                <div class="body-t-bg-svg-svg">
+                                  <object
+                                    data="assets/Svg5.svg"
+                                    class="body-bg-svg"
+                                  ></object
+                                  ><object
+                                    data="assets/Svg6.svg"
+                                    class="body-svg-17"
+                                  ></object>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <footer class="body-quer-saber-atualiza-es-sobre-aloja" >
+                            Quer saber atualizações sobre a loja?
+                          </footer>
+                          <div class="body-coloque-seu-email-embaixo-para-enviarmos-as-not-cias" >
+                            Coloque seu email embaixo para enviarmos as
+                            notícias:
+                          </div>
+                        </div>
+                        <div class="body-ttt-input-form-control-button-button">
+                          <div class="body-tt-input-form-control-button-button">
+                            <div class="body-t-input-form-control-button-button" >
+                              <div class="body-wrapper-10">
+                                <div class="body-input-form-control-1">
+                                  <input
+                                    placeholder="Insira seu E-mail"
+                                    type="email"
+                                    class="body-insira-seu-email"
+                                  />
+                                </div>
+                              </div>
+                              <div class="body-button-button">
+                                <button class="body-enviar">Enviar</button>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="body-t-paragraph-3">
+                          <div class="body-paragraph-5"></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="body-t-footer">
+                  <div class="body-footer">
+                    <div class="body-t-div-container-fluid">
+                      <div class="body-div-container-fluid">
+                        <div class="body-svg-18"></div>
+                        <div class="body-list-footer_menu">
+                          <div class="body-tt-in-cio-sobre-aloja-tinforma-es-tcontato-tblog" >
+                            <div class="body-t-in-cio-sobre-aloja-tinforma-es-tcontato-tblog" >
+                              <div>Início</div>
+                              <div>Sobre a loja</div>
+                              <div class="body-informa-es">Informações</div>
+                              <div class="body-contato">Contato</div>
+                              <div class="body-blog">Blog</div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="body-ttt-div-col-sm-4tdiv-col-sm-4ttaceitamos-tdiv-col-sm-4tsvg-tsvg-tsvg-tsvg-tsvg" >
+                          <div class="body-tt-div-col-sm-4tdiv-col-sm">
+                            <div class="body-t-div-col-sm-4tdiv-col-sm">
+                              <div class="body-div-col-sm-3">
+                                <div class="body-compra-segura">
+                                  Compra Segura
+                                </div>
+                                <div class="body-button-btn-1">
+                                  <div class="body-t-svg-12">
+                                    <object
+                                      data="assets/Svg7.svg"
+                                      class="body-svg-19"
+                                    ></object>
+                                  </div>
+                                  <div class="body-certificada">
+                                    &nbsp;&nbsp;&nbsp;&nbsp;Certificada
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="body-t-div-col-sm-2">
+                                <div class="body-div-col-sm-4">
+                                  <div class="body-tt-facebook-ttsvg">
+                                    <div class="body-t-facebook">
+                                      <img
+                                        src="assets/facebook.png"
+                                        loading="lazy"
+                                        class="body-facebook"
+                                      />
+                                    </div>
+                                    <div class="body-tt-svg">
+                                      <div class="body-t-svg-13">
+                                        <div class="body-svg-20"></div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <div class="body-ttt-instagram-svg-tiktok-tsvg" >
+                                    <div class="body-tt-instagram-svg-tiktok">
+                                      <div class="body-t-instagram">
+                                        <img
+                                          src="assets/instagram.png"
+                                          loading="lazy"
+                                          class="body-instagram"
+                                        />
+                                      </div>
+                                      <div class="body-svg-21">
+                                        <img
+                                          src="assets/whatsapp.png"
+                                          loading="lazy"
+                                          class="body-whatsapp"
+                                        />
+                                      </div>
+                                      <div class="body-tik-tok">
+                                      <div class="body-svg-22">
+                                      <img src="assets/tik-tok.png" loading="lazy" alt="Tik-Tok logo" />
+                                      </div>
+                                      </div>
+                                    </div>
+                                    <div class="body-t-svg-14">
+                                      <div class="body-svg-23">
+                                        <div class="body-svg-24"></div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <img
+                                    src="assets/youtube.png"
+                                    loading="lazy"
+                                    class="body-youtube"
+                                  />
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="body-tt-aceitamos-tdiv-col-sm-4tsvg-tsvg-tsvg-tsvg-tsvg" >
+                            <div class="body-aceitamos">Aceitamos</div>
+                            <div class="body-t-div-col-sm-4tsvg-tsvg-tsvg-tsvg-tsvg" >
+                              <div class="body-div-col-sm-5"></div>
+                              <div class="body-t-svg-15">
+                                <div class="body-svg-25">
+                                  <div class="body-boleto"></div>
+                                </div>
+                              </div>
+                              <div class="body-t-svg-16">
+                                <div class="body-svg-26">
+                                  <div class="body-t-pix">
+                                    <div class="body-pix"></div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="body-t-svg-17">
+                                <div class="body-svg-27">
+                                  <div class="body-elo"></div>
+                                </div>
+                              </div>
+                              <div class="body-t-svg-18">
+                                <div class="body-svg-28">
+                                  <div class="body-master-card"></div>
+                                </div>
+                              </div>
+                              <div class="body-t-svg-19">
+                                <div class="body-svg-29">
+                                  <div class="body-visa"></div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <footer class="body-div-topbar-1">
+                  <div class="body-div-container-5">
+                    <div class="body-t-div-col-sm-8tcopyright-20002024comic-store-tbutton-btn" >
+                      <div class="body-div-col-sm-6"></div>
+                      <div class="body-t-copyright-20002024comic-store-tbutton-btn" >
+                        <div class="body-copyright-20002024comic-store">
+                          Copyright © 2000-2024 Comic Store
+                        </div>
+                        <div class="body-t-button-btn">
+                          <div class="body-button-btn-2"></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </footer>
+              </div>
+            </div>
+          </div>
         </div>
+      </div>
     </div>
-</header> 
-
-
-
-  
-
+  </body>
+</html>
