@@ -1479,6 +1479,7 @@ input {
   width: 625px;
   height: 1031px;
   flex-shrink: 0;
+  padding-top: 70px;
 }
 
 .body-footer {
