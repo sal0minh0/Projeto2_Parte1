@@ -479,7 +479,7 @@ input {
 }
 
 .body-wrapper {
-  height: 250px;
+  height: 205px;
   width: 100%;
 }
 
@@ -951,7 +951,7 @@ input {
   font-family: Oswald, ui-sans-serif, system-ui, sans-serif;
   font-weight: 500;
   line-height: 44px;
-  padding-right: 338px;
+  padding-right: 218px;
 }
 
 .body-form-form-validate {
