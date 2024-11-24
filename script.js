@@ -16,7 +16,7 @@ if (button && input) {
       // Exibe o alert com a mensagem do input
       Swal.fire({
         title: "Email Cadastrado!",
-        text: "Agora, o Email " + email + " irá receber nossas Atualizações.",
+        text: "Agora, o Email " + email + " irá receber nossas atualizações.",
         icon: "success",
         confirmButtonText: 'Ok'
       });
