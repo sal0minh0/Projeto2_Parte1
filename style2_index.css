@@ -3311,6 +3311,8 @@ input {
   padding-right: 21px;
   padding-top: 206px;
   z-index: 3;
+  position: relative;
+  right: 130px;
 }
 
 .body-h-qs-ecolecion-veis-desde {
