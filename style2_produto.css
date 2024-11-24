@@ -1,0 +1,6853 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700");
+@import url("https://api.fontshare.com/css?f[]=lato@400,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;700");
+@import url("https://api.fontshare.com/css?f[]=oswald@400,700&display=swap");
+
+p,
+ol,
+ul {
+  margin: 0px;
+}
+
+button {
+  padding: 0px;
+}
+
+ol,
+ul {
+  padding-inline-start: 1.5em;
+}
+
+input {
+  background-image: none;
+  background-color: transparent;
+}
+
+.common-76,
+.body-svg-7,
+.body-svg-10,
+.body-svg-11 {
+  position: absolute;
+  bottom: 1.5px;
+  left: -9.35px;
+}
+
+.common-77,
+.body-svg-8,
+.body-svg-9 {
+  position: absolute;
+  left: calc(50% + -8.5px + -36.14px);
+  z-index: 2;
+}
+
+.common-78,
+.body-est-ochegando,
+.body-lan-amentos-1,
+.body-t-svg-16,
+.body-div-product-carousel-wrapper-2::before {
+  position: absolute;
+  top: 0px;
+}
+
+.common-79,
+.body-t-svg-18,
+.body-t-svg-19 {
+  position: absolute;
+  top: 2px;
+}
+
+.common-80,
+.body-nebula,
+.body-charizard {
+  position: absolute;
+  bottom: -17.2px;
+}
+
+.common-81,
+.body-div-container-1,
+.body-t-svg-link-add-to-basket-button-listing,
+.body-t-svg-link-add-to-basket-button-listing-1,
+.body-div-product-carousel-wrapper-2,
+.body-t-bg-svg-svg,
+.body-div-container-fluid,
+.body-t-div-col-sm-4tsvg-tsvg-tsvg-tsvg-tsvg {
+  position: relative;
+  z-index: 0;
+}
+
+.common-82,
+.body-wrapper-3,
+.body-bg-svg,
+.body-svg-18 {
+  position: absolute;
+  z-index: 0;
+}
+
+.common-75,
+.body-adicionar,
+.body-adicionar-1,
+.body-adicionar-2,
+.body-adicionar-3,
+.body-adicionar-4,
+.body-adicionar-5,
+.body-adicionar-6,
+.body-adicionar-7,
+.body-adicionar-8,
+.body-adicionar-9,
+.body-pr-venda,
+.body-pr-venda-1,
+.body-pr-venda-2,
+.body-pr-venda-3,
+.body-pr-venda-4 {
+  text-transform: capitalize;
+  line-height: 24px;
+}
+
+.common-71,
+.body-image-1,
+.body-image-image-thumb-1,
+.body-image-image-thumb-2,
+.body-image-image-thumb-3,
+.body-image-image-thumb-4,
+.body-image-image-thumb-5,
+.body-image-image-thumb-6,
+.body-image-image-thumb-9 {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.common-72,
+.body-boleto,
+.body-pix,
+.body-elo,
+.body-master-card,
+.body-visa {
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+}
+
+.common-73,
+.body-image-3,
+.body-image-4 {
+  background-repeat: no-repeat;
+  background-size: 100% 285%;
+}
+
+.common-74,
+.body-div-product-carousel-wrapper,
+.body-tik-tok,
+.body-div-product-carousel-wrapper-2::before {
+  background-position: center;
+  background-size: cover;
+}
+
+.common-66,
+.body-div-topbar,
+.body-input-form-control,
+.body-div-topbar-1 {
+  border-style: solid;
+  border-color: dimgray;
+}
+
+.common-67,
+.body-div-header,
+.body-nav-barra-navigation,
+.body-input-form-control-1,
+.body-button-button,
+.body-button-btn-1 {
+  border-style: solid;
+  border-color: lightgray;
+}
+
+.common-68,
+.body-link-dropdown-toggle,
+.body-div-product-carousel-wrapper,
+.body-link-add-to-basket-button-listing,
+.body-link-add-to-basket-button-listing-1,
+.body-link-add-to-basket-button-listing-2,
+.body-link-add-to-basket-button-listing-3,
+.body-link-add-to-basket-button-listing-4,
+.body-div-product-carousel-wrapper-1,
+.body-link-add-to-basket-button-listing-5,
+.body-link-add-to-basket-button-listing-6,
+.body-link-add-to-basket-button-listing-7,
+.body-link-add-to-basket-button-listing-8,
+.body-link-add-to-basket-button-listing-9,
+.body-footer {
+  border-style: solid;
+  border-color: yellow;
+}
+
+.common-69,
+.body-div-product-carousel-brandslider,
+.body-div-slide,
+.body-div-slide-1,
+.body-div-slide-2,
+.body-div-slide-3,
+.body-div-slide-4,
+.body-div-newsletter-wrapper {
+  border-style: solid;
+  border-color: gainsboro;
+}
+
+.common-70,
+.body-div-product-carousel-item,
+.body-div-product-carousel-item-1,
+.body-div-product-carousel-item-2,
+.body-div-product-carousel-item-3,
+.body-div-product-carousel-item-4,
+.body-div-product-carousel-item-5,
+.body-div-product-carousel-item-6,
+.body-div-product-carousel-item-7,
+.body-div-product-carousel-item-8,
+.body-div-product-carousel-item-9,
+.body-div-product-carousel-item-10,
+.body-div-product-carousel-item-11,
+.body-div-product-carousel-item-12,
+.body-div-product-carousel-item-13,
+.body-div-product-carousel-item-14 {
+  border-style: solid;
+  border-color: white;
+}
+
+.common-43,
+.body-div-col-sm-1,
+.body-link-2,
+.body-link-5,
+.body-link-10,
+.body-tt-div-pagebody-wrapper-tdiv-newsletter-wrapper-tfooter-div-topbar,
+.body-div-container-1,
+.body-div-slide,
+.body-div-slide-1,
+.body-div-slide-2,
+.body-div-slide-3,
+.body-div-slide-4,
+.body-link-12,
+.body-link-14,
+.body-div-container-3,
+.body-div-owl-wrapper-2,
+.body-div-caption-8,
+.body-div-owl-wrapper-3,
+.body-div-caption-14,
+.body-tt-bg-svg-svg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.common-44,
+.body-div-caption,
+.body-t-link-add-to-basket-button-listing,
+.body-t-link-add-to-basket-button-listing-1,
+.body-t-link-add-to-basket-button-listing-2,
+.body-div-caption-4,
+.body-t-undertaker-edi-odefinitiva,
+.body-div-caption-5,
+.body-div-caption-6,
+.body-div-caption-7,
+.body-t-link-add-to-basket-button-listing-4,
+.body-div-caption-12,
+.body-t-link-add-to-basket-button-listing-6,
+.body-t-link-add-to-basket-button-listing-7,
+.body-t-link-add-to-basket-button-listing-8,
+.body-div-col-sm-3,
+.body-tik-tok,
+.body-t-div-col-sm-4tsvg-tsvg-tsvg-tsvg-tsvg {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.common-45,
+.body-div-caption-9,
+.body-div-caption-11 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+
+.common-46,
+.body-t-div-col-sm-8button-btn,
+.body-t-div-slide-div-slide-div-slide-div-slide-div-slide,
+.body-t-in-cio-sobre-aloja-tinforma-es-tcontato-tblog {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.common-47,
+.body-t-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item,
+.body-t-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-1,
+.body-t-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-2 {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-wrap: wrap;
+}
+
+.common-48,
+.body-t-link-add-to-basket-button-listing-5,
+.body-div-row,
+.body-t-paragraph-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.common-49,
+.body-div-wholepage,
+.body-t-svg,
+.body-t-link-dropdown-toggle,
+.body-t-svg-1,
+.body-t-link-3,
+.body-t-div-pagebody-wrapper-tdiv-newsletter-wrapper-tfooter-div-topbar,
+.body-t-div-product-carousel-wrapper-tdiv-product-carousel-wrapper-div-product-carousel-wrapper,
+.body-div-container-2,
+.body-div-product-carousel-newproduct,
+.body-t-svg-2,
+.body-t-svg-3,
+.body-t-svg-4,
+.body-t-link-4,
+.body-t-svg-5,
+.body-t-svg-6,
+.body-tt-span-span-span-span-span-span-span-span-span-span,
+.body-t-div-product-carousel-wrapper,
+.body-h-1,
+.body-t-svg-link-add-to-basket-button-listing,
+.body-link-16,
+.body-link-17,
+.body-div-product-carousel-preorder,
+.body-div-caption-10,
+.body-t-svg-7,
+.body-tt-link-tr,
+.body-t-link-tr,
+.body-t-svg-8,
+.body-t-svg-9,
+.body-div-caption-13,
+.body-t-svg-10,
+.body-t-svg-11,
+.body-div-col-xs,
+.body-span-fa-stack,
+.body-t-bg-svg-svg,
+.body-tt-div-col-sm-4tdiv-col-sm,
+.body-t-svg-12,
+.body-svg-21,
+.body-svg-23,
+.body-tt-aceitamos-tdiv-col-sm-4tsvg-tsvg-tsvg-tsvg-tsvg,
+.body-svg-26,
+.body-t-pix,
+.body-svg-27,
+.body-svg-28 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.common-50,
+.body-t-div-col-sm,
+.body-t-list-loja-navigation,
+.body-t-div-col-sm-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.common-51,
+.body-div-container,
+.body-div-col-sm-2,
+.body-link-3,
+.body-link-6,
+.body-link-7,
+.body-link-8,
+.body-link-9,
+.body-div-owl-wrapper,
+.body-div-owl-wrapper-1,
+.body-t-image-image-thumb,
+.body-t-link-5,
+.body-div-owl-pagination,
+.body-t-span-span-span-span-span-span-span-span-span-span,
+.body-div-product-carousel-wrapper-1,
+.body-th,
+.body-t-r30000r,
+.body-t-svg-adicionar,
+.body-t-link-6,
+.body-t-link-7,
+.body-t-r1999r,
+.body-t-r2140r,
+.body-t-svg-adicionar-1,
+.body-t-svg-adicionar-2,
+.body-div-product-carousel-wrapper-2,
+.body-t-h1,
+.body-div-2,
+.body-t-div-newsletter-wrapper,
+.body-t-div-row,
+.body-t-span-fa-stack,
+.body-ttt-input-form-control-button-button,
+.body-t-input-form-control-button-button,
+.body-t-footer,
+.body-list-footer_menu,
+.body-t-div-col-sm-4tdiv-col-sm,
+.body-div-container-5,
+.body-t-div-col-sm-8tcopyright-20002024comic-store-tbutton-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.common-52,
+.body-button-btn,
+.body-link,
+.body-link-1,
+.body-t-link-tlink-link-tlink-tlink-tlink-link,
+.body-link-4,
+.body-t-link,
+.body-t-link-1,
+.body-t-link-2,
+.body-tt-input-form-control-button-button,
+.body-svg-25 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.common-53,
+.body-tt-div-col-sm-7logo-da-loja,
+.body-h,
+.body-t-svg-link-add-to-basket-button-listing-1,
+.body-t-link-add-to-basket-button-listing-3,
+.body-h-2,
+.body-tr,
+.body-t-r1,
+.body-t-hqs-ecolecion-veis-desde,
+.body-ttt-instagram-svg-tiktok-tsvg,
+.body-tt-instagram-svg-tiktok {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.common-54,
+.body-link-11,
+.body-div-container-4,
+.body-link-18,
+.body-ttt-div-col-sm-4tdiv-col-sm-4ttaceitamos-tdiv-col-sm-4tsvg-tsvg-tsvg-tsvg-tsvg {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.common-55,
+.body-div-loja-container,
+.body-div-col-sm-4 {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.common-56,
+.body-div-pagebody-wrapper,
+.body-link-19 {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.common-57,
+.body-div-product-carousel-item,
+.body-div-product-carousel-item-1,
+.body-div-caption-1,
+.body-div-product-carousel-item-2,
+.body-div-caption-2,
+.body-div-product-carousel-item-3,
+.body-div-caption-3,
+.body-div-product-carousel-item-4,
+.body-div-product-carousel-item-5,
+.body-div-product-carousel-item-6,
+.body-div-product-carousel-item-7,
+.body-div-product-carousel-item-8,
+.body-div-product-carousel-item-9,
+.body-div-product-carousel-item-10,
+.body-div-product-carousel-item-11,
+.body-div-product-carousel-item-12,
+.body-div-product-carousel-item-13,
+.body-div-product-carousel-item-14 {
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.common-58,
+.body-t-div-header-tnav-barra-navigation,
+.body-t-div-container-fluid {
+  display: flex;
+  flex-direction: column;
+}
+
+.common-59,
+.body-wrapper,
+.body-t-div-col-sm-1,
+.body-div-product-carousel-brandslider,
+.body-wrapper-4 {
+  display: flex;
+  align-items: flex-start;
+}
+
+.common-60,
+.body-wrapper-1,
+.body-wrapper-8 {
+  display: flex;
+  align-items: flex-end;
+}
+
+.common-61,
+.body-wrapper-2,
+.body-wrapper-3,
+.body-wrapper-5,
+.body-wrapper-6,
+.body-wrapper-7,
+.body-t-paragraph,
+.body-t-paragraph-1,
+.body-t-paragraph-2,
+.body-wrapper-9,
+.body-wrapper-10,
+.body-tt-in-cio-sobre-aloja-tinforma-es-tcontato-tblog,
+.body-t-copyright-20002024comic-store-tbutton-btn {
+  display: flex;
+  align-items: center;
+}
+
+.common-62,
+.body-t-carrinho,
+.body-div-owl-wrapper-outer,
+.body-div-carousel-slideshow-1,
+.body-div-owl-wrapper-outer-1,
+.body-div-owl-wrapper-outer-2,
+.body-t-div-caption,
+.body-t-div-caption-1,
+.body-t-div-caption-2,
+.body-link-13,
+.body-div-owl-wrapper-outer-3,
+.body-div-owl-wrapper-outer-4,
+.body-div-container-fluid,
+.body-tt-facebook-ttsvg,
+.body-t-facebook,
+.body-t-svg-13,
+.body-t-instagram,
+.body-t-svg-15,
+.body-t-svg-16,
+.body-t-svg-17,
+.body-t-svg-18,
+.body-t-svg-19 {
+  flex-direction: column;
+  align-items: center;
+}
+
+.common-63,
+.body-div-topbar,
+.body-div-header,
+.body-link-dropdown-toggle,
+.body-div-product-carousel-wrapper,
+.body-jerusal-malan-moore,
+.body-t-nebula-funko-pop-marvel,
+.body-nebula,
+.body-r-4,
+.body-paragraph,
+.body-link-add-to-basket-button-listing-5,
+.body-paragraph-1,
+.body-t-r6390r,
+.body-link-add-to-basket-button-listing-6,
+.body-paragraph-2,
+.body-link-add-to-basket-button-listing-7,
+.body-paragraph-3,
+.body-link-add-to-basket-button-listing-8,
+.body-t-charizard-amiibo-super-smash-bros,
+.body-charizard,
+.body-t-r54890r,
+.body-link-add-to-basket-button-listing-9,
+.body-est-ochegando,
+.body-neon-genesis-evangelion,
+.body-lan-amentos-1,
+.body-div-newsletter-wrapper,
+.body-button-button,
+.body-div-topbar-1 {
+  justify-content: center;
+  align-items: center;
+}
+
+.common-64,
+.body-t-link-link-link,
+.body-tt-r30000r,
+.body-tt-r1999r,
+.body-tt-r2140r,
+.body-paragraph-4 {
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.common-65,
+.body-div,
+.body-div-1,
+.body-tt-svg {
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.common-30,
+.body-h-qs-ecolecion-veis-desde,
+.body-obrigado-pela-visita {
+  color: chocolate;
+  font-size: 11px;
+  font-family: Lato, ui-sans-serif, system-ui, sans-serif;
+  text-align: center;
+}
+
+.common-31,
+.body-compra-segura,
+.body-aceitamos {
+  font-size: 12px;
+  font-family: Oswald, ui-sans-serif, system-ui, sans-serif;
+  font-weight: 700;
+  text-align: center;
+}
+
+.common-32,
+.body-entrar-ou-criar-conta,
+.body-copyright-20002024comic-store {
+  color: white;
+  font-size: 13px;
+  font-family: Lato, ui-sans-serif, system-ui, sans-serif;
+}
+
+.common-33,
+.body-jerusal-malan-moore,
+.body-caneca-senhor-destino,
+.body-new-teen-titans-omnibus-vol,
+.body-fullmetal-alchemist,
+.body-cavaleiros-do-zodiaco,
+.body-final-edition-vol,
+.body-hellboy-noir,
+.body-sementes-da-destrui-o,
+.body-joe-hill-dark-collection-v {
+  color: dimgray;
+  font-weight: 700;
+  text-align: center;
+}
+
+.common-34,
+.body-lan-amentos-1,
+.body-quer-saber-atualiza-es-sobre-aloja {
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.common-35,
+.body-pr-venda,
+.body-pr-venda-1,
+.body-pr-venda-2,
+.body-pr-venda-3,
+.body-pr-venda-4 {
+  color: white;
+  font-size: 17px;
+}
+
+.common-36,
+.body-undertaker-edi-odefinitiva,
+.body-camiseta-ben-10quatro-bra-os,
+.body-contagem-de-corpos {
+  color: dimgray;
+  font-weight: 700;
+}
+
+.common-37,
+.body-coloque-seu-email-embaixo-para-enviarmos-as-not-cias,
+.body-t-input-form-control-button-button,
+.body-t-in-cio-sobre-aloja-tinforma-es-tcontato-tblog,
+.body-certificada {
+  font-size: 14px;
+  font-family: Lato, ui-sans-serif, system-ui, sans-serif;
+}
+
+.common-38,
+.body-mais,
+.body-mai-s1,
+.body-mai-s2 {
+  font-size: 12px;
+  text-align: center;
+}
+
+.common-39,
+.body-adicionar-1,
+.body-adicionar-3 {
+  font-size: 17px;
+  text-align: left;
+}
+
+.common-40,
+.body-adicionar-5,
+.body-adicionar-7,
+.body-adicionar-8,
+.body-adicionar-9 {
+  font-size: 17px;
+  text-align: center;
+}
+
+.common-41,
+.body-r,
+.body-r-2,
+.body-r-4,
+.body-r-17,
+.body-r-18,
+.body-r-19 {
+  font-family: Lato, ui-sans-serif, system-ui, sans-serif;
+  text-align: center;
+}
+
+.common-42,
+.body-t-nebula-funko-pop-marvel,
+.body-link-13,
+.body-h-1,
+.body-link-15,
+.body-t-charizard-amiibo-super-smash-bros,
+.body-h-2,
+.body-link-19 {
+  font-weight: 700;
+  text-align: center;
+}
+
+.common-1,
+.body-body,
+.body-div-product-carousel-item-9 {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+}
+
+.common-2,
+.body-div-owl-wrapper-outer,
+.body-div-carousel-slideshow-1,
+.body-div-owl-wrapper-outer-1,
+.body-div-product-carousel-wrapper,
+.body-div-owl-wrapper-outer-2,
+.body-div-owl-wrapper-outer-3,
+.body-div-owl-wrapper-outer-4 {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.common-3,
+.body-tt-facebook-ttsvg,
+.body-t-facebook,
+.body-t-instagram {
+  display: flex;
+  width: 33px;
+  height: 34px;
+}
+
+.common-4,
+.body-span-1,
+.body-span-2,
+.body-span-3,
+.body-span-4,
+.body-span-5,
+.body-span-6,
+.body-span-7,
+.body-span-8,
+.body-span-9 {
+  width: 12px;
+  height: 12px;
+  background-color: #5f9ea07f;
+}
+
+.common-5,
+.body-t-carrinho,
+.body-t-svg-16 {
+  display: flex;
+  width: 49px;
+}
+
+.common-6,
+.body-t-link-link-link,
+.body-t-svg-14,
+.body-t-button-btn {
+  display: flex;
+  width: 0px;
+}
+
+.common-7,
+.body-jerusal-malan-moore,
+.body-nebula,
+.body-charizard,
+.body-neon-genesis-evangelion {
+  display: flex;
+  height: 16px;
+}
+
+.common-8,
+.body-t-div-caption,
+.body-t-div-caption-1,
+.body-t-div-caption-2 {
+  display: flex;
+  height: 168px;
+}
+
+.common-9,
+.body-div-caption-1,
+.body-div-caption-2,
+.body-div-caption-3 {
+  display: flex;
+  height: 179px;
+}
+
+.common-10,
+.body-r-4,
+.body-paragraph,
+.body-tt-r30000r,
+.body-paragraph-1,
+.body-t-r6390r,
+.body-paragraph-2,
+.body-tt-r1999r,
+.body-paragraph-3,
+.body-tt-r2140r,
+.body-paragraph-4,
+.body-t-r54890r {
+  display: flex;
+  height: 25px;
+}
+
+.common-11,
+.body-lan-amentos-1,
+.body-tt-svg {
+  display: flex;
+  height: 0px;
+}
+
+.common-12,
+.body-t-svg-13,
+.body-t-svg-15,
+.body-t-svg-17,
+.body-t-svg-18,
+.body-t-svg-19 {
+  display: flex;
+  height: 29px;
+}
+
+.common-13,
+.body-div-topbar,
+.body-input-form-control,
+.body-div-topbar-1 {
+  display: flex;
+  background-color: black;
+}
+
+.common-14,
+.body-div-header,
+.body-footer {
+  display: flex;
+  background-color: rgb(242, 155, 60);
+}
+
+.common-15,
+.body-link-dropdown-toggle,
+.body-div,
+.body-link-add-to-basket-button-listing,
+.body-link-add-to-basket-button-listing-1,
+.body-link-add-to-basket-button-listing-2,
+.body-link-add-to-basket-button-listing-3,
+.body-link-add-to-basket-button-listing-4,
+.body-div-1,
+.body-link-add-to-basket-button-listing-5,
+.body-link-add-to-basket-button-listing-6,
+.body-link-add-to-basket-button-listing-7,
+.body-link-add-to-basket-button-listing-8,
+.body-link-add-to-basket-button-listing-9 {
+  display: flex;
+  background-color: yellow;
+}
+
+.common-16,
+.body-div-pagebody-wrapper,
+.body-div-product-carousel-item,
+.body-div-product-carousel-item-1,
+.body-div-product-carousel-item-2,
+.body-div-product-carousel-item-3,
+.body-div-product-carousel-item-4,
+.body-div-product-carousel-item-5,
+.body-div-product-carousel-item-6,
+.body-div-product-carousel-item-7,
+.body-div-product-carousel-item-8,
+.body-div-product-carousel-item-10,
+.body-div-product-carousel-item-11,
+.body-div-product-carousel-item-12,
+.body-div-product-carousel-item-13,
+.body-div-product-carousel-item-14,
+.body-div-newsletter-wrapper,
+.body-input-form-control-1,
+.body-button-button,
+.body-button-btn-1 {
+  display: flex;
+  background-color: white;
+}
+
+.common-17,
+.body-link-add-to-basket-button-listing-10,
+.body-link-add-to-basket-button-listing-11,
+.body-link-add-to-basket-button-listing-12,
+.body-link-add-to-basket-button-listing-13,
+.body-link-add-to-basket-button-listing-14 {
+  display: flex;
+  background-color: midnightblue;
+}
+
+.common-18,
+.body-nav-barra-navigation,
+.body-t-nebula-funko-pop-marvel,
+.body-link-13,
+.body-link-15,
+.body-t-charizard-amiibo-super-smash-bros,
+.body-link-19 {
+  display: flex;
+  color: dimgray;
+}
+
+.common-19,
+.body-est-ochegando,
+.body-div-container-fluid {
+  display: flex;
+  color: black;
+}
+
+.common-20,
+.body-div-col-sm,
+.body-div-col-sm-6 {
+  width: 760px;
+  height: 35px;
+}
+
+.common-21,
+.body-image-1,
+.body-image-2,
+.body-image-3,
+.body-image-4,
+.body-image-5 {
+  width: 166px;
+  height: 58px;
+}
+
+.common-22,
+.body-image-image-thumb,
+.body-image-image-thumb-5,
+.body-image-image-thumb-8 {
+  width: 113px;
+  height: 160px;
+}
+
+.common-23,
+.body-svg-2,
+.body-svg-3,
+.body-svg-4,
+.body-svg-5,
+.body-svg-6,
+.body-svg-7,
+.body-svg-8,
+.body-svg-9,
+.body-svg-10,
+.body-svg-11,
+.body-svg-12,
+.body-svg-13,
+.body-svg-14,
+.body-svg-15,
+.body-svg-16 {
+  width: 16px;
+  height: 17px;
+}
+
+.common-24,
+.body-image-image-thumb-1,
+.body-image-image-thumb-2,
+.body-image-image-thumb-3,
+.body-image-image-thumb-7,
+.body-image-image-thumb-9 {
+  width: 160px;
+  height: 160px;
+}
+
+.common-25,
+.body-image-image-thumb-6,
+.body-image-image-thumb-11 {
+  width: 105px;
+  height: 160px;
+}
+
+.common-26,
+.body-image-image-thumb-10,
+.body-image-image-thumb-12,
+.body-image-image-thumb-13,
+.body-image-image-thumb-14 {
+  width: 104px;
+  height: 160px;
+}
+
+.common-27,
+.body-facebook,
+.body-instagram,
+.body-whatsapp,
+.body-tik-tok,
+.body-youtube {
+  width: 33px;
+  height: 33px;
+}
+
+.common-28,
+.body-svg-20,
+.body-svg-24 {
+  width: 16px;
+  height: 29px;
+}
+
+.common-29,
+.body-pix,
+.body-elo,
+.body-master-card {
+  width: 41px;
+  height: 29px;
+}
+
+.body-wrapper {
+  width: 100%;
+}
+
+.body-body {
+  mix-blend-mode: normal;
+  overflow: clip;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.body-div-wholepage {
+  mix-blend-mode: normal;
+  flex-grow: 1;
+  letter-spacing: 0em;
+}
+
+.body-div-topbar {
+  border-bottom-width: 1px;
+  mix-blend-mode: normal;
+  align-self: stretch;
+  padding-left: 128px;
+  padding-right: 128px;
+}
+
+.body-div-container {
+  mix-blend-mode: normal;
+  flex-grow: 1;
+  padding-left: 15px;
+  padding-right: 30px;
+}
+
+.body-t-div-col-sm-8button-btn {
+  row-gap: 18px;
+  column-gap: 0px;
+  flex-grow: 1;
+}
+
+.body-div-col-sm {
+  mix-blend-mode: normal;
+  flex-shrink: 0;
+}
+
+.body-button-btn {
+  mix-blend-mode: normal;
+  padding-bottom: 7px;
+  padding-left: 120px;
+  padding-top: 7px;
+}
+
+.body-t-svg {
+  padding-top: 1px;
+}
+
+.body-svg {
+  mix-blend-mode: normal;
+  width: 11px;
+  height: 14px;
+  flex-shrink: 0;
+}
+
+.body-entrar-ou-criar-conta {
+  width: auto;
+  line-height: 21px;
+  font-weight: 700;
+  flex-shrink: 0;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 12.5px;
+}
+
+.body-entrar-ou-criar-conta + span {
+  color: white; 
+}
+
+.body-t-div-header-tnav-barra-navigation {
+  align-self: stretch;
+  z-index: 0;
+  font-family: Oswald, ui-sans-serif, system-ui, sans-serif;
+}
+
+.body-div-header {
+  border-bottom-width: 2px;
+  mix-blend-mode: normal;
+  padding-left: 128px;
+  padding-right: 128px;
+  z-index: 2;
+  margin: 0;
+  width: 100vw;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.body-div-loja-container {
+  mix-blend-mode: normal;
+  column-gap: 100px;
+  flex-grow: 1;
+  padding-top: 0.5px;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.body-tt-div-col-sm-7logo-da-loja {
+  column-gap: 113px;
+  padding-bottom: 0.5px;
+}
+
+.body-t-div-col-sm {
+  width: 321px;
+  height: 95px;
+  flex-shrink: 0;
+}
+
+.body-div-col-sm-1 {
+  mix-blend-mode: normal;
+  margin-bottom: -1px;
+  width: 380px;
+  height: 96px;
+  padding-bottom: 25px;
+  padding-left: 7.5px;
+  padding-right: 7.5px;
+  padding-top: 25px;
+  flex-shrink: 0;
+}
+
+.body-t-div-col-sm-1 {
+  padding-bottom: 12px;
+  padding-right: 73px;
+}
+
+.body-div-col-sm-2 {
+  mix-blend-mode: normal;
+  padding-left: 15px;
+  padding-right: 15px;
+  position: relative;
+  bottom: 18px;
+}
+
+.body-input-form-control {
+  border-bottom-width: 1px;
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  align-items: center;
+  flex-grow: 1;
+  max-width: 262px;
+  padding-bottom: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 7px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  margin-right: 60px;
+}
+
+.body-procurar-na-loja {
+  margin-right: -12px;
+  flex-grow: 1;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  text-overflow: ellipsis;
+  font-family: Lato, ui-sans-serif, system-ui, sans-serif;
+  color: #ffffff7f;
+}
+
+.body-logo-da-loja {
+  mix-blend-mode: normal;
+  object-fit: cover;
+  object-position: center;
+  width: 260px;
+  height: 115px;
+  flex-shrink: 0;
+  margin-right: 440px;
+  position: relative;
+  right: 50px;
+}
+
+.body-t-link-dropdown-toggle {
+  padding-bottom: 6px;
+}
+
+.body-link-dropdown-toggle {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  padding-bottom: 6.5px;
+  padding-left: 11px;
+  padding-right: 13px;
+  padding-top: 5.5px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  z-index: 0;
+  position: relative;
+  left: 950px;
+  top: 51px;
+}
+
+.body-t-svg-1 {
+  width: 18px;
+  height: 17px;
+  z-index: 2;
+  flex-shrink: 0;
+}
+
+.body-svg-1 {
+  mix-blend-mode: normal;
+  margin-bottom: -1.59px;
+  width: 18px;
+  height: 19px;
+  flex-shrink: 0;
+}
+
+.body-t-carrinho {
+  z-index: 1;
+  flex-shrink: 0;
+}
+
+.body-carrinho {
+  margin-right: 0.66px;
+  text-transform: capitalize;
+}
+
+.body-t-nav-barra-navigation {
+  height: 49px;
+  z-index: 1;
+  flex-shrink: 0;
+}
+
+.body-nav-barra-navigation {
+  border-bottom-width: 1px;
+  mix-blend-mode: normal;
+  align-items: center;
+  margin-bottom: -1.5px;
+  max-width: 100%;
+  max-height: 100%;
+  height: 50px;
+  padding-left: 96px;
+  padding-right: 96px;
+  font-size: 17px;
+  line-height: 24px;
+  font-weight: bold;
+  flex-shrink: 0;
+}
+<!-- Todos-->
+.body-link {
+  mix-blend-mode: normal;
+  padding-bottom: 14px;
+  padding-top: 10px;
+}
+.body-todos {
+  position: relative;
+  text-align: right;
+  left: 35px;
+}
+
+.body-t-list-loja-navigation {
+  width: 1059px;
+  flex-shrink: 0;
+}
+
+.body-list-loja-navigation {
+  mix-blend-mode: normal;
+  width: 1128px;
+  height: 30px;
+  flex-shrink: 0;
+}
+
+.body-t-link-link-link {
+  column-gap: 20px;
+  text-align: right;
+  flex-shrink: 0;
+  margin-left: 30px;
+}
+
+.body-link-1 {
+  mix-blend-mode: normal;
+  width: 113px;
+  padding-bottom: 14px;
+  padding-top: 13px;
+  flex-shrink: 0;
+}
+
+.body-lan-amentos {
+  text-align: right;
+}
+
+.body-link-2 {
+  mix-blend-mode: normal;
+  width: 108px;
+  padding-bottom: 14px;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-top: 13px;
+  flex-shrink: 0;
+}
+
+.body-pr-vendas {
+  text-align: right;
+  padding-left: 17px;
+}
+
+.body-link-3 {
+  mix-blend-mode: normal;
+  width: 100px;
+  padding-bottom: 14px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 13px;
+  flex-shrink: 0;
+}
+
+.body-mang-s {
+  position: relative;
+  text-align: center;
+  left: 16px;
+}
+
+.body-t-link-tlink-link-tlink-tlink-tlink-link {
+  column-gap: 8px;
+  width: 47px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.body-link-4 {
+  mix-blend-mode: normal;
+  width: 100px;
+  padding-bottom: 14px;
+  padding-top: 10px;
+  flex-shrink: 0;
+}
+
+.body-quadrinhos {
+  text-align: left;
+}
+
+.body-t-link {
+  width: 97px;
+  flex-shrink: 0;
+}
+
+.body-link-5 {
+  mix-blend-mode: normal;
+  padding-bottom: 14px;
+  padding-top: 10px;
+  text-align: center;
+}
+
+.body-marvel {
+  padding-left: 11px;
+}
+
+.body-link-6 {
+  mix-blend-mode: normal;
+  width: 62px;
+  padding-bottom: 13px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 13px;
+  flex-shrink: 0;
+}
+
+.body-dc {
+  text-align: center;
+  padding-left: 10px;
+}
+
+.body-t-link-1 {
+  width: 140px;
+  flex-shrink: 0;
+}
+
+.body-link-7 {
+  mix-blend-mode: normal;
+  padding-bottom: 14px;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 13px;
+  text-align: center;
+}
+
+.body-colecion-veis {
+  padding-left: 10px;
+}
+
+.body-t-link-2 {
+  width: 96px;
+  flex-shrink: 0;
+}
+
+.body-link-8 {
+  mix-blend-mode: normal;
+  padding-bottom: 14px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 13px;
+  text-align: center;
+}
+
+.body-t-link-3 {
+  width: 109px;
+  padding-left: 3px;
+  flex-shrink: 0;
+}
+
+.body-link-9 {
+  mix-blend-mode: normal;
+  padding-bottom: 14px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 13px;
+  text-align: center;
+}
+
+.body-link-10 {
+  mix-blend-mode: normal;
+  width: 126px;
+  padding-bottom: 14px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 13px;
+  flex-shrink: 0;
+}
+
+.body-filmes-sries {
+  text-align: center;
+  padding-left: 16px;
+}
+
+.body-wrapper-1 {
+  padding-left: 143px;
+  padding-right: 142px;
+  padding-top: 23px;
+  align-self: stretch;
+}
+
+.body-div-carousel-slideshow {
+  mix-blend-mode: normal;
+  overflow: clip;
+  padding-left: 0.5px;
+  padding-top: 0.5px;
+  width: 100%;
+  height: 100%;
+  flex-shrink: 0;
+}
+
+.body-div-owl-wrapper-outer {
+  mix-blend-mode: normal;
+  overflow: clip;
+  flex-shrink: 0;
+}
+
+.body-image {
+  mix-blend-mode: normal;
+  background-image: url(assets/image.jpg);
+  background-size: 100% 111%;
+  background-position: 0px 0px;
+  background-repeat: no-repeat;
+  max-width: 100%;
+  max-height: 100%;
+  width: 1140px;
+  height: 315px;
+  flex-shrink: 0;
+}
+
+.body-tt-div-pagebody-wrapper-tdiv-newsletter-wrapper-tfooter-div-topbar {
+  width: 1425px;
+  flex-grow: 1;
+  padding-top: 33px;
+}
+
+.body-t-div-pagebody-wrapper-tdiv-newsletter-wrapper-tfooter-div-topbar {
+  margin-right: 9px;
+  width: 1443px;
+  flex-grow: 1;
+}
+
+.body-div-pagebody-wrapper {
+  mix-blend-mode: normal;
+  padding-top: 30px;
+}
+
+.body-div-container-1 {
+  mix-blend-mode: normal;
+  padding-bottom: 28px;
+  font-family: Oswald, ui-sans-serif, system-ui, sans-serif;
+}
+
+.body-wrapper-3 {
+  width: 1237px;
+  height: 198px;
+  bottom: 76px;
+  left: calc(50% + -99px + -489.5px);
+  flex-shrink: 0;
+}
+
+.body-div-carousel-slideshow-1 {
+  mix-blend-mode: normal;
+  overflow: clip;
+  flex-shrink: 0;
+}
+
+.body-div-product-carousel-brandslider {
+  border-bottom-width: 1px;
+  mix-blend-mode: normal;
+  padding-bottom: 37px;
+  padding-right: 77px;
+}
+
+.body-div-owl-wrapper-outer-1 {
+  mix-blend-mode: normal;
+  overflow: clip;
+  padding-top: 0.47px;
+  flex-shrink: 0;
+}
+
+.body-div-owl-wrapper {
+  mix-blend-mode: normal;
+  padding-bottom: 19px;
+  padding-left: 20px;
+  padding-right: 40px;
+  padding-top: 20px;
+}
+
+.body-t-div-slide-div-slide-div-slide-div-slide-div-slide {
+  row-gap: 100px;
+  column-gap: 39.4px;
+}
+
+.body-div-slide {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  padding-bottom: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 30px;
+}
+
+.body-image-1 {
+  mix-blend-mode: normal;
+  background-image: url(assets/image-1.jpg);
+  flex-shrink: 0;
+}
+
+.body-div-slide-1 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  padding-bottom: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 30px;
+}
+
+.body-image-2 {
+  mix-blend-mode: normal;
+  object-fit: cover;
+  object-position: center;
+  flex-shrink: 0;
+}
+
+.body-div-slide-2 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  padding-bottom: 30px;
+  padding-left: 11px;
+  padding-right: 9.5px;
+  padding-top: 30px;
+}
+
+.body-image-3 {
+  mix-blend-mode: normal;
+  background-image: url(assets/image-3.jpg);
+  background-position: 2px -106.84px;
+  max-width: 100%;
+  max-height: 100%;
+  flex-shrink: 0;
+}
+
+.body-div-slide-3 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  padding-bottom: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 30px;
+}
+
+.body-image-4 {
+  mix-blend-mode: normal;
+  background-image: url(assets/image-4.jpg);
+  background-position: 3px -106.84px;
+  max-width: 100%;
+  max-height: 100%;
+  flex-shrink: 0;
+}
+
+.body-div-slide-4 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  padding-bottom: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 30px;
+}
+
+.body-image-5 {
+  mix-blend-mode: normal;
+  background-image: url(assets/image-5.jpg);
+  background-size: 100% 406%;
+  background-position: -1px -168.15px;
+  background-repeat: no-repeat;
+  max-width: 100%;
+  max-height: 100%;
+  flex-shrink: 0;
+}
+
+.body-t-div-product-carousel-wrapper-tdiv-product-carousel-wrapper-div-product-carousel-wrapper {
+  z-index: 2;
+  font-size: 14px;
+}
+
+.body-div-product-carousel-wrapper {
+  border-top-width: 5px;
+  mix-blend-mode: normal;
+  overflow: clip;
+  background-image: url(assets/div-product-carousel-wrapper.jpg);
+  padding-left: 128px;
+  padding-right: 128px;
+  box-shadow: inset 0px -31px 35px 0px rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+
+.body-div-container-2 {
+  mix-blend-mode: normal;
+  row-gap: 10px;
+  padding-bottom: 71px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.body-h {
+  mix-blend-mode: normal;
+  padding-left: 510px;
+  padding-right: 531px;
+  padding-top: 30px;
+}
+
+.body-div {
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  padding-bottom: 6px;
+  padding-left: 27px;
+  padding-right: 28px;
+  padding-top: 5.8px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  margin-top: 10px;
+  margin-left: 3px;
+}
+
+.body-mais {
+  line-height: 13px;
+  font-weight: 700;
+}
+
+.body-div-product-carousel-newproduct {
+  mix-blend-mode: normal;
+  row-gap: 10px;
+}
+
+.body-div-owl-wrapper-outer-2 {
+  mix-blend-mode: normal;
+  overflow: clip;
+  padding-top: 0.61px;
+  flex-shrink: 0;
+}
+
+.body-div-owl-wrapper-1 {
+  mix-blend-mode: normal;
+  padding-bottom: 9.4px;
+  padding-right: 22px;
+  padding-top: 10px;
+}
+
+.body-t-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item {
+  row-gap: 20px;
+  column-gap: 20px;
+}
+
+.body-div-product-carousel-item {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  row-gap: 4.3px;
+  padding-bottom: 10px;
+  padding-top: 30px;
+  box-shadow: 0px 3px 16px -2px rgba(0, 0, 0, 0.15);
+}
+
+.body-t-image-image-thumb {
+  padding-right: 0.5px;
+}
+
+.body-image-image-thumb {
+  mix-blend-mode: normal;
+  object-fit: cover;
+  object-position: center;
+  flex-shrink: 0;
+}
+
+.body-div-caption {
+  mix-blend-mode: normal;
+  row-gap: 12px;
+  padding-bottom: 10px;
+  padding-left: 9.8px;
+  padding-right: 10px;
+  padding-top: 66px;
+  position: relative;
+}
+
+.body-r {
+  line-height: 25px;
+}
+
+.body-link-add-to-basket-button-listing {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  align-items: flex-end;
+  column-gap: 6.3px;
+  align-self: stretch;
+  padding-bottom: 12px;
+  padding-left: 47px;
+  padding-right: 53px;
+  padding-top: 12px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.body-t-svg-2 {
+  padding-bottom: 1.5px;
+}
+
+.body-svg-2 {
+  mix-blend-mode: normal;
+  flex-shrink: 0;
+}
+
+.body-adicionar {
+  font-size: 17px;
+}
+
+.body-jerusal-malan-moore {
+  width: 133px;
+  left: calc(50% + -8px + -55.25px);
+  top: 35px;
+  position: absolute;
+  line-height: 15px;
+  flex-shrink: 0;
+}
+
+.body-div-product-carousel-item-1 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  padding-bottom: 10px;
+  padding-top: 30px;
+  box-shadow: 0px 3px 16px -2px rgba(0, 0, 0, 0.15);
+}
+
+.body-image-image-thumb-1 {
+  mix-blend-mode: normal;
+  background-image: url(assets/image-image-thumb-1.png);
+  flex-shrink: 0;
+}
+
+.body-t-div-caption {
+  flex-shrink: 0;
+}
+
+.body-div-caption-1 {
+  mix-blend-mode: normal;
+  margin-top: -11.05px;
+  row-gap: 7px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.body-link-11 {
+  mix-blend-mode: normal;
+  padding-bottom: 17px;
+  padding-left: 23px;
+  padding-right: 23px;
+  padding-top: 2.8px;
+}
+
+.body-t-nebula-funko-pop-marvel {
+  padding-left: 12px;
+  position: relative;
+  line-height: 15px;
+}
+
+.body-nebula {
+  width: 39px;
+  left: calc(50% + -8px + -9.5px);
+  flex-shrink: 0;
+}
+
+.body-r-1 {
+  font-family: Lato, ui-sans-serif, system-ui, sans-serif;
+  line-height: 25px;
+}
+
+.body-t-link-add-to-basket-button-listing {
+  padding-right: 0.15px;
+  padding-top: 3.2px;
+}
+
+.body-link-add-to-basket-button-listing-1 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  align-items: flex-end;
+  column-gap: 6.3px;
+  padding-bottom: 12px;
+  padding-left: 47px;
+  padding-right: 53px;
+  padding-top: 12px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  text-align: center;
+}
+
+.body-t-svg-3 {
+  padding-bottom: 1.5px;
+}
+
+.body-svg-3 {
+  mix-blend-mode: normal;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.body-div-product-carousel-item-2 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  padding-bottom: 10px;
+  padding-top: 30px;
+  box-shadow: 0px 3px 16px -2px rgba(0, 0, 0, 0.15);
+}
+
+.body-image-image-thumb-2 {
+  mix-blend-mode: normal;
+  background-image: url(assets/image-image-thumb-2.png);
+  flex-shrink: 0;
+}
+
+.body-t-div-caption-1 {
+  flex-shrink: 0;
+}
+
+.body-div-caption-2 {
+  mix-blend-mode: normal;
+  margin-top: -11.05px;
+  row-gap: 5.5px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  flex-shrink: 0;
+}
+
+.body-link-12 {
+  mix-blend-mode: normal;
+  padding-bottom: 9px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 9px;
+}
+
+.body-caneca-senhor-destino {
+  line-height: 15px;
+  padding-left: 6px;
+  padding-bottom: 2px;
+}
+
+.body-r-2 {
+  line-height: 25px;
+  padding-left: 2.9px;
+}
+
+.body-t-link-add-to-basket-button-listing-1 {
+  padding-right: 0.06px;
+  padding-top: 6.3px;
+}
+
+.body-link-add-to-basket-button-listing-2 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  align-items: flex-end;
+  column-gap: 6.3px;
+  padding-bottom: 12px;
+  padding-left: 47px;
+  padding-right: 53px;
+  padding-top: 12px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.body-t-svg-4 {
+  padding-bottom: 1.5px;
+}
+
+.body-svg-4 {
+  mix-blend-mode: normal;
+  flex-shrink: 0;
+}
+
+.body-adicionar-2 {
+  font-size: 17px;
+}
+
+.body-div-product-carousel-item-3 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  padding-bottom: 10px;
+  padding-top: 30px;
+  box-shadow: 0px 3px 16px -2px rgba(0, 0, 0, 0.15);
+}
+
+.body-image-image-thumb-3 {
+  mix-blend-mode: normal;
+  background-image: url(assets/image-image-thumb-3.png);
+  flex-shrink: 0;
+}
+
+.body-t-div-caption-2 {
+  flex-shrink: 0;
+}
+
+.body-div-caption-3 {
+  mix-blend-mode: normal;
+  margin-top: -11.05px;
+  row-gap: 7px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.body-t-link-4 {
+  padding-right: 0.41px;
+}
+
+.body-link-13 {
+  mix-blend-mode: normal;
+  row-gap: 1.2px;
+  padding-left: 30px;
+  padding-right: 23px;
+  padding-top: 2.8px;
+  line-height: 15px;
+}
+
+.body-r-3 {
+  font-family: Lato, ui-sans-serif, system-ui, sans-serif;
+  line-height: 25px;
+}
+
+.body-t-link-add-to-basket-button-listing-2 {
+  padding-top: 3.2px;
+}
+
+.body-link-add-to-basket-button-listing-3 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  align-items: flex-end;
+  column-gap: 6.3px;
+  padding-bottom: 12px;
+  padding-left: 47px;
+  padding-right: 53px;
+  padding-top: 12px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  text-align: center;
+}
+
+.body-t-svg-5 {
+  padding-bottom: 1.5px;
+}
+
+.body-svg-5 {
+  mix-blend-mode: normal;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.body-div-product-carousel-item-4 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  row-gap: 12px;
+  padding-bottom: 10px;
+  padding-top: 30px;
+  box-shadow: 0px 3px 16px -2px rgba(0, 0, 0, 0.15);
+}
+
+.body-image-image-thumb-4 {
+  mix-blend-mode: normal;
+  background-image: url(assets/image-image-thumb-4.png);
+  width: 118px;
+  height: 160px;
+  flex-shrink: 0;
+}
+
+.body-div-caption-4 {
+  mix-blend-mode: normal;
+  row-gap: 42px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 17px;
+  position: relative;
+}
+
+.body-r-4 {
+  width: 61px;
+  left: calc(50% + -12.5px + -14.5px);
+  top: calc(50% + -12.5px + -7.43px);
+  position: absolute;
+  line-height: 25px;
+  flex-shrink: 0;
+}
+
+.body-t-link-5 {
+  padding-left: 0.43px;
+}
+
+.body-link-14 {
+  mix-blend-mode: normal;
+  padding-bottom: 8px;
+  padding-left: 2px;
+  padding-top: 8px;
+}
+
+.body-t-undertaker-edi-odefinitiva {
+  padding-bottom: 4px;
+}
+
+.body-undertaker-edi-odefinitiva {
+  text-align: right;
+  line-height: 15px;
+}
+
+.body-link-add-to-basket-button-listing-4 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  align-items: flex-end;
+  column-gap: 6.3px;
+  align-self: stretch;
+  padding-bottom: 12px;
+  padding-left: 47px;
+  padding-right: 53px;
+  padding-top: 12px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.body-t-svg-6 {
+  padding-bottom: 1.5px;
+}
+
+.body-svg-6 {
+  mix-blend-mode: normal;
+  flex-shrink: 0;
+}
+
+.body-adicionar-4 {
+  font-size: 17px;
+}
+
+.body-div-owl-pagination {
+  mix-blend-mode: normal;
+  align-self: stretch;
+  padding-bottom: 5px;
+  padding-left: 447px;
+  padding-right: 447px;
+  padding-top: 5px;
+}
+
+.body-tt-span-span-span-span-span-span-span-span-span-span {
+  padding-bottom: 5px;
+}
+
+.body-t-span-span-span-span-span-span-span-span-span-span {
+  column-gap: 14px;
+}
+
+.body-span {
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: cadetblue;
+  width: 12px;
+  height: 12px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  flex-shrink: 0;
+}
+
+.body-span-1 {
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  flex-shrink: 0;
+}
+
+.body-span-2 {
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  flex-shrink: 0;
+}
+
+.body-span-3 {
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  flex-shrink: 0;
+}
+
+.body-span-4 {
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  flex-shrink: 0;
+}
+
+.body-span-5 {
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  flex-shrink: 0;
+}
+
+.body-span-6 {
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  flex-shrink: 0;
+}
+
+.body-span-7 {
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  flex-shrink: 0;
+}
+
+.body-span-8 {
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  flex-shrink: 0;
+}
+
+.body-span-9 {
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  flex-shrink: 0;
+}
+
+.body-t-div-product-carousel-wrapper {
+  height: 457px;
+  flex-shrink: 0;
+}
+
+.body-div-product-carousel-wrapper-1 {
+  border-top-width: 5px;
+  mix-blend-mode: normal;
+  margin-top: -50.01px;
+  background-color: #ffffff33;
+  height: 507px;
+  padding-left: 128px;
+  padding-right: 128px;
+  box-shadow: inset 0px -31px 35px 0px rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+
+.body-div-container-3 {
+  mix-blend-mode: normal;
+  row-gap: 4.7px;
+  padding-bottom: 26px;
+  padding-left: 0.5px;
+  padding-right: 30px;
+  padding-top: 20px;
+}
+
+.body-th {
+  padding-left: 25px;
+}
+
+.body-h-1 {
+  mix-blend-mode: normal;
+  row-gap: 24px;
+  padding-left: 450px;
+  padding-right: 450px;
+  padding-bottom: 10px;
+}
+
+.body-promo-es {
+  font-size: 24px;
+  line-height: 26px;
+}
+
+.body-div-1 {
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  padding-left: 27px;
+  padding-right: 28px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  margin-right: 6px;
+}
+
+.body-mai-s1 {
+  line-height: 13px;
+}
+
+.body-div-owl-wrapper-outer-3 {
+  mix-blend-mode: normal;
+  overflow: clip;
+  flex-shrink: 0;
+}
+
+.body-div-owl-wrapper-2 {
+  mix-blend-mode: normal;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+
+.body-t-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-1 {
+  row-gap: 20px;
+  column-gap: 20px;
+}
+
+.body-div-product-carousel-item-5 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  row-gap: 28px;
+  padding-bottom: 10px;
+  padding-top: 30px;
+  box-shadow: 0px 3px 16px -2px rgba(0, 0, 0, 0.15);
+}
+
+.body-image-image-thumb-5 {
+  mix-blend-mode: normal;
+  background-image: url(assets/image-image-thumb-5.png);
+  flex-shrink: 0;
+}
+
+.body-div-caption-5 {
+  mix-blend-mode: normal;
+  row-gap: 9.6px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 20px;
+}
+
+.body-new-teen-titans-omnibus-vol {
+  line-height: 15px;
+}
+
+.body-paragraph {
+  mix-blend-mode: normal;
+  padding-left: 24px;
+  padding-right: 24px;
+  flex-shrink: 0;
+}
+
+.body-tt-r30000r {
+  margin-top: 0.25px;
+  padding-left: 8.6px;
+}
+
+.body-t-r30000r {
+  column-gap: 6px;
+  font-family: Lato, ui-sans-serif, system-ui, sans-serif;
+  line-height: 25px;
+}
+
+.body-r-5 {
+  text-decoration: line-through;
+}
+
+.body-link-add-to-basket-button-listing-5 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  align-self: stretch;
+  padding-bottom: 12px;
+  padding-left: 56px;
+  padding-right: 56px;
+  padding-top: 12px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.body-t-svg-adicionar {
+  padding-left: 13px;
+  position: relative;
+}
+
+.body-svg-7 {
+  mix-blend-mode: normal;
+  flex-shrink: 0;
+}
+
+.body-div-product-carousel-item-6 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  row-gap: 12px;
+  padding-bottom: 10px;
+  padding-top: 30px;
+  box-shadow: 0px 3px 16px -2px rgba(0, 0, 0, 0.15);
+}
+
+.body-image-image-thumb-6 {
+  mix-blend-mode: normal;
+  background-image: url(assets/image-image-thumb-6.png);
+  flex-shrink: 0;
+}
+
+.body-div-caption-6 {
+  mix-blend-mode: normal;
+  row-gap: 7.8px;
+  width: 206px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 17px;
+  text-align: center;
+}
+
+.body-t-link-6 {
+  padding-right: 0.19px;
+}
+
+.body-link-15 {
+  mix-blend-mode: normal;
+  align-items: flex-start;
+  row-gap: 1.2px;
+  flex-direction: column;
+  padding-left: 15px;
+  padding-right: 13px;
+  padding-top: 2.8px;
+  line-height: 15px;
+}
+
+.body-paragraph-1 {
+  mix-blend-mode: normal;
+  align-self: stretch;
+  padding-left: 1.6px;
+  flex-shrink: 0;
+}
+
+.body-t-r6390r {
+  margin-top: 0.25px;
+  column-gap: 5px;
+  font-family: Lato, ui-sans-serif, system-ui, sans-serif;
+  line-height: 25px;
+}
+
+.body-r-7 {
+  text-decoration: line-through;
+}
+
+.body-t-svg-link-add-to-basket-button-listing {
+  padding-top: 2.2px;
+}
+
+.body-link-add-to-basket-button-listing-6 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  padding-bottom: 12px;
+  padding-left: 56px;
+  padding-right: 56px;
+  padding-top: 12px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  z-index: 1;
+  text-align: center;
+}
+
+.body-adicionar-6 {
+  font-size: 17px;
+  padding-left: 13px;
+}
+
+.body-svg-8 {
+  mix-blend-mode: normal;
+  top: calc(50% + -8.5px + 2.6px);
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.body-div-product-carousel-item-7 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  row-gap: 0px;
+  padding-bottom: 10px;
+  padding-top: 30px;
+  box-shadow: 0px 3px 16px -2px rgba(0, 0, 0, 0.15);
+}
+
+.body-image-image-thumb-7 {
+  mix-blend-mode: normal;
+  object-fit: cover;
+  object-position: center;
+  flex-shrink: 0;
+}
+
+.body-div-caption-7 {
+  mix-blend-mode: normal;
+  row-gap: 4.8px;
+  padding-bottom: 10px;
+  padding-left: 0.5px;
+  padding-right: 0.5px;
+  padding-top: 17px;
+}
+
+.body-t-link-7 {
+  padding-left: 0.46px;
+}
+
+.body-link-16 {
+  mix-blend-mode: normal;
+  width: 177px;
+  padding-bottom: 17px;
+  padding-top: 2.8px;
+  flex-shrink: 0;
+}
+
+.body-camiseta-ben-10quatro-bra-os {
+  margin-right: 0.5px;
+  line-height: 15px;
+}
+
+.body-t-paragraph {
+  align-self: stretch;
+}
+
+.body-paragraph-2 {
+  mix-blend-mode: normal;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+
+.body-tt-r1999r {
+  margin-top: 0.25px;
+  padding-left: 9.6px;
+}
+
+.body-t-r1999r {
+  column-gap: 7px;
+  font-family: Lato, ui-sans-serif, system-ui, sans-serif;
+  line-height: 25px;
+}
+
+.body-r-9 {
+  text-decoration: line-through;
+}
+
+.body-t-svg-link-add-to-basket-button-listing-1 {
+  padding-top: 8.2px;
+}
+
+.body-link-add-to-basket-button-listing-7 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  padding-bottom: 12px;
+  padding-left: 56px;
+  padding-right: 56px;
+  padding-top: 12px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  z-index: 1;
+}
+
+.body-adicionar-7 {
+  padding-left: 13px;
+}
+
+.body-svg-9 {
+  mix-blend-mode: normal;
+  top: calc(50% + -8.5px + 5.6px);
+  flex-shrink: 0;
+}
+
+.body-div-product-carousel-item-8 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  row-gap: 28px;
+  padding-bottom: 10px;
+  padding-top: 30px;
+  box-shadow: 0px 3px 16px -2px rgba(0, 0, 0, 0.15);
+}
+
+.body-image-image-thumb-8 {
+  mix-blend-mode: normal;
+  object-fit: cover;
+  object-position: center;
+  flex-shrink: 0;
+}
+
+.body-div-caption-8 {
+  mix-blend-mode: normal;
+  row-gap: 12px;
+  padding-bottom: 10px;
+  padding-left: 0.5px;
+  padding-right: 4.5px;
+  padding-top: 13px;
+}
+
+.body-fullmetal-alchemist {
+  line-height: 15px;
+}
+
+.body-t-paragraph-1 {
+  align-self: stretch;
+}
+
+.body-paragraph-3 {
+  mix-blend-mode: normal;
+  padding-left: 29px;
+  padding-right: 29px;
+}
+
+.body-tt-r2140r {
+  margin-top: 0.25px;
+  padding-left: 15px;
+}
+
+.body-t-r2140r {
+  column-gap: 6px;
+  font-family: Lato, ui-sans-serif, system-ui, sans-serif;
+  line-height: 25px;
+}
+
+.body-r-11 {
+  text-decoration: line-through;
+}
+
+.body-t-link-add-to-basket-button-listing-3 {
+  padding-left: 4px;
+  padding-top: 3.3px;
+}
+
+.body-link-add-to-basket-button-listing-8 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  padding-bottom: 12px;
+  padding-left: 56px;
+  padding-right: 56px;
+  padding-top: 12px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.body-t-svg-adicionar-1 {
+  padding-left: 13px;
+  position: relative;
+}
+
+.body-svg-10 {
+  mix-blend-mode: normal;
+  flex-shrink: 0;
+}
+
+.body-div-product-carousel-item-9 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  overflow: clip;
+  row-gap: 12px;
+  padding-bottom: 10px;
+  padding-top: 30px;
+  box-shadow: 0px 3px 16px -2px rgba(0, 0, 0, 0.15);
+  flex-shrink: 0;
+}
+
+.body-image-image-thumb-9 {
+  mix-blend-mode: normal;
+  background-image: url(assets/image-image-thumb-9.png);
+  flex-shrink: 0;
+}
+
+.body-div-caption-9 {
+  mix-blend-mode: normal;
+  row-gap: 3.6px;
+  padding-bottom: 10px;
+  padding-top: 17px;
+}
+
+.body-link-17 {
+  mix-blend-mode: normal;
+  padding-bottom: 17px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 2.8px;
+}
+
+.body-t-charizard-amiibo-super-smash-bros {
+  padding-left: 4px;
+  position: relative;
+  line-height: 15px;
+}
+
+.body-charizard {
+  left: 48px;
+  right: 49px;
+}
+
+.body-paragraph-4 {
+  mix-blend-mode: normal;
+  padding-left: 26px;
+  padding-right: 7.5px;
+}
+
+.body-t-r54890r {
+  margin-top: 0.25px;
+  column-gap: 5px;
+  font-family: Lato, ui-sans-serif, system-ui, sans-serif;
+  line-height: 25px;
+}
+
+.body-r-13 {
+  text-decoration: line-through;
+}
+
+.body-t-link-add-to-basket-button-listing-4 {
+  align-self: stretch;
+  padding-top: 11px;
+}
+
+.body-link-add-to-basket-button-listing-9 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  padding-bottom: 12px;
+  padding-left: 56px;
+  padding-right: 56px;
+  padding-top: 12px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.body-t-svg-adicionar-2 {
+  padding-left: 13px;
+  position: relative;
+}
+
+.body-svg-11 {
+  mix-blend-mode: normal;
+  flex-shrink: 0;
+}
+
+.body-div-product-carousel-wrapper-2 {
+  border-style: solid;
+  border-color: gold;
+  border-top-width: 5px;
+  mix-blend-mode: normal;
+  padding-left: 128px;
+  padding-right: 128px;
+  box-shadow: inset 0px -31px 35px 0px rgba(0, 0, 0, 0.25);
+}
+
+.body-div-container-4 {
+  mix-blend-mode: normal;
+  row-gap: 19px;
+  flex-direction: column;
+  padding-bottom: 21px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 11px;
+  text-align: center;
+}
+
+.body-t-h1 {
+  padding-right: 27px;
+  padding-top: 20px;
+
+}
+
+.body-h-2 {
+  mix-blend-mode: normal;
+  padding-left: 520px;
+  padding-right: 520px;
+  padding-top: 50px;
+  position: relative;
+}
+
+.body-div-2 {
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  background-color: yellow;
+  padding-bottom: 1.3px;
+  padding-left: 27px;
+  padding-right: 28px;
+  padding-top: 1.6px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  margin-left: 10px;
+}
+
+.body-mai-s2 {
+  line-height: 13px;
+  padding-top: 5px;
+  padding-bottom:5px
+}
+
+.body-est-ochegando {
+  border-style: solid;
+  border-color: #0000007f;
+  height: 44px;
+  left: 488px;
+  font-size: 24px;
+  line-height: 26px;
+}
+
+.body-div-product-carousel-preorder {
+  mix-blend-mode: normal;
+  padding-bottom: 37px;
+  padding-right: 19px;
+  padding-top: 0.36px;
+}
+
+.body-wrapper-9 {
+  width: 1122px;
+  text-align: center;
+}
+
+.body-div-owl-wrapper-outer-4 {
+  mix-blend-mode: normal;
+  overflow: clip;
+  padding-top: 0.47px;
+  flex-shrink: 0;
+}
+
+.body-div-owl-wrapper-3 {
+  mix-blend-mode: normal;
+  margin-right: 9.3px;
+  width: 1140px;
+  padding-bottom: 9.5px;
+  padding-left: 9.5px;
+  padding-right: 9.5px;
+  padding-top: 10px;
+  text-align: center;
+}
+
+.body-t-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-2 {
+  row-gap: 20px;
+  column-gap: 20px;
+}
+
+.body-div-product-carousel-item-10 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  row-gap: 30px;
+  padding-bottom: 10px;
+  padding-top: 30px;
+  box-shadow: 0px 3px 16px -2px rgba(0, 0, 0, 0.15);
+  text-align: center;
+}
+
+.body-image-image-thumb-10 {
+  mix-blend-mode: normal;
+  object-fit: cover;
+  object-position: center;
+  flex-shrink: 0;
+}
+
+.body-div-caption-10 {
+  mix-blend-mode: normal;
+  padding-bottom: 10px;
+  padding-left: 2.3px;
+  padding-right: 10px;
+  padding-top: 0.33px;
+}
+
+.body-cavaleiros-do-zodiaco {
+  line-height: 15px;
+}
+
+.body-final-edition-vol {
+  line-height: 15px;
+  padding-right: 3px;
+}
+
+.body-tr {
+  padding-top: 5.7px;
+  text-align: center;
+}
+
+.body-r-15 {
+  font-family: Lato, ui-sans-serif, system-ui, sans-serif;
+  line-height: 25px;
+}
+
+.body-t-link-add-to-basket-button-listing-5 {
+  align-items: flex-end;
+  align-self: stretch;
+  padding-top: 17px;
+  text-align: center;
+}
+
+.body-link-add-to-basket-button-listing-10 {
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  align-items: flex-end;
+  column-gap: 14px;
+  padding-bottom: 12px;
+  padding-left: 31px;
+  padding-right: 51px;
+  padding-top: 12px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.body-t-svg-7 {
+  padding-bottom: 1.5px;
+  text-align: center;
+}
+
+.body-svg-12 {
+  mix-blend-mode: normal;
+  flex-shrink: 0;
+}
+
+.body-div-product-carousel-item-11 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  row-gap: 14px;
+  padding-bottom: 10px;
+  padding-top: 30px;
+  box-shadow: 0px 3px 16px -2px rgba(0, 0, 0, 0.15);
+  text-align: center;
+}
+
+.body-image-image-thumb-11 {
+  mix-blend-mode: normal;
+  object-fit: cover;
+  object-position: center;
+  flex-shrink: 0;
+}
+
+.body-div-caption-11 {
+  mix-blend-mode: normal;
+  row-gap: 21px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 17px;
+}
+
+.body-tt-link-tr {
+  padding-left: 2.4px;
+  padding-right: 2px;
+  text-align: center;
+}
+
+.body-t-link-tr {
+  z-index: 0;
+}
+
+.body-link-18 {
+  mix-blend-mode: normal;
+  padding-bottom: 18px;
+  padding-left: 32px;
+  padding-right: 31px;
+  padding-top: 2.4px;
+  z-index: 2;
+  text-align: center;
+}
+
+.body-contagem-de-corpos {
+  line-height: 15px;
+}
+
+.body-t-r1 {
+  height: 22px;
+  padding-right: 0.47px;
+  z-index: 1;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.body-r-16 {
+  font-family: Lato, ui-sans-serif, system-ui, sans-serif;
+  line-height: 25px;
+}
+
+.body-link-add-to-basket-button-listing-11 {
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  align-items: flex-end;
+  column-gap: 14px;
+  align-self: stretch;
+  padding-bottom: 12px;
+  padding-left: 31px;
+  padding-right: 55px;
+  padding-top: 12px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  text-align: center;
+}
+
+.body-t-svg-8 {
+  padding-bottom: 1.5px;
+}
+
+.body-svg-13 {
+  mix-blend-mode: normal;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.body-pr-venda-1 {
+  text-align: left;
+}
+
+.body-div-product-carousel-item-12 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  row-gap: 14px;
+  padding-bottom: 10px;
+  padding-top: 30px;
+  box-shadow: 0px 3px 16px -2px rgba(0, 0, 0, 0.15);
+  text-align: center;
+}
+
+.body-image-image-thumb-12 {
+  mix-blend-mode: normal;
+  object-fit: cover;
+  object-position: center;
+  flex-shrink: 0;
+}
+
+.body-div-caption-12 {
+  mix-blend-mode: normal;
+  row-gap: 0.42px;
+  padding-bottom: 10px;
+  padding-left: 9.9px;
+  padding-right: 10px;
+  padding-top: 17px;
+}
+
+.body-link-19 {
+  mix-blend-mode: normal;
+  padding-bottom: 2px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 18px;
+  position: relative;
+  line-height: 15px;
+}
+
+.body-neon-genesis-evangelion {
+  left: 18px;
+  right: 19px;
+  top: 0.42px;
+  position: absolute;
+  flex-shrink: 0;
+}
+
+.body-r-17 {
+  line-height: 25px;
+  padding-right: 1.6px;
+}
+
+.body-t-link-add-to-basket-button-listing-6 {
+  padding-left: 0.44px;
+  padding-top: 16px;
+  text-align: center;
+}
+
+.body-link-add-to-basket-button-listing-12 {
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  align-items: flex-end;
+  column-gap: 14px;
+  padding-bottom: 12px;
+  padding-left: 31px;
+  padding-right: 55px;
+  padding-top: 12px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.body-t-svg-9 {
+  padding-bottom: 1.5px;
+  text-align: center;
+}
+
+.body-svg-14 {
+  mix-blend-mode: normal;
+  flex-shrink: 0;
+}
+
+.body-div-product-carousel-item-13 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  row-gap: 30px;
+  padding-bottom: 10px;
+  padding-top: 30px;
+  box-shadow: 0px 3px 16px -2px rgba(0, 0, 0, 0.15);
+  text-align: center;
+}
+
+.body-image-image-thumb-13 {
+  mix-blend-mode: normal;
+  object-fit: cover;
+  object-position: center;
+  flex-shrink: 0;
+}
+
+.body-div-caption-13 {
+  mix-blend-mode: normal;
+  row-gap: 1px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 5.8px;
+}
+
+.body-hellboy-noir {
+  line-height: 15px;
+  padding-left: 1.5px;
+}
+
+.body-sementes-da-destrui-o {
+  line-height: 15px;
+  padding-left: 3.5px;
+}
+
+.body-r-18 {
+  line-height: 25px;
+  padding-right: 1.5px;
+}
+
+.body-t-link-add-to-basket-button-listing-7 {
+  padding-right: 4.5px;
+  padding-top: 19px;
+  text-align: center;
+}
+
+.body-link-add-to-basket-button-listing-13 {
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  align-items: flex-end;
+  column-gap: 14px;
+  padding-bottom: 12px;
+  padding-left: 31px;
+  padding-right: 55px;
+  padding-top: 12px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.body-t-svg-10 {
+  padding-bottom: 1.5px;
+  text-align: center;
+}
+
+.body-svg-15 {
+  mix-blend-mode: normal;
+  flex-shrink: 0;
+}
+
+.body-div-product-carousel-item-14 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  row-gap: 30px;
+  padding-bottom: 10px;
+  padding-top: 30px;
+  box-shadow: 0px 3px 16px -2px rgba(0, 0, 0, 0.15);
+  text-align: center;
+}
+
+.body-image-image-thumb-14 {
+  mix-blend-mode: normal;
+  object-fit: cover;
+  object-position: center;
+  flex-shrink: 0;
+}
+
+.body-div-caption-14 {
+  mix-blend-mode: normal;
+  row-gap: 8px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 11px;
+}
+
+.body-joe-hill-dark-collection-v {
+  line-height: 15px;
+}
+
+.body-r-19 {
+  line-height: 25px;
+  padding-right: 7px;
+}
+
+.body-t-link-add-to-basket-button-listing-8 {
+  padding-top: 12px;
+  text-align: center;
+}
+
+.body-link-add-to-basket-button-listing-14 {
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  align-items: flex-end;
+  column-gap: 14px;
+  padding-bottom: 12px;
+  padding-left: 31px;
+  padding-right: 55px;
+  padding-top: 12px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.body-t-svg-11 {
+  padding-bottom: 1.5px;
+  text-align: center;
+}
+
+.body-svg-16 {
+  mix-blend-mode: normal;
+  flex-shrink: 0;
+}
+
+.body-t-hqs-ecolecion-veis-desde {
+  padding-right: 21px;
+  padding-top: 206px;
+  z-index: 3;
+}
+
+.body-h-qs-ecolecion-veis-desde {
+  line-height: 19px;
+}
+
+.body-obrigado-pela-visita {
+  line-height: 19px;
+  padding-right: 22px;
+}
+
+.body-lan-amentos-1 {
+  width: 128px;
+  z-index: 5;
+  left: 650px;
+  line-height: 26px;
+  flex-shrink: 0;
+  height: 44px;
+}
+
+.body-t-div-newsletter-wrapper {
+  align-self: stretch;
+  padding-right: 18px;
+}
+
+.body-div-newsletter-wrapper {
+  border-top-width: 1px;
+  mix-blend-mode: normal;
+  flex-grow: 1;
+  padding-left: 111px;
+  padding-right: 111px;
+}
+
+.body-t-div-row {
+  flex-grow: 1;
+  padding-right: 33px;
+}
+
+.body-div-row {
+  mix-blend-mode: normal;
+  row-gap: 3.3px;
+  flex-grow: 1;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 40px;
+  text-align: center;
+}
+
+.body-div-col-xs {
+  mix-blend-mode: normal;
+  row-gap: 9px;
+  padding-bottom: 11px;
+  padding-left: 39px;
+}
+
+.body-t-span-fa-stack {
+  padding-left: 2.3px;
+  text-align: center;
+}
+
+.body-span-fa-stack {
+  mix-blend-mode: normal;
+  width: 37px;
+  height: 37px;
+  padding-bottom: 0.33px;
+  padding-left: 2.7px;
+  padding-right: 2.7px;
+  flex-shrink: 0;
+}
+
+.body-tt-bg-svg-svg {
+  margin-bottom: -1px;
+  height: 38px;
+  padding-bottom: 9px;
+  padding-left: 6.7px;
+  padding-right: 6.7px;
+  padding-top: 9px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.body-t-bg-svg-svg {
+  padding-top: 1px;
+}
+
+.body-bg-svg {
+  mix-blend-mode: normal;
+  bottom: -9px;
+  left: -6.67px;
+  right: -6.67px;
+  top: -9px;
+  text-align: center;
+}
+
+.body-svg-17 {
+  mix-blend-mode: normal;
+  width: 19px;
+  height: 19px;
+  z-index: 2;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.body-quer-saber-atualiza-es-sobre-aloja {
+  font-family: Oswald, ui-sans-serif, system-ui, sans-serif;
+  line-height: 26px;
+  padding-top: 10px;
+}
+
+.body-coloque-seu-email-embaixo-para-enviarmos-as-not-cias {
+  line-height: 25px;
+  text-align: center;
+}
+
+.body-tt-input-form-control-button-button {
+  padding-left: 44px;
+  text-align: center;
+}
+
+.body-t-input-form-control-button-button {
+  column-gap: 10px;
+  line-height: 20px;
+}
+
+.body-wrapper-10 {
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  flex-grow: 1;
+  max-width: 182px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  text-align: center;
+}
+
+.body-input-form-control-1 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  overflow: clip;
+  align-items: center;
+  padding-bottom: 6px;
+  padding-left: 11px;
+  padding-top: 6px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  box-shadow: inset 0px 1px 1px 0px rgba(0, 0, 0, 0.08);
+  width: 182px;
+  height: 100%;
+  flex-shrink: 0;
+}
+
+.body-insira-seu-email {
+  margin-right: -10px;
+  flex-grow: 1;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  text-overflow: ellipsis;
+  display: flex;
+  color: #6969697f;
+  outline: none;
+  min-width: 0px;
+}
+
+.body-button-button {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  padding-bottom: 5.5px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 5.5px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  text-align: center;
+}
+
+.body-enviar {
+  padding-right: 7.6px;
+}
+
+.body-t-paragraph-3 {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 39px;
+}
+
+.body-paragraph-5 {
+  mix-blend-mode: normal;
+  height: 34px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.body-t-footer {
+  align-self: stretch;
+}
+
+.body-footer {
+  border-top-width: 5px;
+  border-bottom-width: 2px;
+  mix-blend-mode: normal;
+  flex-direction: column;
+  flex-grow: 1;
+  padding-bottom: 3px;
+  padding-left: 1px;
+  justify-content: center;
+  box-shadow: inset 0px -61px 65px 0px rgba(0, 0, 0, 0.45);
+}
+
+.body-t-div-container-fluid {
+  padding-bottom: 22px;
+}
+
+.body-div-container-fluid {
+  mix-blend-mode: normal;
+  row-gap: 40px;
+  padding-bottom: 67px;
+}
+
+.body-svg-18 {
+  mix-blend-mode: normal;
+  width: 24px;
+  height: 29px;
+  left: calc(50% + -14.5px + -44.5px);
+  top: calc(50% + -14.5px + 53px);
+  flex-shrink: 0;
+}
+
+.body-list-footer_menu {
+  mix-blend-mode: normal;
+  align-self: stretch;
+  padding-bottom: 15px;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 14px;
+}
+
+.body-tt-in-cio-sobre-aloja-tinforma-es-tcontato-tblog {
+  padding-right: 38px;
+  position: relative;
+  left: 28px;
+}
+.body-t-in-cio-sobre-aloja-tinforma-es-tcontato-tblog {
+  row-gap: 9.5px;
+  column-gap: 42px;
+  line-height: 18px;
+}
+
+.body-informa-es {
+  padding-left: 8px;
+}
+
+.body-contato {
+  padding-left: 7px;
+}
+
+.body-blog {
+  padding-left: 6px;
+}
+
+.body-ttt-div-col-sm-4tdiv-col-sm-4ttaceitamos-tdiv-col-sm-4tsvg-tsvg-tsvg-tsvg-tsvg {
+  row-gap: 27px;
+  column-gap: 27px;
+  align-self: stretch;
+  padding-top: 9.9px;
+  flex-wrap: wrap;
+  z-index: 3;
+}
+
+.body-tt-div-col-sm-4tdiv-col-sm {
+  height: 57px;
+  position: relative;
+  right: 207px;
+  top: 46px;
+}
+
+.body-t-div-col-sm-4tdiv-col-sm {
+  margin-top: -9.9px;
+  height: 67px;
+  z-index: 0;
+  flex-shrink: 0;
+}
+
+.body-div-col-sm-3 {
+  mix-blend-mode: normal;
+  row-gap: 9.3px;
+  padding-left: 175px;
+  padding-right: 176px;
+  padding-top: 9.9px;
+  z-index: 2;
+}
+
+.body-compra-segura {
+  line-height: 13px;
+  padding-left: 5.2px;
+}
+
+.body-button-btn-1 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  align-items: center;
+  opacity: 0.65;
+  padding-bottom: 6.5px;
+  padding-left: 12px;
+  padding-right: 17px;
+  padding-top: 5.5px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.body-t-svg-12 {
+  padding-top: 1px;
+  z-index: 2;
+}
+
+.body-svg-19 {
+  mix-blend-mode: normal;
+  width: 9px;
+  height: 14px;
+  flex-shrink: 0;
+}
+
+.body-certificada {
+  width: 82px;
+  z-index: 1;
+  line-height: 20px;
+  flex-shrink: 0;
+  padding-left: 10px;
+}
+
+.body-t-div-col-sm-2 {
+  width: 448px;
+  padding-bottom: 0.19px;
+  z-index: 1;
+  flex-shrink: 0;
+}
+
+.body-div-col-sm-4 {
+  mix-blend-mode: normal;
+  width: 475px;
+  padding-bottom: 14px;
+  padding-left: 60px;
+  padding-right: 49px;
+  padding-top: 8px;
+  justify-content: space-between;
+}
+
+.body-tt-facebook-ttsvg {
+  z-index: 0;
+  flex-shrink: 0;
+}
+
+.body-t-facebook {
+  z-index: 2;
+  flex-shrink: 0;
+}
+
+.body-facebook {
+  object-fit: cover;
+  object-position: center;
+  flex-shrink: 0;
+}
+
+.body-tt-svg {
+  z-index: 1;
+  flex-shrink: 0;
+}
+
+.body-t-svg-13 {
+  padding-right: 3px;
+}
+
+.body-svg-20 {
+  mix-blend-mode: normal;
+  flex-shrink: 0;
+}
+
+.body-ttt-instagram-svg-tiktok-tsvg {
+  z-index: 0;
+}
+
+.body-tt-instagram-svg-tiktok {
+  column-gap: 50px;
+  z-index: 2;
+}
+
+.body-t-instagram {
+  padding-bottom: 1px;
+  flex-shrink: 0;
+}
+
+.body-instagram {
+  object-fit: cover;
+  object-position: center;
+  flex-shrink: 0;
+}
+
+.body-svg-21 {
+  mix-blend-mode: normal;
+  height: 30px;
+  padding-bottom: 1px;
+  padding-right: 0.14px;
+}
+
+.body-whatsapp {
+  margin-top: -4px;
+  object-fit: cover;
+  object-position: center;
+  flex-shrink: 0;
+}
+
+.body-tik-tok {
+  background-image: url(assets/tik-tok.png);
+  padding-left: 8.5px;
+  padding-right: 8.5px;
+  flex-shrink: 0;
+}
+
+.body-svg-22 {
+  mix-blend-mode: normal;
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
+
+.body-t-svg-14 {
+  align-items: center;
+  z-index: 1;
+  flex-shrink: 0;
+}
+
+.body-svg-23 {
+  mix-blend-mode: normal;
+  margin-left: -24.45px;
+  width: 16px;
+  flex-shrink: 0;
+}
+
+.body-svg-24 {
+  mix-blend-mode: normal;
+  flex-shrink: 0;
+}
+
+.body-youtube {
+  object-fit: cover;
+  object-position: center;
+  flex-shrink: 0;
+}
+
+.body-tt-aceitamos-tdiv-col-sm-4tsvg-tsvg-tsvg-tsvg-tsvg {
+  row-gap: 5.1px;
+  position: relative;
+  left: 461px;
+  bottom: 51px;
+}
+
+.body-aceitamos {
+  line-height: 13px;
+}
+
+.body-t-div-col-sm-4tsvg-tsvg-tsvg-tsvg-tsvg {
+  padding-top: 21px;
+}
+
+.body-div-col-sm-5 {
+  mix-blend-mode: normal;
+  width: 475px;
+  height: 61px;
+  z-index: 1;
+  flex-shrink: 0;
+}
+
+.body-t-svg-15 {
+  width: 44px;
+  z-index: 2;
+  left: calc(50% + -14.5px + 83px);
+  top: 1px;
+  position: absolute;
+  flex-shrink: 0;
+}
+
+.body-svg-25 {
+  mix-blend-mode: normal;
+  padding-left: 4px;
+  padding-top: 0.15px;
+}
+
+.body-boleto {
+  background-image: url(assets/boleto.png);
+  max-width: 100%;
+  max-height: 100%;
+  width: 40px;
+  height: 29px;
+  flex-shrink: 0;
+}
+
+.body-t-svg-16 {
+  height: 31px;
+  z-index: 3;
+  left: calc(50% + -15.5px + 37px);
+  flex-shrink: 0;
+}
+
+.body-svg-26 {
+  mix-blend-mode: normal;
+  padding-bottom: 0.5px;
+  padding-left: 2.8px;
+  padding-right: 2.8px;
+  padding-top: 0.5px;
+}
+
+.body-t-pix {
+  padding-left: 2.2px;
+  padding-top: 1px;
+}
+
+.body-pix {
+  background-image: url(assets/pix.png);
+  max-width: 100%;
+  max-height: 100%;
+  flex-shrink: 0;
+}
+
+.body-t-svg-17 {
+  left: 217px;
+  right: 216px;
+  top: 1.5px;
+  position: absolute;
+  flex-shrink: 0;
+}
+
+.body-svg-27 {
+  mix-blend-mode: normal;
+  padding-bottom: 0.19px;
+  padding-left: 0.5px;
+  padding-right: 0.34px;
+}
+
+.body-elo {
+  background-image: url(assets/elo.png);
+  max-width: 100%;
+  max-height: 100%;
+  flex-shrink: 0;
+}
+
+.body-t-svg-18 {
+  width: 42px;
+  left: calc(50% + -14.5px + -52px);
+  flex-shrink: 0;
+}
+
+.body-svg-28 {
+  mix-blend-mode: normal;
+  padding-bottom: 0.19px;
+  padding-left: 0.2px;
+  padding-right: 0.64px;
+}
+
+.body-master-card {
+  background-image: url(assets/master-card.png);
+  max-width: 100%;
+  max-height: 100%;
+  flex-shrink: 0;
+}
+
+.body-t-svg-19 {
+  width: 38px;
+  left: calc(50% + -14.5px + -99px);
+  flex-shrink: 0;
+}
+
+.body-svg-29 {
+  mix-blend-mode: normal;
+  width: 38px;
+  padding-bottom: 0.19px;
+}
+
+.body-visa {
+  margin-right: 0.1px;
+  background-image: url(assets/visa.png);
+  max-width: 100%;
+  max-height: 100%;
+  width: 43px;
+  height: 29px;
+  flex-shrink: 0;
+}
+
+.body-div-topbar-1 {
+  border-bottom-width: 1px;
+  mix-blend-mode: normal;
+  padding-left: 128px;
+  padding-right: 128px;
+}
+
+.body-div-container-5 {
+  mix-blend-mode: normal;
+  padding-left: 15px;
+}
+
+.body-t-div-col-sm-8tcopyright-20002024comic-store-tbutton-btn {
+  column-gap: 178px;
+}
+
+.body-div-col-sm-6 {
+  mix-blend-mode: normal;
+  flex-shrink: 0;
+}
+
+.body-t-copyright-20002024comic-store-tbutton-btn {
+  width: 217px;
+  z-index: 0;
+  flex-shrink: 0;
+}
+
+.body-copyright-20002024comic-store {
+  text-align: right;
+  z-index: 2;
+  line-height: 21px;
+}
+
+.body-t-button-btn {
+  align-items: center;
+  z-index: 1;
+  flex-shrink: 0;
+}
+
+.body-button-btn-2 {
+  mix-blend-mode: normal;
+  margin-left: -198px;
+  width: 157px;
+  height: 35px;
+  flex-shrink: 0;
+}
+
+.body-div-product-carousel-wrapper-2::before {
+  content: "";
+  left: 10px;
+  right: 0px;
+  bottom: 0px;
+  opacity: 0.92;
+  background-image: url(assets/40846b1165396d4f7d3c3639e60d33d4dd1b3b2b.jpg);
+  z-index: -1;
+}
+
+.body-input-form-control-1:focus-within {
+  box-shadow: 0 0 4px #1e40af;
+}
+
+.body-insira-seu-email::placeholder {
+  color: #5555557f;
+}
+@media (min-width: 1415px) {
+  .body-t-div-col-sm-8button-btn {
+    flex-wrap: nowrap;
+  }
+  .body-div-loja-container {
+    flex-wrap: nowrap;
+  }
+  .body-t-div-slide-div-slide-div-slide-div-slide-div-slide {
+    flex-wrap: nowrap;
+  }
+  .body-t-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item {
+    flex-wrap: nowrap;
+  }
+  .body-t-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-1 {
+    flex-wrap: nowrap;
+  }
+  .body-t-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-div-product-carousel-item-2 {
+    flex-wrap: nowrap;
+  }
+  .body-t-in-cio-sobre-aloja-tinforma-es-tcontato-tblog {
+    flex-wrap: nowrap;
+  }
+  .body-ttt-div-col-sm-4tdiv-col-sm-4ttaceitamos-tdiv-col-sm-4tsvg-tsvg-tsvg-tsvg-tsvg {
+    flex-wrap: nowrap;
+  }
+  .body-div-col-sm-4 {
+    flex-wrap: nowrap;
+  }
+}
+
+.search-input {
+  width: 100%; /* Ocupar o espaço do container */
+  max-width: 250px;
+  height: 40px;
+  padding-top: 0; 
+  padding-right:15px;
+  padding-bottom: 2px;
+  padding-left: 35px; 
+  font-size: 16px;
+  border: 2.5px solid #ccc;
+  border-radius: 20px;
+  outline: none;
+  color: #fff; 
+  transition: all 0.3s ease-in-out;
+}
+
+.search-input:focus {
+  border-color: #007bff; /* Cor ao escrever */
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+/* Ajuste responsivo */
+@media (max-width: 768px) {
+  .search-input {
+    width: 100%;
+    font-size: 14px;
+  }
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Open Sans:wght@400;600");
+@import url("https://api.fontshare.com/css?f[]=open sans@400,600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;700");
+@import url("https://api.fontshare.com/css?f[]=oswald@400,700&display=swap");
+
+p,
+ol,
+ul {
+  margin: 0px;
+}
+
+button {
+  padding: 0px;
+}
+
+ol,
+ul {
+  padding-inline-start: 1.5em;
+}
+
+input {
+  background-image: none;
+  background-color: transparent;
+}
+
+.common-48,
+.container-t-link-t100produtos,
+.container-background-border-1,
+.container-t-bg-select-bg-svg-fill-recentes {
+  position: relative;
+  z-index: 0;
+}
+
+.common-49,
+.container-t-100produtos,
+.container-escolha-asua-regi-o,
+.container-bg-select-bg-svg-fill {
+  position: absolute;
+  z-index: 0;
+}
+
+.common-47,
+.container-alefthau-jpg,
+.container-alegoria-jpg,
+.container-arqueiro-jpg,
+.container-ataques-jpg,
+.container-bane-jpg,
+.container-vampiro-jpg,
+.container-crepax-jpg,
+.container-daredevil-jpg,
+.container-dylandog-jpg,
+.container-conan-jpg,
+.container-aranha-jpg,
+.container-espetaculararanha-jpg,
+.container-hulk-jpg,
+.container-motoqueiro-jpg,
+.container-motoquero-jpg,
+.container-super-jpg,
+.container-storm-jpg,
+.container-terry-jpg,
+.container-tex-jpg,
+.container-xmen-jpg {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.common-45,
+.container-background-border,
+.container-background-border-1 {
+  border-style: solid;
+  border-color: gainsboro;
+}
+
+.common-46,
+.container-link,
+.container-link-1 {
+  border-style: solid;
+  border-color: black;
+}
+
+.common-26,
+.container-t-background-border,
+.container-tt-conan-jpg-tconan-ttttr3000r1500tstrong-2x {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.common-27,
+.container-tt-r000r,
+.container-tt-link-t100produtos,
+.container-t-background-border-1,
+.container-t-input-lastname,
+.container-t-link {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.common-28,
+.container-tt-alef-ttttr21990r15330tstrong-1x-ttalegoria-ttttr4390r2340strong-1x-tarqueiro-ttttr31490r22043strong-1x,
+.container-tt-bane-jpg-vampiro-jpg,
+.container-ttt-dylandog-jpg-tdylan-dog-oclube-do-terror-tttr14990r10652tstrong-2x-ttconan-jpg-tconan-ttttr3000r1500tstrong-2x-tcontainer-tasaga-do-homem-aranha-20tttr4000r2000tstrong-1x-tespetaculararanha-jpg-toespetacular-homem-aranha-corredor-polon-svol-1r24990tstrong-1x,
+.container-t-hulk-jpg-tmotoqueiro-jpg-tmotoquero-jpg-tsuper-jpg,
+.container-ttt-container-tstorm-integral-volume-1ttttr9999r8499tstrong-1x-ttcontainer-tterry-eos-piratas-volume-dois-ttttr14400r13500tstrong-2x-ttcontainer-ttex-oimplac-vel-tttr10990r5990ttstrong-1x-ttcontainer-txmen-ttttr19590r15631tstrong-1x,
+.container-tt-container-tterry-eos-piratas-volume-dois-ttttr14400r13500tstrong-2x-ttcontainer-ttex-oimplac-vel-tttr10990r5990ttstrong-1x {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.common-29,
+.container-tt-dylandog-jpg-tdylan-dog-oclube-do-terror-tttr14990r10652tstrong-2x-ttconan-jpg-tconan-ttttr3000r1500tstrong-2x-tcontainer-tasaga-do-homem-aranha-20tttr4000r2000tstrong-1x,
+.container-ttt-marvel-essenciais-hulk-contra-omundo-tr11490ttstrong-1x-ttmarvel-max-tr2490container-tmotoquero-tr11032tstrong-1x-treino-do-amanh-edi-odefinitiva-ttttr10990r5993strong-1x {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.common-30,
+.container-t-promo-o,
+.container-t-promo-o1,
+.container-t-promo-o2,
+.container-t-promo-o3,
+.container-t-promo-o4,
+.container-t-promo-o5,
+.container-t-promo-o6,
+.container-t-saga-do-batman-vol,
+.container-ta-trilogia-batman-vampiro,
+.container-t-crepax,
+.container-t-promo-o7,
+.container-t-dylan-dog-oclube-do-terror,
+.container-t-promo-o8,
+.container-t-promo-o9,
+.container-to-espetacular-homem-aranha-corredor-polon-svol,
+.container-t-promo-o10,
+.container-t-promo-o11,
+.container-t-storm-integral-volume,
+.container-t-promo-o12,
+.container-t-terry-eos-piratas-volume-dois,
+.container-t-promo-o13,
+.container-t-promo-o14 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.common-31,
+.container-background,
+.container-t-container,
+.container-tttttt-alef-ttttr21990r15330tstrong-1x-ttalegoria-ttttr4390r2340strong-1x-tarqueiro-ttttr31490r22043strong-1x-tataques-atlantes-omnibus-capa-dura-ttttr24990r19123tcontainer-tttbane-jpg-vampiro-jpg-crepax-jpg-daredevil-jpg-tttttsaga-do-batman-vol-0541tr3490tstrong-1x-tr2443ttatrilogia-batman-vampiro-ttstrong-1x-tr12990tttcrepax-tr19990tstrong-1x-tr13993tr5000tstrong-1x-tdaredevil-tr2500tttdylandog-jpg-tdylan-dog-oclube-do-terror-tttr14990r10652tstrong-2x-ttconan-jpg-tconan-ttttr3000r1500tstrong-2x-tcontainer-tasaga-do-homem-aranha-20tttr4000r2000tstrong-1x-tespetaculararanha-jpg-toespetacular-homem-aranha-corredor-polon-svol-1r24990tstrong-1x-thulk-jpg-tmotoqueiro-jpg-tmotoquero-jpg-tsuper-jpg-ttttmarvel-essenciais-hulk-contra-omundo-tr11490ttstrong-1x-ttmarvel-max-tr2490container-tmotoquero-tr11032tstrong-1x-treino-do-amanh-edi-odefinitiva-ttttr10990r5993strong-1x-tttcontainer-tstorm-integral-volume-1ttttr9999r8499tstrong-1x-ttcontainer-tterry-eos-piratas-volume-dois-ttttr14400r13500tstrong-2x-ttcontainer-ttex-oimplac-vel-tttr10990r5990ttstrong-1x-ttcontainer-txmen-ttttr19590r15631tstrong-1x,
+.container-ttt-alef-ttttr21990r15330tstrong-1x-ttalegoria-ttttr4390r2340strong-1x-tarqueiro-ttttr31490r22043strong-1x,
+.container-tr,
+.container-tt-alegoria-ttttr4390r2340strong-1x,
+.container-t-r1,
+.container-t-arqueiro-ttttr31490r22043strong-1x,
+.container-t-r2,
+.container-t-ataques-atlantes-omnibus-capa-dura-ttttr24990r,
+.container-t-r3,
+.container-ttt-saga-do-batman-vol-0541tr3490tstrong-1x,
+.container-ttt-crepax-tr19990tstrong-1x,
+.container-t-dylandog-jpg-tdylan-dog-oclube-do-terror-tttr14990r10652tstrong-2x,
+.container-t-r11,
+.container-t-conan-jpg-tconan-ttttr3000r1500tstrong-2x,
+.container-t-r12,
+.container-t-container-tasaga-do-homem-aranha-20tttr4000r2000tstrong-1x,
+.container-t-r13,
+.container-t-espetaculararanha-jpg-toespetacular-homem-aranha-corredor-polon-svol-1r24990tstrong-1x,
+.container-t-marvel-essenciais-hulk-contra-omundo-tr11490ttstrong-1x,
+.container-t-marvel-max-tr2490container,
+.container-t-motoquero-tr11032tstrong-1x,
+.container-t-reino-do-amanh-edi-odefinitiva-ttttr10990r5993strong-1x,
+.container-t-r15,
+.container-t-container-tstorm-integral-volume-1ttttr9999r8499tstrong-1x,
+.container-t-r16,
+.container-t-container-tterry-eos-piratas-volume-dois-ttttr14400r13500tstrong-2x,
+.container-t-r17,
+.container-tt-container-ttex-oimplac-vel-tttr10990r5990ttstrong-1x,
+.container-t-container-2,
+.container-t-r18,
+.container-t-container-txmen-ttttr19590r15631tstrong-1x,
+.container-t-r19,
+.container-t-itens,
+.container-t-label-ordenar-por,
+.container-options,
+.container-t-bg-select-bg-svg-fill-recentes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.common-32,
+.container-t-tab,
+.container-t-r000r,
+.container-t-background,
+.container-t-arqueiro-jpg,
+.container-ttttt-alef-ttttr21990r15330tstrong-1x-ttalegoria-ttttr4390r2340strong-1x-tarqueiro-ttttr31490r22043strong-1x-tataques-atlantes-omnibus-capa-dura-ttttr24990r,
+.container-tttt-r21990r,
+.container-tt-r21990r,
+.container-tt-r4390r,
+.container-tttt-r31490r,
+.container-tt-r31490r,
+.container-tttt-r24990r,
+.container-tt-r24990r,
+.container-a-trilogia-batman-vampiro,
+.container-daredevil,
+.container-tt-r14990r,
+.container-conan,
+.container-tttt-r3000r,
+.container-tt-r3000r,
+.container-tt-r4000r,
+.container-marvel-essenciais-hulk-contra-omundo,
+.container-tt-r10990r,
+.container-tttt-r9999r,
+.container-tt-r9999r,
+.container-tttt-r14400r,
+.container-tt-r14400r,
+.container-tt-r10990r1,
+.container-tt-container-txmen-ttttr19590r15631tstrong-1x,
+.container-tt-r19590r {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.common-33,
+.container-t-ataques-jpg,
+.container-t-container-1,
+.container-t-motoqueiro-jpg,
+.container-t-super-jpg,
+.container-tt-marvel-max-tr2490container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.common-34,
+.container-tttt-alef-ttttr21990r15330tstrong-1x-ttalegoria-ttttr4390r2340strong-1x-tarqueiro-ttttr31490r22043strong-1x-tataques-atlantes-omnibus-capa-dura-ttttr24990r,
+.container-tttt-r4390r,
+.container-tttt-saga-do-batman-vol-0541tr3490tstrong-1x-tr2443ttatrilogia-batman-vampiro-ttstrong-1x-tr12990tttcrepax-tr19990tstrong-1x-tr13993tr5000tstrong-1x-tdaredevil-tr,
+.container-ttt-r14990r,
+.container-t-conan,
+.container-ta-saga-do-homem-aranha,
+.container-ttt-r4000r,
+.container-t-strong-1x-4,
+.container-tttt-marvel-essenciais-hulk-contra-omundo-tr11490ttstrong-1x-ttmarvel-max-tr2490container-tmotoquero-tr11032tstrong-1x-treino-do-amanh-edi-odefinitiva-ttttr10990r5993strong-1x,
+.container-t-r14,
+.container-tttt-r10990r,
+.container-t-tex-oimplac-vel,
+.container-ttt-r10990r1,
+.container-t-xmen,
+.container-tttt-r19590r {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.common-35,
+.container-tt-saga-do-batman-vol-0541tr,
+.container-tt-crepax-tr,
+.container-tt-label-ordenar-por-options-tlink {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.common-36,
+.container-t-container-alegoria-jpg-tarqueiro-jpg-tataques-jpg,
+.container-tt-background-border-ttttttalef-ttttr21990r15330tstrong-1x-ttalegoria-ttttr4390r2340strong-1x-tarqueiro-ttttr31490r22043strong-1x-tataques-atlantes-omnibus-capa-dura-ttttr24990r19123tcontainer-tttbane-jpg-vampiro-jpg-crepax-jpg-daredevil-jpg-tttttsaga-do-batman-vol-0541tr3490tstrong-1x-tr2443ttatrilogia-batman-vampiro-ttstrong-1x-tr12990tttcrepax-tr19990tstrong-1x-tr13993tr5000tstrong-1x-tdaredevil-tr2500tttdylandog-jpg-tdylan-dog-oclube-do-terror-tttr14990r10652tstrong-2x-ttconan-jpg-tconan-ttttr3000r1500tstrong-2x-tcontainer-tasaga-do-homem-aranha-20tttr4000r2000tstrong-1x-tespetaculararanha-jpg-toespetacular-homem-aranha-corredor-polon-svol-1r24990tstrong-1x-thulk-jpg-tmotoqueiro-jpg-tmotoquero-jpg-tsuper-jpg-ttttmarvel-essenciais-hulk-contra-omundo-tr11490ttstrong-1x-ttmarvel-max-tr2490container-tmotoquero-tr11032tstrong-1x-treino-do-amanh-edi-odefinitiva-ttttr10990r5993strong-1x-tttcontainer-tstorm-integral-volume-1ttttr9999r8499tstrong-1x-ttcontainer-tterry-eos-piratas-volume-dois-ttttr14400r13500tstrong-2x-ttcontainer-ttex-oimplac-vel-tttr10990r5990ttstrong-1x-ttcontainer-txmen-ttttr19590r15631tstrong-1x,
+.container-ttt-bane-jpg-vampiro-jpg-crepax-jpg-daredevil-jpg {
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.common-37,
+.container-container,
+.container-tta-trilogia-batman-vampiro-ttstrong-1x,
+.container-t-r9 {
+  display: flex;
+  align-items: flex-start;
+}
+
+.common-38,
+.container-t-yellow-ball-yellow-ball,
+.container-escolha-asua-regi-o,
+.container-ttt-r21990r,
+.container-ttt-r4390r,
+.container-ttt-r31490r,
+.container-ttt-r24990r,
+.container-wrapper-3,
+.container-t-strong-1x-1,
+.container-t-strong-2x,
+.container-ttt-r3000r,
+.container-t-strong-2x-1,
+.container-wrapper-11,
+.container-ttt-r10990r,
+.container-ttt-r9999r,
+.container-t-strong-1x-6,
+.container-ttt-r14400r,
+.container-t-strong-2x-2,
+.container-ttt-r19590r,
+.container-t-strong-1x-7,
+.container-tt-bg-select-bg-svg-fill-recentes {
+  display: flex;
+  align-items: center;
+}
+
+.common-39,
+.container-t-link-t100produtos,
+.container-t-strong-1x-5 {
+  display: flex;
+  align-items: flex-end;
+}
+
+.common-40,
+.container-background-border,
+.container-container-1,
+.container-t-alef-ttttr21990r15330tstrong-1x,
+.container-t-alegoria-ttttr4390r2340strong-1x,
+.container-t-bane-jpg,
+.container-container-4,
+.container-t-motoquero-jpg,
+.container-container-6,
+.container-container-7,
+.container-container-8,
+.container-container-9 {
+  flex-direction: column;
+  align-items: center;
+}
+
+.common-41,
+.container-ttt-background-border-ttttttalef-ttttr21990r15330tstrong-1x-ttalegoria-ttttr4390r2340strong-1x-tarqueiro-ttttr31490r22043strong-1x-tataques-atlantes-omnibus-capa-dura-ttttr24990r19123tcontainer-tttbane-jpg-vampiro-jpg-crepax-jpg-daredevil-jpg-tttttsaga-do-batman-vol-0541tr3490tstrong-1x-tr2443ttatrilogia-batman-vampiro-ttstrong-1x-tr12990tttcrepax-tr19990tstrong-1x-tr13993tr5000tstrong-1x-tdaredevil-tr2500tttdylandog-jpg-tdylan-dog-oclube-do-terror-tttr14990r10652tstrong-2x-ttconan-jpg-tconan-ttttr3000r1500tstrong-2x-tcontainer-tasaga-do-homem-aranha-20tttr4000r2000tstrong-1x-tespetaculararanha-jpg-toespetacular-homem-aranha-corredor-polon-svol-1r24990tstrong-1x-thulk-jpg-tmotoqueiro-jpg-tmotoquero-jpg-tsuper-jpg-ttttmarvel-essenciais-hulk-contra-omundo-tr11490ttstrong-1x-ttmarvel-max-tr2490container-tmotoquero-tr11032tstrong-1x-treino-do-amanh-edi-odefinitiva-ttttr10990r5993strong-1x-tttcontainer-tstorm-integral-volume-1ttttr9999r8499tstrong-1x-ttcontainer-tterry-eos-piratas-volume-dois-ttttr14400r13500tstrong-2x-ttcontainer-ttex-oimplac-vel-tttr10990r5990ttstrong-1x-ttcontainer-txmen-ttttr19590r15631tstrong-1x,
+.container-background-border-1,
+.container-t-r10 {
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.common-42,
+.container-tt-background-border-tcontainer-alegoria-jpg-tarqueiro-jpg-tataques-jpg,
+.container-tt-strong-1x,
+.container-t-strong-1x-2 {
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.common-43,
+.container-link,
+.container-background-1,
+.container-background-2,
+.container-background-3,
+.container-background-4,
+.container-link-1,
+.container-background-5,
+.container-background-6,
+.container-background-7,
+.container-background-8,
+.container-background-9,
+.container-background-10,
+.container-background-11,
+.container-background-12,
+.container-background-13,
+.container-background-14,
+.container-background-15 {
+  justify-content: center;
+  align-items: center;
+}
+
+.common-44,
+.container-input-lastname,
+.container-tt-itens-20100ttlabel-ordenar-por-options-tlink {
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.common-14,
+.container-pre-o,
+.container-filtrar {
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.common-15,
+.container-promo-o7,
+.container-promo-o8,
+.container-promo-o9,
+.container-promo-o10,
+.container-promo-o11,
+.container-promo-o12,
+.container-promo-o14 {
+  color: white;
+  font-size: 11px;
+  text-align: center;
+}
+
+.common-16,
+.container-r-11,
+.container-r-12,
+.container-r-14,
+.container-r-16,
+.container-r-23,
+.container-r-24,
+.container-r-25,
+.container-r-26 {
+  font-size: 24px;
+  font-family: Oswald, ui-sans-serif, system-ui, sans-serif;
+  font-weight: 700;
+}
+
+.common-17,
+.container-r-2,
+.container-r-4,
+.container-r-6,
+.container-r-15,
+.container-r-17,
+.container-r-19,
+.container-r-21,
+.container-r-27,
+.container-r-29,
+.container-r-31,
+.container-r-33,
+.container-r-35 {
+  color: darkgray;
+  font-size: 14px;
+}
+
+.common-18,
+.container-r-10,
+.container-r-13 {
+  color: darkgray;
+  font-family: Oswald, ui-sans-serif, system-ui, sans-serif;
+}
+
+.common-19,
+.container-frete,
+.container-ver {
+  color: white;
+  font-weight: 600;
+}
+
+.common-20,
+.container-text-24,
+.container-text-25,
+.container-text-42,
+.container-text-43,
+.container-text-44,
+.container-text-45,
+.container-text-50,
+.container-text-51 {
+  color: dimgray;
+  text-align: center;
+}
+
+.common-21,
+.container-r-3,
+.container-r-5,
+.container-r-7,
+.container-r-9,
+.container-r-18,
+.container-r-20,
+.container-r-22,
+.container-r-28,
+.container-r-30,
+.container-r-32,
+.container-r-34,
+.container-r-36 {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.common-22,
+.container-t-container-alegoria-jpg-tarqueiro-jpg-tataques-jpg,
+.container-ttt-bane-jpg-vampiro-jpg-crepax-jpg-daredevil-jpg {
+  font-size: 11px;
+  text-align: center;
+}
+
+.common-23,
+.container-alef,
+.container-alegoria,
+.container-arqueiro,
+.container-a-trilogia-batman-vampiro,
+.container-daredevil,
+.container-dylan-dog-oclube-do-terror,
+.container-conan,
+.container-a-saga-do-homem-aranha,
+.container-o-espetacular-homem-aranha-corredor-polon-svol,
+.container-marvel-essenciais-hulk-contra-omundo,
+.container-motoquero,
+.container-reino-do-amanh-edi-odefinitiva,
+.container-storm-integral-volume,
+.container-terry-eos-piratas-volume-dois,
+.container-tex-oimplac-vel,
+.container-xmen {
+  font-size: 14px;
+  text-align: center;
+}
+
+.common-24,
+.container-strong-1x-5,
+.container-strong-1x-8,
+.container-strong-1x-9,
+.container-strong-1x-12 {
+  font-size: 12px;
+  text-align: center;
+}
+
+.common-25,
+.container-strong-1x-10,
+.container-strong-1x-11 {
+  font-size: 12px;
+  text-align: left;
+}
+
+.common-1,
+.container-wrapper,
+.container-wrapper-1,
+.container-wrapper-2,
+.container-t-bane-jpg,
+.container-wrapper-4,
+.container-wrapper-5,
+.container-wrapper-6,
+.container-wrapper-7,
+.container-wrapper-8,
+.container-wrapper-9,
+.container-t-motoquero-jpg,
+.container-wrapper-10,
+.container-wrapper-12,
+.container-wrapper-13,
+.container-wrapper-14,
+.container-wrapper-15 {
+  display: flex;
+  width: 215px;
+  height: 215px;
+}
+
+.common-2,
+.container-container-1,
+.container-container-3,
+.container-container-4,
+.container-container-6,
+.container-container-7,
+.container-container-8,
+.container-container-9 {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.common-3,
+.container-yellow-ball,
+.container-yellow-ball-1 {
+  width: 16px;
+  height: 15px;
+  background-color: yellow;
+}
+
+.common-4,
+.container-tt-background-border-tcontainer-alegoria-jpg-tarqueiro-jpg-tataques-jpg,
+.container-tt-background-border-ttttttalef-ttttr21990r15330tstrong-1x-ttalegoria-ttttr4390r2340strong-1x-tarqueiro-ttttr31490r22043strong-1x-tataques-atlantes-omnibus-capa-dura-ttttr24990r19123tcontainer-tttbane-jpg-vampiro-jpg-crepax-jpg-daredevil-jpg-tttttsaga-do-batman-vol-0541tr3490tstrong-1x-tr2443ttatrilogia-batman-vampiro-ttstrong-1x-tr12990tttcrepax-tr19990tstrong-1x-tr13993tr5000tstrong-1x-tdaredevil-tr2500tttdylandog-jpg-tdylan-dog-oclube-do-terror-tttr14990r10652tstrong-2x-ttconan-jpg-tconan-ttttr3000r1500tstrong-2x-tcontainer-tasaga-do-homem-aranha-20tttr4000r2000tstrong-1x-tespetaculararanha-jpg-toespetacular-homem-aranha-corredor-polon-svol-1r24990tstrong-1x-thulk-jpg-tmotoqueiro-jpg-tmotoquero-jpg-tsuper-jpg-ttttmarvel-essenciais-hulk-contra-omundo-tr11490ttstrong-1x-ttmarvel-max-tr2490container-tmotoquero-tr11032tstrong-1x-treino-do-amanh-edi-odefinitiva-ttttr10990r5993strong-1x-tttcontainer-tstorm-integral-volume-1ttttr9999r8499tstrong-1x-ttcontainer-tterry-eos-piratas-volume-dois-ttttr14400r13500tstrong-2x-ttcontainer-ttex-oimplac-vel-tttr10990r5990ttstrong-1x-ttcontainer-txmen-ttttr19590r15631tstrong-1x {
+  display: flex;
+  width: 1305px;
+}
+
+.common-5,
+.container-ttt-background-border-ttttttalef-ttttr21990r15330tstrong-1x-ttalegoria-ttttr4390r2340strong-1x-tarqueiro-ttttr31490r22043strong-1x-tataques-atlantes-omnibus-capa-dura-ttttr24990r19123tcontainer-tttbane-jpg-vampiro-jpg-crepax-jpg-daredevil-jpg-tttttsaga-do-batman-vol-0541tr3490tstrong-1x-tr2443ttatrilogia-batman-vampiro-ttstrong-1x-tr12990tttcrepax-tr19990tstrong-1x-tr13993tr5000tstrong-1x-tdaredevil-tr2500tttdylandog-jpg-tdylan-dog-oclube-do-terror-tttr14990r10652tstrong-2x-ttconan-jpg-tconan-ttttr3000r1500tstrong-2x-tcontainer-tasaga-do-homem-aranha-20tttr4000r2000tstrong-1x-tespetaculararanha-jpg-toespetacular-homem-aranha-corredor-polon-svol-1r24990tstrong-1x-thulk-jpg-tmotoqueiro-jpg-tmotoquero-jpg-tsuper-jpg-ttttmarvel-essenciais-hulk-contra-omundo-tr11490ttstrong-1x-ttmarvel-max-tr2490container-tmotoquero-tr11032tstrong-1x-treino-do-amanh-edi-odefinitiva-ttttr10990r5993strong-1x-tttcontainer-tstorm-integral-volume-1ttttr9999r8499tstrong-1x-ttcontainer-tterry-eos-piratas-volume-dois-ttttr14400r13500tstrong-2x-ttcontainer-ttex-oimplac-vel-tttr10990r5990ttstrong-1x-ttcontainer-txmen-ttttr19590r15631tstrong-1x,
+.container-t-r4,
+.container-t-r5,
+.container-t-r6,
+.container-t-r7,
+.container-t-r8,
+.container-t-daredevil,
+.container-t-r10,
+.container-tt-itens-20100ttlabel-ordenar-por-options-tlink {
+  display: flex;
+  width: 0px;
+}
+
+.common-6,
+.container-t-alef-ttttr21990r15330tstrong-1x,
+.container-t-alegoria-ttttr4390r2340strong-1x {
+  display: flex;
+  width: 177px;
+}
+
+.common-7,
+.container-t-strong-1x,
+.container-tt-strong-1x,
+.container-t-strong-1x-2 {
+  display: flex;
+  height: 0px;
+}
+
+.common-8,
+.container-background-border,
+.container-background-border-1,
+.container-input-lastname {
+  display: flex;
+  background-color: white;
+}
+
+.common-9,
+.container-link,
+.container-tab,
+.container-link-1 {
+  display: flex;
+  background-color: black;
+}
+
+.common-10,
+.container-background-1,
+.container-background-2,
+.container-background-3,
+.container-background-4,
+.container-background-5,
+.container-background-6,
+.container-background-7,
+.container-background-8,
+.container-background-9,
+.container-background-10,
+.container-background-11,
+.container-background-12,
+.container-background-13,
+.container-background-14,
+.container-background-15 {
+  display: flex;
+  background-color: red;
+}
+
+.common-11,
+.container-t-container-alegoria-jpg-tarqueiro-jpg-tataques-jpg,
+.container-ttt-bane-jpg-vampiro-jpg-crepax-jpg-daredevil-jpg {
+  display: flex;
+  color: white;
+}
+
+.common-12,
+.container-alefthau-jpg,
+.container-alegoria-jpg,
+.container-vampiro-jpg,
+.container-aranha-jpg,
+.container-espetaculararanha-jpg,
+.container-hulk-jpg,
+.container-motoqueiro-jpg,
+.container-motoquero-jpg,
+.container-storm-jpg,
+.container-terry-jpg,
+.container-tex-jpg,
+.container-xmen-jpg {
+  width: 215px;
+  height: 215px;
+}
+
+.common-13,
+.container-arqueiro-jpg,
+.container-ataques-jpg,
+.container-bane-jpg,
+.container-crepax-jpg,
+.container-daredevil-jpg,
+.container-dylandog-jpg,
+.container-conan-jpg,
+.container-super-jpg,
+.container-container-5 {
+  width: 100%;
+  height: 100%;
+}
+
+.container-container {
+  width: 100%;
+  padding-bottom: 93px;
+  padding-top: 14px;
+  font-family: "Open Sans", ui-sans-serif, system-ui, sans-serif;
+  letter-spacing: 0em;
+}
+
+.container-tt-background-border-tcontainer-alegoria-jpg-tarqueiro-jpg-tataques-jpg {
+  flex-wrap: wrap;
+  row-gap: 100px;
+  column-gap: 100px;
+  padding-top: 77px;
+  flex-shrink: 0;
+}
+
+.container-t-background-border {
+  padding-bottom: 3.9px;
+  position: relative;
+  left: 30px;
+}
+
+.container-background-border {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  row-gap: 5px;
+  padding-bottom: 37px;
+  padding-left: 6.2px;
+  padding-right: 6px;
+  padding-top: 10px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.container-t-tab {
+  padding-right: 0.17px;
+}
+
+.container-pre-o {
+  line-height: 20px;
+  text-transform: uppercase;
+  background-color: black;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  padding-left: 10px;
+  padding-right: 180px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.container-tt-r000r {
+  padding-left: 3.8px;
+  padding-top: 5px;
+}
+
+.container-t-r000r {
+  column-gap: 134px;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.container-t-background {
+  padding-left: 0.17px;
+}
+
+.container-background {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: gainsboro;
+  width: 226px;
+  height: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  flex-shrink: 0;
+}
+
+.container-t-yellow-ball-yellow-ball {
+  margin-left: 0.55px;
+  margin-bottom: -5px;
+  column-gap: 48px;
+  width: 243px;
+  height: 15px;
+  justify-content: space-between;
+  flex-shrink: 0;
+}
+
+.container-yellow-ball {
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  flex-shrink: 0;
+}
+
+.container-yellow-ball-1 {
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  flex-shrink: 0;
+}
+
+.container-tt-link-t100produtos {
+  padding-right: 1.2px;
+  padding-top: 15px;
+}
+
+.container-t-link-t100produtos {
+  padding-left: 120px;
+  padding-top: 5.6px;
+  justify-content: flex-end;
+}
+
+.container-t-100produtos {
+  width: 131px;
+  height: 18px;
+  max-width: 131px;
+  left: 0px;
+  top: 0px;
+  flex-shrink: 0;
+}
+
+.container-produtos {
+  font-size: 12px;
+  line-height: 17px;
+}
+
+.container-link {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 7px;
+  padding-left: 29px;
+  padding-right: 29px;
+  padding-top: 7px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  z-index: 2;
+}
+
+.container-filtrar {
+  text-align: center;
+  line-height: 20px;
+}
+
+.container-t-container-alegoria-jpg-tarqueiro-jpg-tataques-jpg {
+  row-gap: 24px;
+  column-gap: 24px;
+  flex-grow: 1;
+  line-height: 11px;
+}
+
+.container-wrapper {
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.container-container-1 {
+  overflow: clip;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.container-alefthau-jpg {
+  background-image: url(assets/alefthau.jpg);
+  padding-left: 0.2px;
+  padding-right: 138px;
+  flex-shrink: 0;
+}
+
+.container-background-1 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 2px;
+  padding-left: 8.6px;
+  padding-right: 9px;
+  padding-top: 2px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  text-align: center;
+}
+
+.container-t-promo-o {
+  flex-grow: 1;
+  max-width: 59px;
+  padding-bottom: 2px;
+}
+
+.container-promo-o {
+  text-align: center;
+}
+
+.container-alegoria-jpg {
+  background-image: url(assets/alegoria.jpg);
+  padding-bottom: 198px;
+  padding-right: 138px;
+  flex-shrink: 0;
+}
+
+.container-background-2 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 2px;
+  padding-left: 8.8px;
+  padding-right: 8.8px;
+  padding-top: 2px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  text-align: center;
+}
+
+.container-t-promo-o1 {
+  flex-grow: 1;
+  max-width: 59px;
+  padding-bottom: 2px;
+}
+
+.container-promo-o1 {
+  text-align: center;
+}
+
+.container-t-arqueiro-jpg {
+  padding-left: 4.8px;
+}
+
+.container-wrapper-1 {
+  align-items: center;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.container-arqueiro-jpg {
+  overflow: clip;
+  background-image: url(assets/arqueiro.png);
+  padding-bottom: 198px;
+  padding-left: 0.23px;
+  padding-right: 138px;
+  flex-shrink: 0;
+}
+
+.container-background-3 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 2px;
+  padding-left: 8.8px;
+  padding-right: 8.8px;
+  padding-top: 2px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  text-align: center;
+}
+
+.container-t-promo-o2 {
+  flex-grow: 1;
+  max-width: 59px;
+  padding-bottom: 2px;
+}
+
+.container-promo-o2 {
+  text-align: center;
+}
+
+.container-t-ataques-jpg {
+  padding-left: 9.5px;
+}
+
+.container-wrapper-2 {
+  align-items: center;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.container-ataques-jpg {
+  overflow: clip;
+  background-image: url(assets/ataques.png);
+  padding-bottom: 198px;
+  padding-left: 0.25px;
+  padding-right: 138px;
+  flex-shrink: 0;
+}
+
+.container-background-4 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 2px;
+  padding-left: 8.8px;
+  padding-right: 8.8px;
+  padding-top: 2px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  text-align: center;
+}
+
+.container-t-promo-o3 {
+  flex-grow: 1;
+  max-width: 59px;
+  padding-bottom: 2px;
+}
+
+.container-promo-o3 {
+  text-align: center;
+}
+
+.container-ttt-background-border-ttttttalef-ttttr21990r15330tstrong-1x-ttalegoria-ttttr4390r2340strong-1x-tarqueiro-ttttr31490r22043strong-1x-tataques-atlantes-omnibus-capa-dura-ttttr24990r19123tcontainer-tttbane-jpg-vampiro-jpg-crepax-jpg-daredevil-jpg-tttttsaga-do-batman-vol-0541tr3490tstrong-1x-tr2443ttatrilogia-batman-vampiro-ttstrong-1x-tr12990tttcrepax-tr19990tstrong-1x-tr13993tr5000tstrong-1x-tdaredevil-tr2500tttdylandog-jpg-tdylan-dog-oclube-do-terror-tttr14990r10652tstrong-2x-ttconan-jpg-tconan-ttttr3000r1500tstrong-2x-tcontainer-tasaga-do-homem-aranha-20tttr4000r2000tstrong-1x-tespetaculararanha-jpg-toespetacular-homem-aranha-corredor-polon-svol-1r24990tstrong-1x-thulk-jpg-tmotoqueiro-jpg-tmotoquero-jpg-tsuper-jpg-ttttmarvel-essenciais-hulk-contra-omundo-tr11490ttstrong-1x-ttmarvel-max-tr2490container-tmotoquero-tr11032tstrong-1x-treino-do-amanh-edi-odefinitiva-ttttr10990r5993strong-1x-tttcontainer-tstorm-integral-volume-1ttttr9999r8499tstrong-1x-ttcontainer-tterry-eos-piratas-volume-dois-ttttr14400r13500tstrong-2x-ttcontainer-ttex-oimplac-vel-tttr10990r5990ttstrong-1x-ttcontainer-txmen-ttttr19590r15631tstrong-1x {
+  align-self: stretch;
+  padding-top: 301px;
+  justify-content: flex-end;
+  flex-shrink: 0;
+}
+
+.container-tt-background-border-ttttttalef-ttttr21990r15330tstrong-1x-ttalegoria-ttttr4390r2340strong-1x-tarqueiro-ttttr31490r22043strong-1x-tataques-atlantes-omnibus-capa-dura-ttttr24990r19123tcontainer-tttbane-jpg-vampiro-jpg-crepax-jpg-daredevil-jpg-tttttsaga-do-batman-vol-0541tr3490tstrong-1x-tr2443ttatrilogia-batman-vampiro-ttstrong-1x-tr12990tttcrepax-tr19990tstrong-1x-tr13993tr5000tstrong-1x-tdaredevil-tr2500tttdylandog-jpg-tdylan-dog-oclube-do-terror-tttr14990r10652tstrong-2x-ttconan-jpg-tconan-ttttr3000r1500tstrong-2x-tcontainer-tasaga-do-homem-aranha-20tttr4000r2000tstrong-1x-tespetaculararanha-jpg-toespetacular-homem-aranha-corredor-polon-svol-1r24990tstrong-1x-thulk-jpg-tmotoqueiro-jpg-tmotoquero-jpg-tsuper-jpg-ttttmarvel-essenciais-hulk-contra-omundo-tr11490ttstrong-1x-ttmarvel-max-tr2490container-tmotoquero-tr11032tstrong-1x-treino-do-amanh-edi-odefinitiva-ttttr10990r5993strong-1x-tttcontainer-tstorm-integral-volume-1ttttr9999r8499tstrong-1x-ttcontainer-tterry-eos-piratas-volume-dois-ttttr14400r13500tstrong-2x-ttcontainer-ttex-oimplac-vel-tttr10990r5990ttstrong-1x-ttcontainer-txmen-ttttr19590r15631tstrong-1x {
+  row-gap: 100px;
+  column-gap: 100px;
+  flex-grow: 1;
+}
+
+.container-t-background-border-1 {
+  padding-top: 9px;
+  position: relative;
+  left: 30px;
+}
+
+.container-background-border-1 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  row-gap: 22px;
+  padding-bottom: 21px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.container-escolha-asua-regi-o {
+  width: 139px;
+  height: 20px;
+  left: 19px;
+  top: calc(50% + -10px + -31px);
+  flex-shrink: 0;
+}
+
+.container-tab {
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  align-items: center;
+  align-self: stretch;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 186px;
+  padding-top: 10px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.container-frete {
+  text-transform: uppercase;
+}
+
+.container-t-input-lastname {
+  padding-left: 5px;
+  padding-top: 16px;
+  z-index: 3;
+}
+
+.container-input-lastname {
+  border-style: solid;
+  border-color: silver;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  mix-blend-mode: normal;
+  border-bottom-left-radius: 1px;
+  border-bottom-right-radius: 1px;
+  padding-bottom: 4.4px;
+  padding-left: 206px;
+  padding-right: 9.9px;
+  padding-top: 4.4px;
+  border-top-left-radius: 1px;
+  border-top-right-radius: 1px;
+}
+
+.container-t-container {
+  padding-top: 1.6px;
+}
+
+.container-container-2 {
+  width: 13px;
+  height: 19px;
+  flex-shrink: 0;
+}
+
+.container-link-1 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 7px;
+  padding-left: 44px;
+  padding-right: 43px;
+  padding-top: 7px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.container-ver {
+  text-align: center;
+}
+
+.container-tttttt-alef-ttttr21990r15330tstrong-1x-ttalegoria-ttttr4390r2340strong-1x-tarqueiro-ttttr31490r22043strong-1x-tataques-atlantes-omnibus-capa-dura-ttttr24990r19123tcontainer-tttbane-jpg-vampiro-jpg-crepax-jpg-daredevil-jpg-tttttsaga-do-batman-vol-0541tr3490tstrong-1x-tr2443ttatrilogia-batman-vampiro-ttstrong-1x-tr12990tttcrepax-tr19990tstrong-1x-tr13993tr5000tstrong-1x-tdaredevil-tr2500tttdylandog-jpg-tdylan-dog-oclube-do-terror-tttr14990r10652tstrong-2x-ttconan-jpg-tconan-ttttr3000r1500tstrong-2x-tcontainer-tasaga-do-homem-aranha-20tttr4000r2000tstrong-1x-tespetaculararanha-jpg-toespetacular-homem-aranha-corredor-polon-svol-1r24990tstrong-1x-thulk-jpg-tmotoqueiro-jpg-tmotoquero-jpg-tsuper-jpg-ttttmarvel-essenciais-hulk-contra-omundo-tr11490ttstrong-1x-ttmarvel-max-tr2490container-tmotoquero-tr11032tstrong-1x-treino-do-amanh-edi-odefinitiva-ttttr10990r5993strong-1x-tttcontainer-tstorm-integral-volume-1ttttr9999r8499tstrong-1x-ttcontainer-tterry-eos-piratas-volume-dois-ttttr14400r13500tstrong-2x-ttcontainer-ttex-oimplac-vel-tttr10990r5990ttstrong-1x-ttcontainer-txmen-ttttr19590r15631tstrong-1x {
+  row-gap: 2px;
+  align-self: stretch;
+  line-height: normal;
+}
+
+.container-ttttt-alef-ttttr21990r15330tstrong-1x-ttalegoria-ttttr4390r2340strong-1x-tarqueiro-ttttr31490r22043strong-1x-tataques-atlantes-omnibus-capa-dura-ttttr24990r {
+  padding-right: 4.1px;
+}
+
+.container-tttt-alef-ttttr21990r15330tstrong-1x-ttalegoria-ttttr4390r2340strong-1x-tarqueiro-ttttr31490r22043strong-1x-tataques-atlantes-omnibus-capa-dura-ttttr24990r {
+  row-gap: 41px;
+  column-gap: 55px;
+  padding-bottom: 3px;
+  flex-wrap: wrap;
+}
+
+.container-ttt-alef-ttttr21990r15330tstrong-1x-ttalegoria-ttttr4390r2340strong-1x-tarqueiro-ttttr31490r22043strong-1x {
+  height: 82px;
+}
+
+.container-tt-alef-ttttr21990r15330tstrong-1x-ttalegoria-ttttr4390r2340strong-1x-tarqueiro-ttttr31490r22043strong-1x {
+  row-gap: 41px;
+  margin-bottom: -3px;
+  column-gap: 62px;
+  height: 85px;
+  flex-shrink: 0;
+}
+
+.container-t-alef-ttttr21990r15330tstrong-1x {
+  row-gap: 5px;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+
+.container-alef {
+  align-self: stretch;
+}
+
+.container-ttt-r21990r {
+  padding-right: 13px;
+}
+
+.container-tt-r21990r {
+  column-gap: 5.1px;
+  font-family: Oswald, ui-sans-serif, system-ui, sans-serif;
+}
+
+.container-tr {
+  padding-top: 3px;
+}
+
+.container-r-2 {
+  text-decoration: line-through;
+}
+
+.container-strong-1x {
+  font-size: 12px;
+  padding-left: 15px;
+  align-self: stretch;
+}
+
+.container-text-1 {
+  color: dimgray;
+}
+
+.container-text-3 {
+  color: dimgray;
+}
+
+.container-tt-alegoria-ttttr4390r2340strong-1x {
+  margin-bottom: 0.5px;
+  height: 86px;
+  padding-top: 1px;
+}
+
+.container-t-alegoria-ttttr4390r2340strong-1x {
+  row-gap: 5px;
+}
+
+.container-alegoria {
+  align-self: stretch;
+}
+
+.container-tttt-r4390r {
+  padding-top: 4px;
+}
+
+.container-ttt-r4390r {
+  padding-right: 14px;
+}
+
+.container-tt-r4390r {
+  column-gap: 4.7px;
+  font-family: Oswald, ui-sans-serif, system-ui, sans-serif;
+}
+
+.container-t-r1 {
+  padding-top: 3px;
+}
+
+.container-r-4 {
+  text-decoration: line-through;
+}
+
+.container-strong-1x-1 {
+  width: 146px;
+  font-size: 12px;
+}
+
+.container-text-5 {
+  color: dimgray;
+}
+
+.container-text-7 {
+  color: dimgray;
+}
+
+.container-t-arqueiro-ttttr31490r22043strong-1x {
+  row-gap: 5px;
+  width: 182px;
+  align-self: stretch;
+  padding-left: 5px;
+  flex-shrink: 0;
+}
+
+.container-arqueiro {
+  align-self: stretch;
+}
+
+.container-ttt-r31490r {
+  padding-right: 5.8px;
+}
+
+.container-tt-r31490r {
+  column-gap: 5.1px;
+  font-family: Oswald, ui-sans-serif, system-ui, sans-serif;
+}
+
+.container-t-r2 {
+  padding-top: 3px;
+}
+
+.container-r-6 {
+  text-decoration: line-through;
+}
+
+.container-strong-1x-2 {
+  width: 144px;
+  font-size: 12px;
+}
+
+.container-text-9 {
+  color: dimgray;
+}
+
+.container-text-11 {
+  color: dimgray;
+}
+
+.container-t-ataques-atlantes-omnibus-capa-dura-ttttr24990r {
+  row-gap: 8px;
+  width: 189px;
+  font-size: 14px;
+  flex-shrink: 0;
+}
+
+.container-ataques-atlantes-omnibus-capa-dura {
+  align-self: stretch;
+  text-align: center;
+}
+
+.container-para-3 {
+  text-align: center;
+}
+
+.container-para-4 {
+  text-align: center;
+}
+
+.container-ttt-r24990r {
+  padding-right: 22px;
+}
+
+.container-tt-r24990r {
+  column-gap: 4.7px;
+  font-family: Oswald, ui-sans-serif, system-ui, sans-serif;
+}
+
+.container-t-r3 {
+  padding-top: 3px;
+}
+
+.container-r-8 {
+  color: darkgray;
+  text-decoration: line-through;
+}
+
+.container-t-container-1 {
+  align-self: stretch;
+  padding-left: 34px;
+  padding-right: 34px;
+}
+
+.container-wrapper-3 {
+  flex-grow: 1;
+  max-width: 168px;
+}
+
+.container-container-3 {
+  overflow: clip;
+  align-items: flex-start;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  flex-shrink: 0;
+}
+
+.container-strong-3x {
+  margin-right: -10px;
+  flex-grow: 1;
+  font-size: 12px;
+}
+
+.container-text-13 {
+  color: dimgray;
+}
+
+.container-text-15 {
+  color: dimgray;
+}
+
+.container-ttt-bane-jpg-vampiro-jpg-crepax-jpg-daredevil-jpg {
+  row-gap: 29px;
+  column-gap: 29px;
+  padding-left: 20px;
+  padding-top: 151px;
+  line-height: 11px;
+}
+
+.container-tt-bane-jpg-vampiro-jpg {
+  row-gap: 8.9px;
+  column-gap: 8.9px;
+}
+
+.container-t-bane-jpg {
+  padding-top: 0.14px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.container-wrapper-4 {
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.container-bane-jpg {
+  overflow: clip;
+  background-image: url(assets/bane.png);
+  padding-bottom: 0.14px;
+  padding-left: 0.2px;
+  padding-right: 138px;
+  padding-top: 0.14px;
+  text-align: center;
+  flex-shrink: 0;
+  position: relative;
+  right: 20px;
+}
+
+.container-background-5 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 2px;
+  padding-left: 8.8px;
+  padding-right: 8.8px;
+  padding-top: 2px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.container-t-promo-o4 {
+  flex-grow: 1;
+  max-width: 59px;
+  padding-bottom: 2px;
+  text-align: center;
+}
+
+.container-vampiro-jpg {
+  background-image: url(assets/vampiro.png);
+  text-align: center;
+  flex-shrink: 0;
+  position: relative;
+  right: 23px;
+}
+
+.container-wrapper-5 {
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.container-crepax-jpg {
+  overflow: clip;
+  background-image: url(assets/crepax.jpg);
+  padding-bottom: 0.14px;
+  padding-left: 0.23px;
+  padding-right: 138px;
+  padding-top: 0.14px;
+  text-align: center;
+  flex-shrink: 0;
+  position: relative;
+  right: 26px;
+}
+
+.container-background-6 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 2px;
+  padding-left: 8.8px;
+  padding-right: 8.8px;
+  padding-top: 2px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.container-t-promo-o5 {
+  flex-grow: 1;
+  max-width: 59px;
+  padding-bottom: 2px;
+  text-align: center;
+}
+
+.container-wrapper-6 {
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.container-daredevil-jpg {
+  overflow: clip;
+  background-image: url(assets/daredevil.jpg);
+  padding-bottom: 0.14px;
+  padding-left: 0.25px;
+  padding-right: 138px;
+  padding-top: 0.14px;
+  text-align: center;
+  flex-shrink: 0;
+  position: relative;
+  right: 5px;
+}
+
+.container-background-7 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 2px;
+  padding-left: 8.8px;
+  padding-right: 8.8px;
+  padding-top: 2px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.container-t-promo-o6 {
+  flex-grow: 1;
+  max-width: 59px;
+  padding-bottom: 2px;
+  text-align: center;
+}
+
+.container-tttt-saga-do-batman-vol-0541tr3490tstrong-1x-tr2443ttatrilogia-batman-vampiro-ttstrong-1x-tr12990tttcrepax-tr19990tstrong-1x-tr13993tr5000tstrong-1x-tdaredevil-tr {
+  padding-right: 2.2px;
+  padding-top: 6.9px;
+}
+
+.container-tt-saga-do-batman-vol-0541tr {
+  font-size: 14px;
+}
+
+.container-t-saga-do-batman-vol {
+  flex-grow: 1;
+  max-width: 190px;
+  padding-bottom: 74px;
+}
+
+.container-saga-do-batman-vol {
+  text-align: center;
+}
+
+.container-para-6 {
+  text-align: center;
+}
+
+.container-para-7 {
+  text-align: center;
+}
+
+.container-t-r4 {
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.container-r-10 {
+  right: 129px;
+  margin-right: -170.97px;
+  text-decoration: line-through;
+  position: relative;
+  top: 62px;
+}
+
+.container-t-strong-1x {
+  align-items: flex-end;
+  align-self: stretch;
+  max-width: 190px;
+  padding-left: 19px;
+  padding-right: 19px;
+  flex-shrink: 0;
+}
+
+.container-strong-1x-3 {
+  flex-grow: 1;
+  font-size: 12px;
+}
+
+.container-text-17 {
+  color: dimgray;
+}
+
+.container-text-19 {
+  color: dimgray;
+}
+
+.container-t-r5 {
+  align-items: flex-start;
+  padding-bottom: 22px;
+  flex-shrink: 0;
+}
+
+.container-r-11 {
+  position: relative;
+  margin-right: -120.88px;
+  right: 115px;
+}
+
+.container-tta-trilogia-batman-vampiro-ttstrong-1x {
+  flex-direction: column;
+  padding-left: 55px;
+  z-index: 0;
+}
+
+.container-ta-trilogia-batman-vampiro {
+  align-self: stretch;
+  max-width: 162px;
+  padding-bottom: 73px;
+  z-index: 2;
+}
+
+.container-tt-strong-1x {
+  padding-left: 2.9px;
+  padding-right: 2.9px;
+  z-index: 1;
+  flex-shrink: 0;
+}
+
+.container-t-strong-1x-1 {
+  flex-grow: 1;
+  height: 16px;
+  max-width: 156px;
+  padding-left: 8.3px;
+}
+
+.container-strong-1x-4 {
+  flex-grow: 1;
+  font-size: 12px;
+}
+
+.container-text-21 {
+  color: dimgray;
+}
+
+.container-text-23 {
+  color: dimgray;
+}
+
+.container-t-r6 {
+  align-items: flex-start;
+  padding-bottom: 25px;
+  flex-shrink: 0;
+}
+
+.container-r-12 {
+  position: relative;
+  right: 128px;
+  margin-right: -127.13px;
+}
+
+.container-ttt-crepax-tr19990tstrong-1x {
+  padding-left: 49px;
+  text-align: center;
+}
+
+.container-tt-crepax-tr {
+  font-size: 14px;
+}
+
+.container-t-crepax {
+  flex-grow: 1;
+  max-width: 214px;
+  padding-bottom: 66px;
+  text-align: center;
+}
+
+.container-main-text-2 {
+  text-align: center;
+}
+
+.container-t-r7 {
+  align-items: flex-start;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.container-r-13 {
+  position: relative;
+  margin-right: -176.98px;
+  text-align: left;
+  text-decoration: line-through;
+  top: 74px;
+  right: 200px;
+}
+
+.container-t-strong-1x-2 {
+  padding-right: 1.4px;
+  flex-shrink: 0;
+}
+
+.container-t-r8 {
+  align-items: flex-start;
+  padding-bottom: 21px;
+  flex-shrink: 0;
+}
+
+.container-r-14 {
+  position: relative;
+  margin-right: -121.36px;
+  right: 146px;
+}
+
+.container-t-r9 {
+  padding-bottom: 41px;
+  padding-left: 63px;
+  position: relative;
+  left: 16px;
+}
+
+.container-r-15 {
+  font-family: Oswald, ui-sans-serif, system-ui, sans-serif;
+  text-decoration: line-through;
+}
+
+.container-t-strong-1x-3 {
+  width: 140px;
+  max-width: 140px;
+  padding-bottom: 14px;
+  flex-shrink: 0;
+  position: relative;
+  right: 14px;
+}
+.container-strong-1x-6 {
+  font-size: 12px;
+}
+
+.container-text-27 {
+  color: dimgray;
+}
+
+.container-text-29 {
+  color: dimgray;
+}
+
+.container-t-daredevil {
+  flex-direction: column;
+  align-self: stretch;
+  max-width: 0px;
+  padding-bottom: 85px;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.container-t-r10 {
+  padding-bottom: 35px;
+  flex-shrink: 0;
+  position: relative;
+  right: 38px;
+}
+
+.container-ttt-dylandog-jpg-tdylan-dog-oclube-do-terror-tttr14990r10652tstrong-2x-ttconan-jpg-tconan-ttttr3000r1500tstrong-2x-tcontainer-tasaga-do-homem-aranha-20tttr4000r2000tstrong-1x-tespetaculararanha-jpg-toespetacular-homem-aranha-corredor-polon-svol-1r24990tstrong-1x {
+  row-gap: 29px;
+  column-gap: 29px;
+  padding-top: 125px;
+}
+
+.container-tt-dylandog-jpg-tdylan-dog-oclube-do-terror-tttr14990r10652tstrong-2x-ttconan-jpg-tconan-ttttr3000r1500tstrong-2x-tcontainer-tasaga-do-homem-aranha-20tttr4000r2000tstrong-1x {
+  row-gap: 24px;
+  column-gap: 24px;
+}
+
+.container-t-dylandog-jpg-tdylan-dog-oclube-do-terror-tttr14990r10652tstrong-2x {
+  row-gap: 5px;
+}
+
+.container-wrapper-7 {
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.container-dylandog-jpg {
+  overflow: clip;
+  background-image: url(assets/dylandog.png);
+  padding-bottom: 198px;
+  padding-left: 0.2px;
+  padding-right: 138px;
+  padding-top: 0.28px;
+  flex-shrink: 0;
+}
+
+.container-background-8 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 2px;
+  padding-left: 8.8px;
+  padding-right: 8.8px;
+  padding-top: 2px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.container-t-promo-o7 {
+  flex-grow: 1;
+  max-width: 59px;
+  padding-bottom: 2px;
+}
+
+.container-promo-o7 {
+  line-height: 11px;
+}
+
+.container-t-dylan-dog-oclube-do-terror {
+  align-self: stretch;
+  max-width: 215px;
+  padding-left: 3.2px;
+  padding-right: 4.3px;
+  padding-top: 4.4px;
+}
+
+.container-para-16 {
+  text-align: center;
+}
+
+.container-para-17 {
+  text-align: center;
+}
+
+.container-para-18 {
+  text-align: center;
+}
+
+.container-ttt-r14990r {
+  padding-right: 2px;
+  padding-top: 11px;
+}
+
+.container-tt-r14990r {
+  column-gap: 4.6px;
+  font-family: Oswald, ui-sans-serif, system-ui, sans-serif;
+}
+
+.container-t-r11 {
+  padding-top: 3px;
+}
+
+.container-r-17 {
+  text-decoration: line-through;
+}
+
+.container-t-strong-2x {
+  align-self: stretch;
+  max-width: 215px;
+  padding-left: 32px;
+  padding-right: 32px;
+}
+
+.container-strong-2x {
+  flex-grow: 1;
+  font-size: 12px;
+}
+
+.container-text-31 {
+  color: dimgray;
+}
+
+.container-text-33 {
+  color: dimgray;
+}
+
+.container-tt-conan-jpg-tconan-ttttr3000r1500tstrong-2x {
+  padding-top: 5.3px;
+}
+
+.container-t-conan-jpg-tconan-ttttr3000r1500tstrong-2x {
+  row-gap: 5px;
+}
+
+.container-wrapper-8 {
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.container-conan-jpg {
+  overflow: clip;
+  background-image: url(assets/conan.png);
+  padding-bottom: 198px;
+  padding-right: 140px;
+  padding-top: 0.28px;
+  flex-shrink: 0;
+}
+
+.container-background-9 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 2px;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-top: 2px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.container-t-promo-o8 {
+  flex-grow: 1;
+  max-width: 61px;
+  padding-bottom: 2px;
+  padding-right: 1.8px;
+}
+
+.container-promo-o8 {
+  line-height: 11px;
+}
+
+.container-t-conan {
+  align-self: stretch;
+  max-width: 215px;
+  padding-left: 44px;
+  padding-right: 45px;
+  padding-top: 13px;
+}
+
+.container-conan {
+  flex-grow: 1;
+}
+
+.container-ttt-r3000r {
+  padding-right: 14px;
+}
+
+.container-tt-r3000r {
+  column-gap: 4.6px;
+  font-family: Oswald, ui-sans-serif, system-ui, sans-serif;
+}
+
+.container-t-r12 {
+  padding-top: 3px;
+}
+
+.container-r-19 {
+  text-decoration: line-through;
+}
+
+.container-t-strong-2x-1 {
+  align-self: stretch;
+  max-width: 215px;
+  padding-left: 32px;
+  padding-right: 32px;
+}
+
+.container-strong-2x-1 {
+  flex-grow: 1;
+  font-size: 12px;
+}
+
+.container-text-35 {
+  color: dimgray;
+}
+
+.container-text-37 {
+  color: dimgray;
+}
+
+.container-t-container-tasaga-do-homem-aranha-20tttr4000r2000tstrong-1x {
+  row-gap: 5px;
+  padding-left: 9.6px;
+  text-align: center;
+}
+
+.container-wrapper-9 {
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.container-container-4 {
+  overflow: clip;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.container-aranha-jpg {
+  background-image: url(assets/aranha.png);
+  padding-bottom: 0.28px;
+  padding-left: 0.23px;
+  padding-right: 138px;
+  padding-top: 0.28px;
+  flex-shrink: 0;
+}
+
+.container-background-10 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 2px;
+  padding-left: 8.8px;
+  padding-right: 8.8px;
+  padding-top: 2px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  text-align: center;
+}
+
+.container-t-promo-o9 {
+  flex-grow: 1;
+  max-width: 59px;
+  padding-bottom: 2px;
+}
+
+.container-promo-o9 {
+  line-height: 11px;
+}
+
+.container-ta-saga-do-homem-aranha {
+  align-self: stretch;
+  max-width: 215px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 4px;
+}
+
+.container-a-saga-do-homem-aranha {
+  flex-grow: 1;
+}
+
+.container-para-22 {
+  text-align: center;
+}
+
+.container-para-23 {
+  text-align: center;
+}
+
+.container-ttt-r4000r {
+  padding-right: 0.77px;
+  padding-top: 11px;
+}
+
+.container-tt-r4000r {
+  column-gap: 4.6px;
+  font-family: Oswald, ui-sans-serif, system-ui, sans-serif;
+}
+
+.container-t-r13 {
+  padding-top: 3px;
+}
+
+.container-r-21 {
+  text-decoration: line-through;
+}
+
+.container-strong-1x-7 {
+  font-size: 12px;
+}
+
+.container-para-24 {
+  text-align: center;
+}
+
+.container-text-39 {
+  color: dimgray;
+}
+
+.container-text-41 {
+  color: dimgray;
+}
+
+.container-t-espetaculararanha-jpg-toespetacular-homem-aranha-corredor-polon-svol-1r24990tstrong-1x {
+  row-gap: 1.4px;
+  text-align: center;
+}
+
+.container-espetaculararanha-jpg {
+  background-image: url(assets/espetaculararanha.png);
+  flex-shrink: 0;
+}
+
+.container-to-espetacular-homem-aranha-corredor-polon-svol {
+  align-self: stretch;
+  max-width: 215px;
+  padding-left: 4.9px;
+  padding-right: 4.9px;
+  padding-top: 7.6px;
+}
+
+.container-para-25 {
+  text-align: center;
+}
+
+.container-para-26 {
+  text-align: center;
+}
+
+.container-t-strong-1x-4 {
+  padding-right: 0.35px;
+  padding-top: 4.6px;
+}
+
+.container-t-hulk-jpg-tmotoqueiro-jpg-tmotoquero-jpg-tsuper-jpg {
+  row-gap: 20px;
+  column-gap: 20px;
+  padding-left: 0.2px;
+  padding-top: 118px;
+}
+
+.container-hulk-jpg {
+  background-image: url(assets/hulk.png);
+  flex-shrink: 0;
+}
+
+.container-t-motoqueiro-jpg {
+  padding-left: 18px;
+}
+
+.container-motoqueiro-jpg {
+  background-image: url(assets/motoqueiro.jpg);
+  flex-shrink: 0;
+}
+
+.container-t-motoquero-jpg {
+  padding-bottom: 0.42px;
+  flex-shrink: 0;
+}
+
+.container-motoquero-jpg {
+  background-image: url(assets/motoquero.png);
+  flex-shrink: 0;
+}
+
+.container-t-super-jpg {
+  padding-bottom: 0.42px;
+  padding-left: 9.2px;
+}
+
+.container-wrapper-10 {
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.container-super-jpg {
+  overflow: clip;
+  background-image: url(assets/super.png);
+  padding-bottom: 197px;
+  padding-left: 0.25px;
+  padding-right: 138px;
+  padding-top: 0.42px;
+  flex-shrink: 0;
+}
+
+.container-background-11 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 2px;
+  padding-left: 8.8px;
+  padding-right: 8.8px;
+  padding-top: 2px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.container-t-promo-o10 {
+  flex-grow: 1;
+  max-width: 59px;
+  padding-bottom: 2px;
+}
+
+.container-promo-o10 {
+  line-height: 11px;
+}
+
+.container-tttt-marvel-essenciais-hulk-contra-omundo-tr11490ttstrong-1x-ttmarvel-max-tr2490container-tmotoquero-tr11032tstrong-1x-treino-do-amanh-edi-odefinitiva-ttttr10990r5993strong-1x {
+  padding-left: 3.6px;
+  padding-top: 6.6px;
+  position: relative;
+  right: 25px;
+}
+
+.container-ttt-marvel-essenciais-hulk-contra-omundo-tr11490ttstrong-1x-ttmarvel-max-tr2490container-tmotoquero-tr11032tstrong-1x-treino-do-amanh-edi-odefinitiva-ttttr10990r5993strong-1x {
+  row-gap: 46px;
+  column-gap: 52px;
+  text-align: center;
+}
+
+.container-t-marvel-essenciais-hulk-contra-omundo-tr11490ttstrong-1x {
+  row-gap: 8px;
+  width: 186px;
+  flex-shrink: 0;
+}
+
+.container-marvel-essenciais-hulk-contra-omundo {
+  align-self: stretch;
+}
+
+.container-t-r14 {
+  padding-right: 1.5px;
+  padding-top: 12px;
+  text-align: center;
+}
+
+.container-strong-1x-9 {
+  padding-left: 8.5px;
+}
+
+.container-tt-marvel-max-tr2490container {
+  padding-left: 15px;
+  padding-top: 0.42px;
+  position: relative;
+  left: 25px;
+}
+
+.container-t-marvel-max-tr2490container {
+  row-gap: 1px;
+  flex-grow: 1;
+  max-width: 184px;
+  text-align: center;
+}
+
+.container-marvel-max {
+  align-self: stretch;
+  font-size: 14px;
+}
+
+.container-main-text-6 {
+  text-align: center;
+}
+
+.container-r-25 {
+  padding-right: 1.4px;
+}
+
+.container-wrapper-11 {
+  width: 144px;
+}
+
+.container-container-5 {
+  overflow: clip;
+  padding-right: 0.21px;
+  padding-top: 2.6px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.container-text-46 {
+  color: dimgray;
+}
+
+.container-text-47 {
+  color: dimgray;
+}
+
+.container-t-motoquero-tr11032tstrong-1x {
+  row-gap: 1.6px;
+  width: 181px;
+  flex-shrink: 0;
+  position: relative;
+  left: 46px;
+}
+
+.container-motoquero {
+  align-self: stretch;
+}
+
+.container-para-33 {
+  text-align: center;
+}
+
+.container-para-34 {
+  text-align: center;
+}
+
+.container-r-26 {
+  text-align: center;
+  padding-right: 1.4px;
+}
+
+.container-t-strong-1x-5 {
+  align-self: stretch;
+  max-width: 181px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 6.4px;
+  text-align: center;
+}
+
+.container-strong-1x-11 {
+  flex-grow: 1;
+}
+
+.container-text-48 {
+  color: dimgray;
+}
+
+.container-text-49 {
+  color: dimgray;
+}
+
+.container-t-reino-do-amanh-edi-odefinitiva-ttttr10990r5993strong-1x {
+  row-gap: 5px;
+  width: 198px;
+  padding-left: 5.4px;
+  flex-shrink: 0;
+  position: relative;
+  left: 44px;
+}
+.container-reino-do-amanh-edi-odefinitiva {
+  align-self: stretch;
+}
+
+.container-para-36 {
+  text-align: center;
+}
+
+.container-para-37 {
+  text-align: center;
+}
+
+.container-para-38 {
+  text-align: center;
+}
+
+.container-tttt-r10990r {
+  padding-top: 4.6px;
+  text-align: center;
+}
+
+.container-ttt-r10990r {
+  padding-right: 17px;
+}
+
+.container-tt-r10990r {
+  column-gap: 4.9px;
+  font-family: Oswald, ui-sans-serif, system-ui, sans-serif;
+}
+
+.container-t-r15 {
+  padding-top: 3px;
+}
+
+.container-r-27 {
+  text-decoration: line-through;
+}
+
+.container-ttt-container-tstorm-integral-volume-1ttttr9999r8499tstrong-1x-ttcontainer-tterry-eos-piratas-volume-dois-ttttr14400r13500tstrong-2x-ttcontainer-ttex-oimplac-vel-tttr10990r5990ttstrong-1x-ttcontainer-txmen-ttttr19590r15631tstrong-1x {
+  row-gap: 31px;
+  column-gap: 31px;
+  padding-top: 143px;
+}
+
+.container-t-container-tstorm-integral-volume-1ttttr9999r8499tstrong-1x {
+  row-gap: 3.3px;
+}
+
+.container-wrapper-12 {
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.container-container-6 {
+  overflow: clip;
+  flex-shrink: 0;
+}
+
+.container-storm-jpg {
+  background-image: url(assets/storm.png);
+  padding-left: 0.2px;
+  padding-right: 138px;
+  flex-shrink: 0;
+}
+
+.container-background-12 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 1.6px;
+  padding-left: 8.8px;
+  padding-right: 8.8px;
+  padding-top: 1.6px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.container-t-promo-o11 {
+  flex-grow: 1;
+  max-width: 59px;
+  padding-bottom: 2.4px;
+}
+
+.container-promo-o11 {
+  line-height: 11px;
+}
+
+.container-t-storm-integral-volume {
+  align-self: stretch;
+  max-width: 215px;
+  padding-left: 4.8px;
+  padding-right: 6.2px;
+  padding-top: 19px;
+}
+
+.container-para-40 {
+  text-align: center;
+}
+
+.container-para-41 {
+  text-align: center;
+}
+
+.container-para-42 {
+  text-align: center;
+}
+
+.container-ttt-r9999r {
+  padding-right: 12px;
+}
+
+.container-tt-r9999r {
+  column-gap: 4.7px;
+  font-family: Oswald, ui-sans-serif, system-ui, sans-serif;
+}
+
+.container-t-r16 {
+  padding-top: 3px;
+}
+
+.container-r-29 {
+  text-decoration: line-through;
+}
+
+.container-t-strong-1x-6 {
+  align-self: stretch;
+  max-width: 215px;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 1.7px;
+}
+
+.container-strong-1x-13 {
+  flex-grow: 1;
+  font-size: 12px;
+}
+
+.container-text-53 {
+  color: dimgray;
+}
+
+.container-text-55 {
+  color: dimgray;
+}
+
+.container-tt-container-tterry-eos-piratas-volume-dois-ttttr14400r13500tstrong-2x-ttcontainer-ttex-oimplac-vel-tttr10990r5990ttstrong-1x {
+  row-gap: 17px;
+  column-gap: 17px;
+}
+
+.container-t-container-tterry-eos-piratas-volume-dois-ttttr14400r13500tstrong-2x {
+  row-gap: 5px;
+}
+
+.container-wrapper-13 {
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.container-container-7 {
+  overflow: clip;
+  flex-shrink: 0;
+}
+
+.container-terry-jpg {
+  background-image: url(assets/terry.png);
+  padding-right: 138px;
+  flex-shrink: 0;
+}
+
+.container-background-13 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 1.6px;
+  padding-left: 8.6px;
+  padding-right: 8.8px;
+  padding-top: 1.6px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.container-t-promo-o12 {
+  flex-grow: 1;
+  max-width: 59px;
+  padding-bottom: 2.4px;
+}
+
+.container-promo-o12 {
+  line-height: 11px;
+}
+
+.container-t-terry-eos-piratas-volume-dois {
+  align-self: stretch;
+  max-width: 215px;
+  padding-left: 4.2px;
+  padding-right: 5px;
+  padding-top: 13px;
+}
+
+.container-para-44 {
+  text-align: center;
+}
+
+.container-para-45 {
+  text-align: center;
+}
+
+.container-tttt-r14400r {
+  padding-top: 3px;
+}
+
+.container-ttt-r14400r {
+  padding-right: 5.6px;
+}
+
+.container-tt-r14400r {
+  column-gap: 4.8px;
+  font-family: Oswald, ui-sans-serif, system-ui, sans-serif;
+}
+
+.container-t-r17 {
+  padding-top: 3px;
+}
+
+.container-r-31 {
+  text-decoration: line-through;
+}
+
+.container-t-strong-2x-2 {
+  align-self: stretch;
+  max-width: 215px;
+  padding-left: 34px;
+  padding-right: 34px;
+}
+
+.container-strong-2x-2 {
+  flex-grow: 1;
+  font-size: 12px;
+}
+
+.container-text-57 {
+  color: dimgray;
+}
+
+.container-text-59 {
+  color: dimgray;
+}
+
+.container-tt-container-ttex-oimplac-vel-tttr10990r5990ttstrong-1x {
+  row-gap: 5px;
+  flex-grow: 1;
+  max-width: 217px;
+  text-align: center;
+}
+
+.container-t-container-2 {
+  padding-right: 1.8px;
+}
+
+.container-wrapper-14 {
+  align-items: center;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.container-container-8 {
+  overflow: clip;
+  flex-shrink: 0;
+}
+
+.container-tex-jpg {
+  left: 9px;
+  background-image: url(assets/tex.png);
+  padding-right: 138px;
+  text-align: center;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.container-background-14 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 2px;
+  padding-left: 8.6px;
+  padding-right: 8.8px;
+  padding-top: 2px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.container-t-promo-o13 {
+  flex-grow: 1;
+  max-width: 59px;
+  padding-bottom: 2px;
+  text-align: center;
+}
+
+.container-promo-o13 {
+  font-size: 11px;
+  color: white;
+  line-height: 11px;
+}
+
+.container-t-tex-oimplac-vel {
+  align-self: stretch;
+  padding-left: 19px;
+  padding-top: 14px;
+}
+
+.container-tex-oimplac-vel {
+  flex-grow: 1;
+}
+
+.container-para-47 {
+  text-align: center;
+}
+
+.container-para-48 {
+  text-align: center;
+}
+
+.container-ttt-r10990r1 {
+  padding-left: 1.5px;
+  padding-top: 11px;
+}
+
+.container-tt-r10990r1 {
+  column-gap: 5.1px;
+  font-family: Oswald, ui-sans-serif, system-ui, sans-serif;
+}
+
+.container-t-r18 {
+  padding-top: 3px;
+}
+
+.container-r-33 {
+  text-decoration: line-through;
+}
+
+.container-strong-1x-14 {
+  font-size: 12px;
+  padding-left: 17px;
+}
+
+.container-para-49 {
+  text-align: center;
+}
+
+.container-text-61 {
+  color: dimgray;
+}
+
+.container-text-63 {
+  color: dimgray;
+}
+
+.container-tt-container-txmen-ttttr19590r15631tstrong-1x {
+  padding-left: 5.8px;
+  padding-top: 0.44px;
+}
+
+.container-t-container-txmen-ttttr19590r15631tstrong-1x {
+  row-gap: 5px;
+}
+
+.container-wrapper-15 {
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.container-container-9 {
+  overflow: clip;
+  flex-shrink: 0;
+}
+
+.container-xmen-jpg {
+  background-image: url(assets/xmen.png);
+  padding-left: 0.05px;
+  padding-right: 138px;
+  flex-shrink: 0;
+}
+
+.container-background-15 {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 1.6px;
+  padding-left: 8.8px;
+  padding-right: 8.8px;
+  padding-top: 1.6px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.container-t-promo-o14 {
+  flex-grow: 1;
+  max-width: 59px;
+  padding-bottom: 2.4px;
+}
+
+.container-promo-o14 {
+  line-height: 11px;
+}
+
+.container-t-xmen {
+  align-self: stretch;
+  max-width: 215px;
+  padding-left: 34px;
+  padding-right: 34px;
+  padding-top: 13px;
+}
+
+.container-xmen {
+  flex-grow: 1;
+}
+
+.container-para-50 {
+  text-align: center;
+}
+
+.container-para-51 {
+  text-align: center;
+}
+
+.container-tttt-r19590r {
+  padding-top: 9px;
+}
+
+.container-ttt-r19590r {
+  padding-right: 18px;
+}
+
+.container-tt-r19590r {
+  column-gap: 4.8px;
+  font-family: Oswald, ui-sans-serif, system-ui, sans-serif;
+}
+
+.container-t-r19 {
+  padding-top: 3px;
+}
+
+.container-r-35 {
+  text-decoration: line-through;
+}
+
+.container-t-strong-1x-7 {
+  align-self: stretch;
+  max-width: 215px;
+  padding-left: 33px;
+  padding-right: 33px;
+}
+
+.container-strong-1x-15 {
+  flex-grow: 1;
+  font-size: 12px;
+}
+
+.container-text-65 {
+  color: dimgray;
+}
+
+.container-text-67 {
+  color: dimgray;
+}
+
+.container-tt-itens-20100ttlabel-ordenar-por-options-tlink {
+  column-gap: 529px;
+  font-size: 14px;
+  flex-shrink: 0;
+}
+
+.container-t-itens {
+  width: 81px;
+  padding-top: 2px;
+  flex-shrink: 0;
+  position: relative;
+  right: 33px;
+}
+
+.container-itens {
+  line-height: 18px;
+}
+
+.container-tt-label-ordenar-por-options-tlink {
+  column-gap: 6.7px;
+  width: 282px;
+  line-height: 20px;
+  flex-shrink: 0;
+}
+
+.container-t-label-ordenar-por {
+  padding-top: 5px;
+}
+
+.container-options {
+  border-style: solid;
+  border-color: lightgray;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  background-color: whitesmoke;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 1),
+    inset 0px -1px 0px 0px rgba(204, 204, 204, 0.3);
+}
+
+.container-tt-bg-select-bg-svg-fill-recentes {
+  padding-bottom: 4.5px;
+  padding-left: 10px;
+  padding-right: 93px;
+  padding-top: 4.5px;
+}
+
+.container-t-bg-select-bg-svg-fill-recentes {
+  padding-bottom: 1px;
+}
+
+.container-bg-select-bg-svg-fill {
+  width: 163px;
+  bottom: -4.5px;
+  right: -93px;
+  top: -4.5px;
+}
+
+.container-recentes {
+  z-index: 2;
+}
+
+.container-t-link {
+  padding-left: 2px;
+  padding-top: 3.3px;
+}
+
+.container-link-2 {
+  width: 16px;
+  height: 23px;
+  flex-shrink: 0;
+}
+@media (min-width: 1230px) {
+  .container-tt-background-border-tcontainer-alegoria-jpg-tarqueiro-jpg-tataques-jpg {
+    flex-wrap: nowrap;
+  }
+  .container-t-container-alegoria-jpg-tarqueiro-jpg-tataques-jpg {
+    flex-wrap: nowrap;
+  }
+  .container-tt-background-border-ttttttalef-ttttr21990r15330tstrong-1x-ttalegoria-ttttr4390r2340strong-1x-tarqueiro-ttttr31490r22043strong-1x-tataques-atlantes-omnibus-capa-dura-ttttr24990r19123tcontainer-tttbane-jpg-vampiro-jpg-crepax-jpg-daredevil-jpg-tttttsaga-do-batman-vol-0541tr3490tstrong-1x-tr2443ttatrilogia-batman-vampiro-ttstrong-1x-tr12990tttcrepax-tr19990tstrong-1x-tr13993tr5000tstrong-1x-tdaredevil-tr2500tttdylandog-jpg-tdylan-dog-oclube-do-terror-tttr14990r10652tstrong-2x-ttconan-jpg-tconan-ttttr3000r1500tstrong-2x-tcontainer-tasaga-do-homem-aranha-20tttr4000r2000tstrong-1x-tespetaculararanha-jpg-toespetacular-homem-aranha-corredor-polon-svol-1r24990tstrong-1x-thulk-jpg-tmotoqueiro-jpg-tmotoquero-jpg-tsuper-jpg-ttttmarvel-essenciais-hulk-contra-omundo-tr11490ttstrong-1x-ttmarvel-max-tr2490container-tmotoquero-tr11032tstrong-1x-treino-do-amanh-edi-odefinitiva-ttttr10990r5993strong-1x-tttcontainer-tstorm-integral-volume-1ttttr9999r8499tstrong-1x-ttcontainer-tterry-eos-piratas-volume-dois-ttttr14400r13500tstrong-2x-ttcontainer-ttex-oimplac-vel-tttr10990r5990ttstrong-1x-ttcontainer-txmen-ttttr19590r15631tstrong-1x {
+    flex-wrap: nowrap;
+  }
+  .container-tttt-alef-ttttr21990r15330tstrong-1x-ttalegoria-ttttr4390r2340strong-1x-tarqueiro-ttttr31490r22043strong-1x-tataques-atlantes-omnibus-capa-dura-ttttr24990r {
+    flex-wrap: nowrap;
+  }
+  .container-tt-alef-ttttr21990r15330tstrong-1x-ttalegoria-ttttr4390r2340strong-1x-tarqueiro-ttttr31490r22043strong-1x {
+    flex-wrap: nowrap;
+  }
+  .container-ttt-bane-jpg-vampiro-jpg-crepax-jpg-daredevil-jpg {
+    flex-wrap: nowrap;
+  }
+  .container-tt-bane-jpg-vampiro-jpg {
+    flex-wrap: nowrap;
+  }
+  .container-ttt-dylandog-jpg-tdylan-dog-oclube-do-terror-tttr14990r10652tstrong-2x-ttconan-jpg-tconan-ttttr3000r1500tstrong-2x-tcontainer-tasaga-do-homem-aranha-20tttr4000r2000tstrong-1x-tespetaculararanha-jpg-toespetacular-homem-aranha-corredor-polon-svol-1r24990tstrong-1x {
+    flex-wrap: nowrap;
+  }
+  .container-tt-dylandog-jpg-tdylan-dog-oclube-do-terror-tttr14990r10652tstrong-2x-ttconan-jpg-tconan-ttttr3000r1500tstrong-2x-tcontainer-tasaga-do-homem-aranha-20tttr4000r2000tstrong-1x {
+    flex-wrap: nowrap;
+  }
+  .container-t-hulk-jpg-tmotoqueiro-jpg-tmotoquero-jpg-tsuper-jpg {
+    flex-wrap: nowrap;
+  }
+  .container-ttt-marvel-essenciais-hulk-contra-omundo-tr11490ttstrong-1x-ttmarvel-max-tr2490container-tmotoquero-tr11032tstrong-1x-treino-do-amanh-edi-odefinitiva-ttttr10990r5993strong-1x {
+    flex-wrap: nowrap;
+  }
+  .container-ttt-container-tstorm-integral-volume-1ttttr9999r8499tstrong-1x-ttcontainer-tterry-eos-piratas-volume-dois-ttttr14400r13500tstrong-2x-ttcontainer-ttex-oimplac-vel-tttr10990r5990ttstrong-1x-ttcontainer-txmen-ttttr19590r15631tstrong-1x {
+    flex-wrap: nowrap;
+  }
+  .container-tt-container-tterry-eos-piratas-volume-dois-ttttr14400r13500tstrong-2x-ttcontainer-ttex-oimplac-vel-tttr10990r5990ttstrong-1x {
+    flex-wrap: nowrap;
+  }
+}
