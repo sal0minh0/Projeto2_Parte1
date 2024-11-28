@@ -2,7 +2,10 @@
 @import url("https://api.fontshare.com/css?f[]=lato@400,700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;700");
 @import url("https://api.fontshare.com/css?f[]=oswald@400,700&display=swap");
-@import url("https://fonts.googleapis.com/css?family-Poppins:200,300,400,500,600,700,800,900&display=swap");
+
+html {
+  scroll-behavior: smooth;
+}
 
 p,
 ol,
@@ -4032,6 +4035,125 @@ input {
   }
 }
 
-/* Botão animado*/
+/*popup*/
+
+.body-adicionar, 
+.popup-wrapper, 
+.popup, 
+.popup-close, 
+.popup-content,
+.popup-link {
+box-sizing: border-box;
+}
+
+.popup-wrapper{
+  display: none;
+  background: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.popup {
+  font-family: arial;
+  font-style: italic;
+  text-align: center;
+  width: 100%;
+  max-width: 300px;
+  margin: 10% auto;
+  padding: 20px;
+  background: white;
+  position: relative;
+  border-radius: 20px;
+  border: 1px solid gray;
+}
+
+.popup-link {
+  color: rgba(0, 0, 0, 0.7);
+  cursor: pointer;
+  padding: 2px 5px;
+  text-decoration: none;
+  background: yellow;
+  border-radius: 3px;
+  position: relative;
+  top: 5px;
+  border: 1px solid gray;
+}
+
+.popup-close {
+  position: absolute;
+  top: 8px;   
+  cursor: pointer;
+  font-style: normal;
+  border: black;
+  background: yellow;
+  border: 1px solid gray;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 100%
+
+}
+/* */
+.body-adicionar-1, 
+.popup-wrapper-1, 
+.popup-1, 
+.popup-close-1, 
+.popup-content,
+.popup-link-1 {
+box-sizing: border-box;
+}
+
+.popup-wrapper-1 {
+  display: none;
+  background: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.popup-1 {
+  font-family: arial;
+  font-style: italic;
+  text-align: center;
+  width: 100%;
+  max-width: 300px;
+  margin: 10% auto;
+  padding: 20px;
+  background: white;
+  position: relative;
+  border-radius: 20px;
+  border: 1px solid gray;
+}
+
+.popup-link-1{
+  color: rgba(0, 0, 0, 0.7);
+  cursor: pointer;
+  padding: 2px 5px;
+  text-decoration: none;
+  background: yellow;
+  border-radius: 3px;
+  position: relative;
+  top: 5px;
+  border: 1px solid gray;
+}
+
+.popup-close-1 {
+  position: absolute;
+  top: 8px;   
+  cursor: pointer;
+  font-style: normal;
+  border: black;
+  background: yellow;
+  border: 1px solid gray;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 100%
+
+}
+
 
 
