@@ -1,4 +1,8 @@
-let resumo = document.getElementById('descricao'); 
+let produtos = JSON.parse(sessionStorage.getItem('produtos')) || [];
 
-resumo.innerHTML = '<strong> Produto(s): </strong>' 
-+ sessionStorage.descricao + '<strong>' + ' - ' + sessionStorage.valor + '<strong><br><br>';
+let resumo = document.getElementById('data-nome');
+
+produtos.forEach(produto => {
+  resumo.innerHTML += '<strong> Produto(s): </strong>' 
+    + produto.descricao + '<strong>' + ' - ' + produto.valor + '</strong><br><br>';
+});
