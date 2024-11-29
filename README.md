@@ -109,6 +109,32 @@ Podem ser fechados manualmente clicando em áreas ou botões específicos.
 
 Utiliza temporizadores para evitar sobreposição de popups e garantir uma experiência de usuário fluida.
 
+*'''
+procuraproduto.js (não fincionou)
+'''*
+
+1. Busca em Tempo Real:
+
+2. Filtragem de Resultados:
+
+3. Exibição de Resultados (displayResults):
+
+4. Esconder Resultados (hideResults):
+
+5. Posicionamento Dinâmico do Popup:
+
+Objetivo Geral:
+
+Este código implementa um sistema de busca em tempo real com as seguintes funcionalidades:
+
+Busca dinâmica por itens baseados em seus atributos data-nome.
+
+Exibição de sugestões filtradas em um popup, posicionado dinamicamente.
+
+Ocultação do popup quando não há resultados ou quando o campo de busca está vazio.
+
+
+
 
 
 
