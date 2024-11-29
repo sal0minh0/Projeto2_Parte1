@@ -12,7 +12,7 @@
 
 #### **_Agora temos muitos programas: Com JavaScript_**
 
-[Design no Figma atualizado](https://www.figma.com/design/OKRCQhZmaMFCgiEUzqGZlQ/ProjetoWeb2_Design?node-id=0-1&node-type=canvas&t=TKM1ahAVRj4GyLsj-0)
+[Design no Figma atualizado]([https://www.figma.com/design/OKRCQhZmaMFCgiEUzqGZlQ/ProjetoWeb2_Design?node-id=0-1&node-type=canvas&t=TKM1ahAVRj4GyLsj-0](https://www.figma.com/design/TYJOMPXugFYI4cmmUnhz0r/ProjetoWeb2_Design?fuid=1439971536536702876&classId=25bb3b42-ce93-41f1-9db8-7ae421637f6b&assignmentId=0eca69dc-687b-4700-a310-0c39987aca32&submissionId=63a244d0-f896-300a-a7f5-3cbbfdaa7b47)
 
 </u>
 
