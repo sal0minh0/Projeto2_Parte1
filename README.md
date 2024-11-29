@@ -23,13 +23,13 @@ https://comicbook-store.netlify.app/
 
 # Descrição dos programas em JS
 
-<h2>
+<h2><br>
   
 ***'''
 adicionarproduto.js
 ***'''
 
-</h2><br><br>
+</h2><br>
 
 Esse programa é um sistema simples de gerenciamento de produtos na página. Eis a ideia principal:
 
@@ -42,34 +42,34 @@ Objetivo Geral:
 
 O programa serve para criar uma lista dinâmica de produtos selecionados pelo usuário, com exibição em tempo real e armazenamento temporário no sessionStorage. É útil para sistemas como carrinhos de compras ou listas de pedidos.
 
-<h2> 
+<h2><br> 
   
 ***'''
 atualizacoesemail.js
 ***''' 
 
-</h2><br><br>
+</h2><br>
 
 Esse programa é uma simulação de envio de atualizaçõea da loja com email, com um popup para se verficar o Email foi colocado no input
 ou não.
 
-<h2> 
+<h2><br> 
   
 ***'''
 cadastrofeito.js
 ***'''
 
-</h2><br><br>
+</h2><br>
 
 Esse programa é uma simulação de cadastro verificando se as sessões obrigatorias estão sendo inseridas e retornando um popup informando cadastro feito.
 
-<h2> 
+<h2><br> 
   
 ***'''
 contadorcarrinho.js
 ***''' 
   
-</h2><br><br>
+</h2><br>
 
 
 1. Função Principal: initCart
@@ -93,34 +93,34 @@ Atualiza a exibição em tempo real.
 Permite a interação com botões vinculados a produtos específicos.
 
 
-<h2> 
+<h2><br> 
   
 ***'''
 indexresumo.js
 ***''' 
 
-</h2><br><br>
+</h2><br>
 
 
 Manda funções para redicionar para páginas específicas
 
-<h2> 
+<h2><br> 
   
 ***'''
 loginfeito.js
 ***''' 
 
-</h2><br><br>
+</h2><br>
 
 Esse programa é uma simulação de login verificando se o email está sendo inserido e retornando um popup informando login feito.
 
-<h2> 
+<h2><br> 
   
 ***'''
 popupbotao.js
 ***''' 
   
-</h2><br><br>
+</h2><br>
 
 1. Exibição de Popups ao Clicar nos Botões
 
@@ -138,13 +138,13 @@ Podem ser fechados manualmente clicando em áreas ou botões específicos.
 
 Utiliza temporizadores para evitar sobreposição de popups e garantir uma experiência de usuário fluida.
 
-<h2> 
+<h2><br> 
   
 ***'''
 procuraproduto.js (não fincionou)
 ***''' 
 
-</h2><br><br>
+</h2><br>
 
 1. Busca em Tempo Real
 
@@ -166,13 +166,13 @@ Exibição de sugestões filtradas em um popup, posicionado dinamicamente.
 
 Ocultação do popup quando não há resultados ou quando o campo de busca está vazio.
 
-<h2> 
+<h2><br> 
   
 ***'''
 resumo.js
 ***'''
 
-</h2><br><br>
+</h2><br>
 
 1. Carregamento dos Produtos
 
