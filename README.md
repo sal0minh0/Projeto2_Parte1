@@ -23,11 +23,11 @@ https://comicbook-store.netlify.app/
 
 # Descrição dos programas em JS
 
-<h2><br>
+<h2>
   
-***'''
+'''
 adicionarproduto.js
-***'''
+'''
 
 </h2><br>
 
@@ -44,9 +44,9 @@ O programa serve para criar uma lista dinâmica de produtos selecionados pelo us
 
 <h2><br> 
   
-***'''
+'''
 atualizacoesemail.js
-***''' 
+''' 
 
 </h2><br>
 
@@ -55,9 +55,9 @@ ou não.
 
 <h2><br> 
   
-***'''
+'''
 cadastrofeito.js
-***'''
+'''
 
 </h2><br>
 
@@ -65,9 +65,9 @@ Esse programa é uma simulação de cadastro verificando se as sessões obrigato
 
 <h2><br> 
   
-***'''
+'''
 contadorcarrinho.js
-***''' 
+''' 
   
 </h2><br>
 
@@ -95,9 +95,9 @@ Permite a interação com botões vinculados a produtos específicos.
 
 <h2><br> 
   
-***'''
+'''
 indexresumo.js
-***''' 
+''' 
 
 </h2><br>
 
@@ -106,9 +106,9 @@ Manda funções para redicionar para páginas específicas
 
 <h2><br> 
   
-***'''
+'''
 loginfeito.js
-***''' 
+''' 
 
 </h2><br>
 
@@ -116,9 +116,9 @@ Esse programa é uma simulação de login verificando se o email está sendo ins
 
 <h2><br> 
   
-***'''
+'''
 popupbotao.js
-***''' 
+''' 
   
 </h2><br>
 
@@ -140,9 +140,9 @@ Utiliza temporizadores para evitar sobreposição de popups e garantir uma exper
 
 <h2><br> 
   
-***'''
+'''
 procuraproduto.js (não fincionou)
-***''' 
+''' 
 
 </h2><br>
 
@@ -168,9 +168,9 @@ Ocultação do popup quando não há resultados ou quando o campo de busca está
 
 <h2><br> 
   
-***'''
+'''
 resumo.js
-***'''
+'''
 
 </h2><br>
 
