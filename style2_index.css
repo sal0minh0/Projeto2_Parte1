@@ -4099,5 +4099,24 @@ box-sizing: border-box;
   border-radius: 100%
 
 }
-/* */
+/*popup-search*/
 
+#search-popup {
+  display: none;
+  position: absolute;
+  background-color: white;
+  border: 1px solid #ccc;
+  z-index: 1000;
+  width: 200px;
+  max-height: 150px;
+  overflow-y: auto;
+}
+
+#search-results .result-item {
+  padding: 10px;
+  cursor: pointer;
+}
+
+#search-results .result-item:hover {
+  background-color: #f0f0f0;
+}
