@@ -113,15 +113,15 @@ Utiliza temporizadores para evitar sobreposição de popups e garantir uma exper
 procuraproduto.js (não fincionou)
 '''*
 
-1. Busca em Tempo Real:
+1. Busca em Tempo Real
 
-2. Filtragem de Resultados:
+2. Filtragem de Resultados
 
-3. Exibição de Resultados (displayResults):
+3. Exibição de Resultados (displayResults)
 
-4. Esconder Resultados (hideResults):
+4. Esconder Resultados (hideResults)
 
-5. Posicionamento Dinâmico do Popup:
+5. Posicionamento Dinâmico do Popup
 
 Objetivo Geral:
 
@@ -132,6 +132,24 @@ Busca dinâmica por itens baseados em seus atributos data-nome.
 Exibição de sugestões filtradas em um popup, posicionado dinamicamente.
 
 Ocultação do popup quando não há resultados ou quando o campo de busca está vazio.
+
+*'''
+resumo.js
+'''*
+
+1. Carregamento dos Produtos
+
+2. Exibição dos Produtos
+
+3. Cálculo do Valor Total da Compra
+
+4. Evento de Alteração na Quantidade
+
+
+Objetivo Geral:
+
+Este código implementa uma funcionalidade para exibir produtos selecionados e calcular dinamicamente o valor total da compra com base na quantidade informada pelo usuário. A interação entre o campo de quantidade e a exibição do valor total garante uma experiência de compra em tempo real.
+
 
 
 
