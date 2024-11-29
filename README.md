@@ -1,4 +1,4 @@
-# Site de uma Loja de Quadrinhos
+I'm# Site de uma Loja de Quadrinhos
 
 <img width="300px" height="250px" src="assets/logo.jpg"/>
 
@@ -46,5 +46,7 @@ Esse programa é uma simulação de envio de atualizaçõea da loja com email, c
 ou não.
 
 '''
-
+cadastrofeito.js
 '''
+Esse programa é uma simulação de cadastro verificando se as sessões obrigatorias estão sendo inseridas e retornando um popup informado cadastro feito.
+
