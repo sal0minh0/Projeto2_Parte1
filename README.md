@@ -27,28 +27,12 @@ https://comicbook-store.netlify.app/
 adicionarproduto.js
 '''
 
-Esse programa é um sistema simples de gerenciamento de produtos em uma página web. Ele utiliza JavaScript e sessionStorage para armazenar temporariamente informações sobre produtos adicionados. Eis a ideia principal:
+Esse programa é um sistema simples de gerenciamento de produtos na página. Eis a ideia principal:
 
-1. Armazenar Produtos:
-A função adicionarProduto adiciona objetos representando produtos (descricao e valor) a uma lista armazenada no sessionStorage. Isso permite que os dados sejam preservados enquanto a página estiver aberta, mas serão perdidos ao fechar o navegador.
-
-
-2. Atualizar o Resumo:
-A função atualizarResumo atualiza uma seção da página (elemento com ID descricao), exibindo a lista de produtos armazenados no sessionStorage.
-
-
-3. Interação com Botões:
-
-Cada botão com as classes .body-adicionar ou .body-pr-venda é configurado para capturar o clique do usuário.
-
-Quando clicado, o botão busca informações sobre o produto (descrição e valor) a partir de elementos no HTML (data-nome e data-valor) e chama a função adicionarProduto.
-
-
-
-4. Persistência Temporária e Carregamento Inicial:
-Quando a página é carregada, a função atualizarResumo é chamada para exibir os produtos já adicionados durante a sessão.
-
-
+1. Armazenar Produtos
+2. Atualizar o Resumo
+3. Interação com Botões
+4. Persistência Temporária e Carregamento Inicial
 
 Objetivo Geral:
 
