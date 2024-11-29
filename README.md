@@ -1,4 +1,4 @@
-I'm# Site de uma Loja de Quadrinhos
+# Site de uma Loja de Quadrinhos
 
 <img width="300px" height="250px" src="assets/logo.jpg"/>
 
@@ -49,4 +49,31 @@ ou não.
 cadastrofeito.js
 '''
 Esse programa é uma simulação de cadastro verificando se as sessões obrigatorias estão sendo inseridas e retornando um popup informado cadastro feito.
+
+'''
+contadorcarrinho.js
+'''
+
+1. Função Principal: initCart
+
+2. Carrinho como Objeto
+
+3. Atualiza a Exibição e soma para contar os produtos do Carrinho: updateCartDisplay
+
+4. Adicionar Itens ao Carrinho (addToCart):
+
+5. Configuração de Eventos
+
+6. Inicialização do DomContentLoaded
+
+Objetivo Geral:
+
+O código implementa um sistema de contador de compras dinâmico que:
+
+Atualiza a exibição em tempo real.
+
+Permite a interação com botões vinculados a produtos específicos.
+
+
+
 
