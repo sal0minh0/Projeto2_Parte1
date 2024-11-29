@@ -29,7 +29,7 @@ https://comicbook-store.netlify.app/
 adicionarproduto.js
 ***'''
 
-</h2>
+</h2><br><br>
 
 Esse programa é um sistema simples de gerenciamento de produtos na página. Eis a ideia principal:
 
@@ -48,7 +48,7 @@ O programa serve para criar uma lista dinâmica de produtos selecionados pelo us
 atualizacoesemail.js
 ***''' 
 
-</h2>
+</h2><br><br>
 
 Esse programa é uma simulação de envio de atualizaçõea da loja com email, com um popup para se verficar o Email foi colocado no input
 ou não.
@@ -59,7 +59,7 @@ ou não.
 cadastrofeito.js
 ***'''
 
-</h2>
+</h2><br><br>
 
 Esse programa é uma simulação de cadastro verificando se as sessões obrigatorias estão sendo inseridas e retornando um popup informando cadastro feito.
 
@@ -69,7 +69,7 @@ Esse programa é uma simulação de cadastro verificando se as sessões obrigato
 contadorcarrinho.js
 ***''' 
   
-</h2>
+</h2><br><br>
 
 
 1. Função Principal: initCart
@@ -99,7 +99,7 @@ Permite a interação com botões vinculados a produtos específicos.
 indexresumo.js
 ***''' 
 
-</h2>
+</h2><br><br>
 
 
 Manda funções para redicionar para páginas específicas
@@ -110,7 +110,7 @@ Manda funções para redicionar para páginas específicas
 loginfeito.js
 ***''' 
 
-</h2>
+</h2><br><br>
 
 Esse programa é uma simulação de login verificando se o email está sendo inserido e retornando um popup informando login feito.
 
@@ -120,7 +120,7 @@ Esse programa é uma simulação de login verificando se o email está sendo ins
 popupbotao.js
 ***''' 
   
-</h2>
+</h2><br><br>
 
 1. Exibição de Popups ao Clicar nos Botões
 
@@ -144,7 +144,7 @@ Utiliza temporizadores para evitar sobreposição de popups e garantir uma exper
 procuraproduto.js (não fincionou)
 ***''' 
 
-</h2>
+</h2><br><br>
 
 1. Busca em Tempo Real
 
@@ -172,7 +172,7 @@ Ocultação do popup quando não há resultados ou quando o campo de busca está
 resumo.js
 ***'''
 
-</h2>
+</h2><br><br>
 
 1. Carregamento dos Produtos
 
