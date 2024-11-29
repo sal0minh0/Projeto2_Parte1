@@ -90,7 +90,7 @@ loginfeito.js
 Esse programa é uma simulação de login verificando se o email está sendo inserido e retornando um popup informando login feito.
 
 ***'''
-popup.js
+popupbotao.js
 '''***
 
 1. Exibição de Popups ao Clicar nos Botões
