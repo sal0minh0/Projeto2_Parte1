@@ -89,5 +89,27 @@ loginfeito.js
 
 Esse programa é uma simulação de login verificando se o email está sendo inserido e retornando um popup informando login feito.
 
+*'''
+popup.js
+'''*
+
+1. Exibição de Popups ao Clicar nos Botões
+
+2. Controle do Tempo de Exibição
+
+3. Fechamento Manual do Popup
+
+Objetivo Geral:
+
+Esse código gerencia popups dinâmicos que:
+
+São exibidos temporariamente (3 segundos) ao clicar em botões específicos.
+
+Podem ser fechados manualmente clicando em áreas ou botões específicos.
+
+Utiliza temporizadores para evitar sobreposição de popups e garantir uma experiência de usuário fluida.
+
+
+
 
 
