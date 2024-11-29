@@ -23,9 +23,9 @@ https://comicbook-store.netlify.app/
 
 # Descrição dos programas em JS
 
-*'''
+***'''
 adicionarproduto.js
-'''*
+'''***
 
 Esse programa é um sistema simples de gerenciamento de produtos na página. Eis a ideia principal:
 
