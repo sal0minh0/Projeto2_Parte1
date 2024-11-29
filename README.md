@@ -23,7 +23,9 @@ https://comicbook-store.netlify.app/
 
 # Descrição dos programas em JS
 
-
+'''
+adicionarproduto.js
+'''
 
 Esse programa é um sistema simples de gerenciamento de produtos em uma página web. Ele utiliza JavaScript e sessionStorage para armazenar temporariamente informações sobre produtos adicionados. Eis a ideia principal:
 
