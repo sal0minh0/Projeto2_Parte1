@@ -1,6 +1,6 @@
 let produtos = JSON.parse(sessionStorage.getItem('produtos')) || [];
 
-let resumo = document.getElementById('data-nome');
+let resumo = document.getElementById('descricao');
 
 produtos.forEach(produto => {
   resumo.innerHTML += '<strong> Produto(s): </strong>' 
