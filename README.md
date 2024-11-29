@@ -49,7 +49,7 @@ ou não.
 cadastrofeito.js
 '''
 
-Esse programa é uma simulação de cadastro verificando se as sessões obrigatorias estão sendo inseridas e retornando um popup informado cadastro feito.
+Esse programa é uma simulação de cadastro verificando se as sessões obrigatorias estão sendo inseridas e retornando um popup informando cadastro feito.
 
 '''
 contadorcarrinho.js
@@ -84,10 +84,8 @@ indexresumo.js
 Manda funções para redicionar para páginas específicas
 
 '''
-
-
-
+loginfeito.js
 '''
 
-
+Esse programa é uma simulação de login verificando se o email está sendo inserido e retornando um popup informando login feito.
 
