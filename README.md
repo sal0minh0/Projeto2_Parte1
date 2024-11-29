@@ -48,11 +48,13 @@ ou não.
 '''
 cadastrofeito.js
 '''
+
 Esse programa é uma simulação de cadastro verificando se as sessões obrigatorias estão sendo inseridas e retornando um popup informado cadastro feito.
 
 '''
 contadorcarrinho.js
 '''
+
 
 1. Função Principal: initCart
 
