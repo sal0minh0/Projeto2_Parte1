@@ -38,3 +38,13 @@ Objetivo Geral:
 
 O programa serve para criar uma lista dinâmica de produtos selecionados pelo usuário, com exibição em tempo real e armazenamento temporário no sessionStorage. É útil para sistemas como carrinhos de compras ou listas de pedidos.
 
+'''
+atualizacoesemail.js
+'''
+
+Esse programa é uma simulação de envio de atualizaçõea da loja com email, com um popup para se verficar o Email foi colocado no input
+ou não.
+
+'''
+
+'''
