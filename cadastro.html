@@ -10,6 +10,8 @@
     <title>Tela de Cadastro</title>
     <link rel="stylesheet" type="text/css" href="style_cadastro.css" />
     <link rel="stylesheet" type="text/css" href="style2_cadastro.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+    
   </head>
   <body style="margin: 0px">
     <div id="c">
@@ -171,9 +173,8 @@
                                 </div>
                               </div>
                               <div class="body-input-firstname">
-                                <div class="body-div-field-2">
+                                <input class="body-div-field-2">
                                   <div class="body-label-label-2"></div>
-                                </div>
                               </div>
                             </div>
                           </div>
@@ -187,7 +188,7 @@
                                   </div>
                                 </div>
                               </div>
-                              <div class="body-input-lastname"></div>
+                              <input class="body-input-lastname">
                             </div>
                           </div>
                           <div class="body-tt-div-field-tbutton-ui-datepicker-trigger" >
@@ -204,7 +205,7 @@
                                     </div>
                                   </div>
                                 </div>
-                                <div class="body-input-dob"></div>
+                                <input class="body-input-dob"></input>
                               </div>
                               <div class="body-t-button-ui-datepicker-trigger">
                                 <div class="body-button-ui-datepicker-trigger">
@@ -221,7 +222,7 @@
                             </div>
                           </div>
                           <div class="body-t-input-regi-o">
-                            <div class="body-input-regi-o"></div>
+                            <input class="body-input-regi-o"></input>
                           </div>
                           <div class="body-t-apenas-maiores-de-13anos-podem-comprar-no-site" >
                             <div class="body-apenas-maiores-de-13anos-podem-comprar-no-site" >
@@ -250,7 +251,7 @@
                                   </div>
                                 </div>
                               </div>
-                              <div class="body-input-email_address"></div>
+                              <input class="body-input-email_address">
                             </div>
                             <div class="body-t-div-field-4">
                               <div class="body-div-field-7">
@@ -273,7 +274,7 @@
                         </div>
                         <div class="body-t-div-control" style="position: relative; right: 7px;">
                           <div class="body-div-control">
-                            <div class="body-input-password"></div>
+                            <input class="body-input-password"></input>
                             <div class="body-for-ada-senha-sem-senha">
                               Força da senha: Sem senha
                             </div>
@@ -281,7 +282,7 @@
                         </div>
                       </div>
                       <div class="body-button-action">
-                        <div class="body-criar-conta">Criar Conta</div>
+                        <button onClick="irHome()" class="body-criar-conta">Criar Conta</button>
                       </div>
                     </div>
                   </div>
@@ -452,6 +453,9 @@
         </div>
       </div>
     </div>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script type="text/javascript" src="indexresumo.js"></script>
+    <script type="text/javascript" src="cadastrofeito.js"></script>
   </body>
 </html>
 

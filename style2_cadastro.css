@@ -1061,9 +1061,10 @@ input {
   mix-blend-mode: normal;
   margin-bottom: -6px;
   height: 38px;
-  padding-left: 19px;
-  padding-right: 492px;
-  display: flex;
+  padding-left: 0px;
+  padding-right: 440px;
+  display: flex
+;
   flex-shrink: 0;
 }
 
