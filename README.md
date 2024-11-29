@@ -77,5 +77,17 @@ Atualiza a exibição em tempo real.
 Permite a interação com botões vinculados a produtos específicos.
 
 
+'''
+indexresumo.js
+'''
+
+Manda funções para redicionar para páginas específicas
+
+'''
+
+
+
+'''
+
 
 
