@@ -23,9 +23,9 @@ https://comicbook-store.netlify.app/
 
 # Descrição dos programas em JS
 
-'''
+*'''
 adicionarproduto.js
-'''
+'''*
 
 Esse programa é um sistema simples de gerenciamento de produtos na página. Eis a ideia principal:
 
@@ -38,22 +38,22 @@ Objetivo Geral:
 
 O programa serve para criar uma lista dinâmica de produtos selecionados pelo usuário, com exibição em tempo real e armazenamento temporário no sessionStorage. É útil para sistemas como carrinhos de compras ou listas de pedidos.
 
-'''
+*'''
 atualizacoesemail.js
-'''
+'''*
 
 Esse programa é uma simulação de envio de atualizaçõea da loja com email, com um popup para se verficar o Email foi colocado no input
 ou não.
 
-'''
+*'''
 cadastrofeito.js
-'''
+'''*
 
 Esse programa é uma simulação de cadastro verificando se as sessões obrigatorias estão sendo inseridas e retornando um popup informando cadastro feito.
 
-'''
+*'''
 contadorcarrinho.js
-'''
+'''*
 
 
 1. Função Principal: initCart
@@ -77,15 +77,17 @@ Atualiza a exibição em tempo real.
 Permite a interação com botões vinculados a produtos específicos.
 
 
-'''
+*'''
 indexresumo.js
-'''
+'''*
 
 Manda funções para redicionar para páginas específicas
 
-'''
+*'''
 loginfeito.js
-'''
+'''*
 
 Esse programa é uma simulação de login verificando se o email está sendo inserido e retornando um popup informando login feito.
+
+
 
